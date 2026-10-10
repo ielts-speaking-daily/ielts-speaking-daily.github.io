@@ -4,7 +4,7 @@
 
 ## 资料入口
 
-发布后根地址：`https://ielts-speaking-daily.github.io/`（是否已发布以 GitHub Pages 状态为准）。
+网站根地址：`https://ielts-speaking-daily.github.io/`（2026-10-10 已验证公开可访问；使用时仍应读取最新数据）。
 
 - [无需 JavaScript 的完整入口](dot/index.html)：30 天逐日链接、已确认人设、三 Part 全部 650 题。
 - [原始题库及日程](data/corpus.json)：大陆 577、海外 73；保留稳定题号、完整原题、Part 2 全部提示、中英参考、候选标记及源文问题。
