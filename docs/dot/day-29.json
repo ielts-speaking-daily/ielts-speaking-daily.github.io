@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "day": 29,
+  "date": "2026-11-06",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-193",
+    "QB-20261008-01-P1-194",
+    "QB-20261008-01-P1-195",
+    "QB-20261008-01-P1-196",
+    "QB-20261008-01-P1-197",
+    "QB-20261008-01-P1-198",
+    "QB-20261008-01-P1-199",
+    "QB-20261008-01-P1-200",
+    "QB-20261008-01-P2-051",
+    "QB-20261008-01-P2-052",
+    "QB-20261008-01-P3-291",
+    "QB-20261008-01-P3-292",
+    "QB-20261008-01-P3-293",
+    "QB-20261008-01-P3-294",
+    "QB-20261008-01-P3-295",
+    "QB-20261008-01-P3-296",
+    "QB-20261008-01-P3-297",
+    "QB-20261008-01-P3-298",
+    "QB-20261008-01-P3-299",
+    "QB-20261008-01-P3-300",
+    "QB-20261008-01-P3-301",
+    "QB-20261008-01-P3-302"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-193",
+      "part": 1,
+      "title": "The area you live in",
+      "region": "大陆",
+      "text": "Where do you like to go in that area?",
+      "english": "I'd choose a nearby place where I could walk or read quietly. I wouldn't need somewhere famous; having an easy escape from my computer would be useful.",
+      "chinese": "我会选附近能安静散步或阅读的地方。不需要很有名；能轻松暂时离开电脑就很有用。",
+      "keywords": [
+        "read quietly",
+        "an easy escape"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-194",
+      "part": 1,
+      "title": "The area you live in",
+      "region": "大陆",
+      "text": "Do you know any famous people in your area?",
+      "english": "Not personally. I'd know about some public figures through the news, but that isn't the same as knowing them or having a connection with them.",
+      "chinese": "不认识本人。我可能通过新闻知道一些公众人物，但那与认识他们或和他们有联系不是一回事。",
+      "keywords": [
+        "not personally",
+        "public figures"
+      ],
+      "pending": [
+        "不认识本地名人的候选答法，实际关系未知。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-195",
+      "part": 1,
+      "title": "The area you live in",
+      "region": "大陆",
+      "text": "What are some changes in the area recently?",
+      "english": "I've noticed a few small changes, such as new shops and improvements to pavements. They aren't dramatic, but practical changes can make everyday trips easier.",
+      "chinese": "我注意到一些小变化，比如新商店和人行道改善。它们并不巨大，但实用改动能让日常出行更方便。",
+      "keywords": [
+        "improvements to pavements",
+        "practical changes"
+      ],
+      "pending": [
+        "新店与人行道改善为候选社区观察，不代表真实附近变化。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-196",
+      "part": 1,
+      "title": "The area you live in",
+      "region": "大陆",
+      "text": "Do you know any of your neighbors?",
+      "english": "Only casually. I'd say hello to familiar faces, but I'm generally quiet until I know someone better. Friendly small interactions would be enough to begin with.",
+      "chinese": "只是普通认识。我会向熟悉面孔打招呼，但在更熟悉之前通常比较安静。一开始友好的简短互动就够了。",
+      "keywords": [
+        "familiar faces",
+        "small interactions"
+      ],
+      "pending": [
+        "性格真实；邻居认识程度与互动习惯为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-197",
+      "part": 1,
+      "title": "The area you live in",
+      "region": "大陆",
+      "text": "Are the people in your neighborhood nice and friendly?",
+      "english": "From the small interactions I have, they seem polite. I wouldn't claim to know everyone's personality, but simple greetings can make the neighbourhood feel more welcoming.",
+      "chinese": "从一些简短互动来看，他们似乎礼貌。我不会说了解所有人的性格，但简单问候能让社区更亲切。",
+      "keywords": [
+        "simple greetings",
+        "welcoming"
+      ],
+      "pending": [
+        "邻居交往与礼貌观察为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-198",
+      "part": 1,
+      "title": "The area you live in",
+      "region": "大陆",
+      "text": "Do you live in a noisy or a quiet area?",
+      "english": "I'd describe it as fairly quiet most of the time, although some traffic noise is normal. A peaceful environment would be helpful when I want to read or concentrate.",
+      "chinese": "我会把它描述成大多数时候相当安静，不过有点交通噪声很正常。安静环境有利于阅读或专注。",
+      "keywords": [
+        "fairly quiet",
+        "traffic noise"
+      ],
+      "pending": [
+        "实际住所噪声情况未知；此为候选环境描述。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-199",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "What city do you live in?",
+      "english": "I live in a city in Guangdong, in southern China. That's my current home, while my hometown is a small county town in the northeast of the country.",
+      "chinese": "我住在中国南方广东的一座城市。这是现居地，家乡则是中国东北的小县城。",
+      "keywords": [
+        "Guangdong",
+        "my current home"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-200",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "Do you like this city? Why?",
+      "english": "I'd appreciate the convenience of city life, especially having services nearby. I wouldn't need constant entertainment, though; enough space for a calm daily routine would matter more to me.",
+      "chinese": "我会欣赏城市生活的便利，尤其是附近有各种服务。不过，我不需要不停娱乐；能保持平静日常更重要。",
+      "keywords": [
+        "city life",
+        "a calm routine"
+      ],
+      "pending": [
+        "城市喜好与服务情况为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-051",
+      "part": 2,
+      "title": "改变重要想法",
+      "region": "大陆",
+      "text": "Describe a time when you changed an important opinion of yours\nYou should say:\nWhen you changed your opinion\nWhat the original opinion was\nWhy you changed it\nAnd explain how you felt about the experience",
+      "english": "An important opinion I changed was the idea that an impressive demonstration is enough to show that an AI system is useful. Earlier this year, while thinking more carefully about robotics, I began to see the limits of that view.\n\nOriginally, I was strongly attracted to a system that could complete a task in a short video. If the result looked smooth, it was easy to assume that the underlying technology was ready for practical use. But a demonstration may show only the best attempt under carefully selected conditions.\n\nWhat changed my mind was considering how the same system would behave when the situation was slightly different. A robot might face an unfamiliar object, poor lighting or a person moving unexpectedly. Those conditions reveal whether it can actually cope, rather than simply repeat a successful example.\n\nI now think reliability, testing and clear limits matter as much as an attractive demonstration. I felt that the new view was less exciting at first, but more realistic. It did not make me less interested in AI. Instead, it made the questions I wanted to ask more useful: not just whether something can work once, but whether people can depend on it.",
+      "chinese": "我改变的一个重要观点，是认为令人印象深刻的演示足以证明AI有用。今年较早时，更认真思考机器人后，我开始看到这种想法的局限。\n\n原先，我很容易被短视频中成功完成任务的系统吸引。如果结果流畅，就容易以为技术已可实际使用。但演示可能只展示精心挑选的条件下表现最好的一次尝试。\n\n改变想法的是思考同一系统在情境略有变化时会怎样。机器人可能遇到陌生物体、光线不好，或有人突然移动。这些情况才说明它能否应对，而非只重复成功例子。\n\n现在我认为可靠性、测试和明确局限，与漂亮演示同样重要。起初新观点没那么令人兴奋，却更现实，也没让我失去AI兴趣，反而让问题更有用：不只看能否成功一次，而是看人们能否依赖它。",
+      "keywords": [
+        "an impressive demonstration",
+        "selected conditions",
+        "unfamiliar situations",
+        "reliability and testing",
+        "depend on it"
+      ],
+      "pending": [
+        "旧观点、观点改变时间和思考过程为候选成长故事，尚未确认，不作为用户真实研究记录。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-052",
+      "part": 2,
+      "title": "想要颁布的环保法律",
+      "region": "大陆",
+      "text": "Describe an environmental law you would like your country to introduce\nYou should say:\nWhat law it should be\nWhy people should follow the law\nWhether the law will be popular\nAnd explain how you feel about this law",
+      "english": "An environmental law I would like to see introduced is a requirement for electronic products to carry clear information about how repairable they are. Manufacturers would need to explain whether common parts can be replaced and how long suitable spare parts will be available.\n\nThe reason is that a small fault can sometimes lead people to replace an entire device. If they knew a repair was possible and affordable, they might keep it longer. That could reduce waste and the resources needed to produce a new product. Shops and manufacturers would need to follow the rule so consumers could compare information fairly.\n\nI think the law could be popular with people who want to avoid unnecessary spending. Some companies might object because providing parts and clear information takes effort. So the requirement would need a practical timetable and consistent standards rather than a vague promise.\n\nI would feel positive about it because it connects environmental protection with an everyday decision. It would not force everyone to keep a broken device forever, but it would give them a realistic choice before buying something new. That seems more helpful than simply telling people to consume less.",
+      "chinese": "我希望推出一条环保法规，要求电子产品清楚标明可维修程度。制造商需要说明常见零件能否更换，以及合适的备件能供应多久。\n\n原因是，一个小故障有时就会让人更换整台设备。如果知道能够维修，而且费用合理，人们就可能使用更久，从而减少废弃物，以及生产新产品所需的资源。商店和制造商都需要遵守这条规定，让消费者能够公平地比较这些信息。\n\n我认为，希望避免不必要支出的人会欢迎这条法规。不过，有些公司可能会反对，因为供应配件和提供清楚的信息都需要投入。因此，这项要求需要切实可行的时间表和统一的标准，而不是一个模糊的承诺。\n\n我会支持这条法规，因为它把环保与日常生活中的决定联系起来。它不会强迫每个人永远留着坏掉的设备，而是在购买新产品前，给人们一个可行的选择。这似乎比单纯劝人少消费更有帮助。",
+      "keywords": [
+        "repairability information",
+        "replace common parts",
+        "reduce waste",
+        "consistent standards",
+        "a realistic choice"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-291",
+      "part": 3,
+      "title": "很久没收到回复的信息",
+      "region": "大陆",
+      "text": "Why do some people feel angry when others don’t reply to their message?",
+      "english": "A delayed reply can make people feel ignored, especially if the message is important or they expect a quick answer. They may also interpret silence through their own worries. However, those feelings do not prove that the other person intended disrespect. Clear expectations about urgency and communication can help, rather than treating every delay as a personal rejection.",
+      "chinese": "回复延迟会让人觉得被忽视，消息重要或预期快速回应时尤其如此。人们也可能带着自身焦虑解读沉默，但感受不证明对方有意不尊重。说明紧急程度和沟通预期更有帮助，而不是把每次延迟都当成拒绝。",
+      "keywords": [
+        "feel ignored",
+        "clear expectations",
+        "personal rejection"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-292",
+      "part": 3,
+      "title": "长久目标/抱负",
+      "region": "大陆",
+      "text": "Why should children have ambitions?",
+      "english": "Ambitions can give children a reason to explore interests and practise new skills. A goal also helps them see that effort can lead to progress. However, the ambition should not become a source of constant pressure. Children need room to change their minds, and adults should value curiosity and improvement rather than only a prestigious future job.",
+      "chinese": "抱负让孩子有理由探索兴趣、练新技能，也帮助看见努力带来进步。但目标不应变成持续压力。孩子需要改变主意的空间，成年人应重视好奇心和进步，而非只盯着未来体面的职业。",
+      "keywords": [
+        "explore interests",
+        "make progress",
+        "room to change"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-293",
+      "part": 3,
+      "title": "长久目标/抱负",
+      "region": "大陆",
+      "text": "What do you think of people going after high positions?",
+      "english": "Seeking a higher position can be reasonable if someone wants more responsibility and the chance to contribute. It can motivate them to develop their skills. The problem is when status becomes more important than competence or fair treatment. I would respect ambition that is supported by good work, rather than promotion pursued at the expense of colleagues.",
+      "chinese": "希望升到更高职位是合理的，尤其是想承担责任、增加贡献时，也能激励提升能力。问题在于地位超过了能力或公平待遇。我尊重靠好工作支持的抱负，而非牺牲同事来争取晋升。",
+      "keywords": [
+        "more responsibility",
+        "competence",
+        "at colleagues' expense"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-294",
+      "part": 3,
+      "title": "长久目标/抱负",
+      "region": "大陆",
+      "text": "Why are some young people keen on being fans of superstars?",
+      "english": "Superstars can offer excitement, a sense of identity and a community of other fans. Young people may admire their talent or feel inspired by their achievements. Following someone also creates topics to share with friends. However, enthusiasm needs limits; it should not replace study, relationships or financial judgement, especially when advertising encourages fans to spend more.",
+      "chinese": "巨星可以带来兴奋感、认同感和粉丝社群。年轻人可能欣赏才华，或受成就鼓舞，关注名人也提供与朋友分享的话题。但热情需要限度，尤其在广告鼓励消费时，不应替代学习、人际关系或财务判断。",
+      "keywords": [
+        "a sense of identity",
+        "other fans",
+        "enthusiasm needs limits"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-295",
+      "part": 3,
+      "title": "长久目标/抱负",
+      "region": "大陆",
+      "text": "Is it good for a person to be ambitious?",
+      "english": "Ambition can be positive because it encourages people to set goals and persist through difficulties. It becomes less helpful when the goal is unrealistic or success is defined only by status. I think healthy ambition combines effort with flexibility. Someone should be able to learn from setbacks and adjust the route without feeling that their entire worth has disappeared.",
+      "chinese": "抱负积极的一面是让人设目标、坚持克服困难。目标不现实或只用地位定义成功时，就不太有帮助。我认为健康抱负结合努力与弹性：遇挫能学习、调整路线，不觉得自己的全部价值消失了。",
+      "keywords": [
+        "persist through difficulties",
+        "healthy ambition",
+        "adjust the route"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-296",
+      "part": 3,
+      "title": "长久目标/抱负",
+      "region": "大陆",
+      "text": "Do you think it is necessary to be ambitious when working in a team in a company?",
+      "english": "Some ambition is useful because team members need motivation to improve and contribute. However, personal goals should be compatible with the group's purpose. If everyone only competes for recognition, cooperation suffers. I would value people who want to develop their own skills while helping the team succeed, rather than treating colleagues as obstacles to their next promotion.",
+      "chinese": "适度抱负有用，因为成员需要动力去改进、贡献。但个人目标应与团队目的相容。如果人人只争认可，合作会受损。我重视既发展自身技能、也帮助团队成功的人，而非把同事当晋升障碍。",
+      "keywords": [
+        "compatible goals",
+        "cooperation",
+        "contribute"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-297",
+      "part": 3,
+      "title": "长久目标/抱负",
+      "region": "大陆",
+      "text": "Should parents support their children in pursuing their ambitions?",
+      "english": "Parents should take children's ambitions seriously and help them explore what the goal involves. Support may mean information, encouragement or opportunities to practise, rather than agreeing to every request. If a goal is unrealistic, a respectful conversation is better than dismissal. Children should learn to compare options and revise plans while knowing that their interests still matter.",
+      "chinese": "家长应认真对待孩子的抱负，帮助了解目标涉及什么。支持可能是信息、鼓励或练习机会，而非答应所有要求。目标不现实时，尊重地交流比否定更好。孩子应学会比较选项、调整计划，同时知道自己的兴趣仍被重视。",
+      "keywords": [
+        "take ambitions seriously",
+        "respectful conversation",
+        "revise plans"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-298",
+      "part": 3,
+      "title": "改变重要想法",
+      "region": "大陆",
+      "text": "When do most children begin to have their own opinions?",
+      "english": "Children begin expressing preferences quite early, but forming a reasoned opinion develops gradually. As they gain language, experience and opportunities to ask questions, they can explain why they think something. I would not give one exact age for everyone. Adults can support the process by listening and asking simple follow-up questions instead of immediately correcting every different view.",
+      "chinese": "孩子很早就表达偏好，但有理由的观点是逐渐形成的。语言、经验和提问机会增加后，就能解释为什么这样想。我不会给所有人规定一个精确年龄。成年人可以倾听、简单追问，而不是立即纠正每一种不同看法。",
+      "keywords": [
+        "reasoned opinions",
+        "develop gradually",
+        "follow-up questions"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-299",
+      "part": 3,
+      "title": "改变重要想法",
+      "region": "大陆",
+      "text": "Whose opinions are more important to children, their parents' or teachers'?",
+      "english": "Both can be important, but in different areas. Parents know a child's daily life and values, while teachers may offer more experience with learning and school behaviour. Neither should automatically overrule the other on every issue. I think children benefit when adults explain their reasons and help them consider different views, rather than ask them to choose one authority blindly.",
+      "chinese": "两者都重要，但领域不同。父母了解孩子的日常和价值观，老师则更熟悉学习和校园行为。不应在每个问题上自动让一方压过另一方。成年人解释理由、帮助考虑不同看法，比要求孩子盲选一个权威更有益。",
+      "keywords": [
+        "different areas",
+        "explain reasons",
+        "consider different views"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-300",
+      "part": 3,
+      "title": "改变重要想法",
+      "region": "大陆",
+      "text": "Do children communicate more with teachers or with parents?",
+      "english": "It depends on the child, the relationship and the topic. A child may discuss schoolwork with a teacher but share personal worries with a parent, or the reverse if one relationship feels safer. Time together also matters. I think the important question is whether the child has someone trustworthy to talk to, rather than which adult receives more conversations.",
+      "chinese": "取决于孩子、关系和话题。孩子可能与老师谈功课、与家长谈烦恼；如果另一段关系更安全，也可能相反。相处时间也重要。我认为关键是有没有可信的人可倾诉，而非哪位成年人获得更多谈话。",
+      "keywords": [
+        "a safer relationship",
+        "time together",
+        "someone trustworthy"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-301",
+      "part": 3,
+      "title": "改变重要想法",
+      "region": "大陆",
+      "text": "Who do young people like to share opinions with?",
+      "english": "Young people may share opinions with friends who understand their interests, but they can also turn to parents, teachers or online communities. The choice depends on trust and the subject being discussed. Someone may want practical advice in one situation and emotional support in another. I think a good listener matters more than belonging to a particular age group.",
+      "chinese": "年轻人可能与理解自身兴趣的朋友交流，也会找父母、老师或网上社群。选择取决于信任和话题。有时想要实际建议，有时需要情感支持。我认为愿意好好倾听，比属于某个特定年龄群体更重要。",
+      "keywords": [
+        "trust",
+        "practical advice",
+        "a good listener"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-302",
+      "part": 3,
+      "title": "想要颁布的环保法律",
+      "region": "大陆",
+      "text": "How does technology affect the law?",
+      "english": "Technology creates new activities that laws may need to address, such as handling personal data or deciding responsibility for automated systems. It can also help officials detect problems and make services easier to access. However, rules should not be rushed simply because a tool is new. They need clear principles that protect people while allowing useful innovation.",
+      "chinese": "技术带来法律可能需要处理的新活动，比如个人数据管理、自动化系统责任认定，也能帮助部门发现问题、提升服务可及性。不过，不能只因工具新就仓促立规，应有清晰原则，在保护人们的同时允许有用创新。",
+      "keywords": [
+        "personal data",
+        "clear responsibility",
+        "useful innovation"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

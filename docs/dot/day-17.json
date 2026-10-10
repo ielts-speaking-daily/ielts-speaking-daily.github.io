@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "day": 17,
+  "date": "2026-10-25",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-113",
+    "QB-20261008-01-P1-114",
+    "QB-20261008-01-P1-115",
+    "QB-20261008-01-P1-116",
+    "QB-20261008-01-P1-117",
+    "QB-20261008-01-P1-118",
+    "QB-20261008-01-P1-119",
+    "QB-20261008-01-P1-120",
+    "QB-20261008-01-P2-030",
+    "QB-20261008-01-P2-031",
+    "QB-20261008-01-P3-170",
+    "QB-20261008-01-P3-171",
+    "QB-20261008-01-P3-172",
+    "QB-20261008-01-P3-173",
+    "QB-20261008-01-P3-174",
+    "QB-20261008-01-P3-175",
+    "QB-20261008-01-P3-176",
+    "QB-20261008-01-P3-177",
+    "QB-20261008-01-P3-178",
+    "QB-20261008-01-P3-179",
+    "QB-20261008-01-P3-180",
+    "QB-20261008-01-P3-181"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-113",
+      "part": 1,
+      "title": "Singing",
+      "region": "大陆",
+      "text": "Who do you want to sing for?",
+      "english": "I'd rather sing for a small group of familiar people than a large audience. The atmosphere would feel less formal, and I wouldn't worry so much about performing perfectly.",
+      "chinese": "我更愿意给一小群熟人唱，而不是面对很多观众。气氛会不那么正式，我也不会太担心必须唱得完美。",
+      "keywords": [
+        "a small group",
+        "less formal"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-114",
+      "part": 1,
+      "title": "Singing",
+      "region": "大陆",
+      "text": "Do you think singing can bring happiness to people?",
+      "english": "Yes, singing can give people a way to express feelings and share an activity. It doesn't have to sound professional to be enjoyable, especially in a relaxed setting.",
+      "chinese": "能，唱歌可以让人表达感受、一起参与活动。它不需要达到专业水平也可以很开心，尤其是在轻松环境里。",
+      "keywords": [
+        "express feelings",
+        "a relaxed setting"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-115",
+      "part": 1,
+      "title": "Singing",
+      "region": "大陆",
+      "text": "Do you like listening to others singing?",
+      "english": "Yes, particularly when I like the song or the singer's voice. I'd enjoy listening more than performing myself, because I can focus on the music without feeling self-conscious.",
+      "chinese": "喜欢，尤其是喜欢那首歌或歌手的声音时。比起自己唱，我更享受听，因为可以专注音乐，不必感到不自在。",
+      "keywords": [
+        "the singer's voice",
+        "self conscious"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-116",
+      "part": 1,
+      "title": "Singing",
+      "region": "大陆",
+      "text": "Have you ever taken a singing class?",
+      "english": "I've attended ordinary music lessons at school, but not a dedicated singing course. They covered simple songs rather than the kind of detailed training a performer would need.",
+      "chinese": "我上过学校普通音乐课，但没上过专门的声乐课。课程教的是简单歌曲，不是表演者需要的细致训练。",
+      "keywords": [
+        "a dedicated course",
+        "detailed training"
+      ],
+      "pending": [
+        "候选音乐课经历，与051、112保持一致，未确认正式声乐教育。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-117",
+      "part": 1,
+      "title": "Clothing",
+      "region": "大陆",
+      "text": "What kind of clothes do you like to wear?",
+      "english": "I'd choose simple, comfortable clothes that suit the situation. For studying, casual clothes would be fine; for an academic event, I'd want to look a little smarter.",
+      "chinese": "我会选简单、舒适且适合场合的衣服。学习时休闲装就可以；参加学术活动时，我会想穿得稍正式一些。",
+      "keywords": [
+        "suit the situation",
+        "look smarter"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-118",
+      "part": 1,
+      "title": "Clothing",
+      "region": "大陆",
+      "text": "Do you prefer to wear comfortable and casual clothes or smart clothes?",
+      "english": "Comfortable and casual clothes would be my first choice. I'd dress more formally when necessary, but I wouldn't want everyday clothes to distract me from what I'm doing.",
+      "chinese": "舒适休闲的衣服会是我的首选。需要时我会穿正式一点，但不希望日常衣服分散我做事的注意力。",
+      "keywords": [
+        "my first choice",
+        "dress formally"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-119",
+      "part": 1,
+      "title": "Clothing",
+      "region": "大陆",
+      "text": "Do you like wearing T-shirts?",
+      "english": "Yes, I'd choose T-shirts for ordinary days because they're simple and comfortable. I'd still switch to something smarter if the occasion called for it.",
+      "chinese": "喜欢，普通日子我会选T恤，因为简单舒服。如果场合有需要，我仍会换成更正式的衣服。",
+      "keywords": [
+        "ordinary days",
+        "the occasion calls for"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-120",
+      "part": 1,
+      "title": "Clothing",
+      "region": "大陆",
+      "text": "Do you spend a lot of time choosing clothes?",
+      "english": "Not much. I'd prefer having a few clothes that are easy to combine, so I wouldn't need to make a complicated decision every morning.",
+      "chinese": "不会花很多时间。我更喜欢有几件容易搭配的衣服，这样每天早上就不用做复杂的决定。",
+      "keywords": [
+        "easy to combine",
+        "a complicated decision"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-030",
+      "part": 2,
+      "title": "去过的无聊地方",
+      "region": "大陆",
+      "text": "Describe a boring place\nYou should say:\nWhere it is\nWho you went there with\nWhat you did there\nAnd explain why you think it is a boring place",
+      "english": "A place I found boring was a large furniture showroom in the city where I live. I went there with my mother one afternoon because we wanted to look at some options for the home.\n\nAt first, I was interested in the different room designs. But after a while, many displays began to feel similar. We walked between rows of sofas, tables, and cupboards, checked labels, and discussed small differences in size and colour.\n\nThe visit took longer than I had expected because there were many choices and it was difficult to narrow them down. I could see why those details mattered, but I didn't feel very involved in the process. There wasn't much to do except keep looking and comparing.\n\nI think the place was boring for me because the activity didn't connect strongly with my interests. I enjoy reading and programming, where I can follow an idea or solve a problem. In the showroom, the decisions felt repetitive and I had no clear task of my own. I wouldn't say it was a bad place; it was useful for its purpose. I would simply prefer a shorter visit with a clearer plan.",
+      "chinese": "我觉得无聊的一个地方，是我现在居住的城市里的一家大型家具展厅。某天下午，我和母亲一起去了那里，因为我们想看看有哪些适合家里的选择。\n\n起初，我对不同的房间设计还有兴趣，但过了一会儿，很多展示开始让我觉得大同小异。我们在一排排沙发、桌子和柜子之间走动，查看标签，讨论尺寸和颜色上的细小差别。\n\n这次逛展厅比我预期的时间更长，因为选择很多，很难缩小范围。我理解为什么那些细节很重要，但自己并没有很强的参与感。除了继续看、继续比较，也没有多少其他事情可做。\n\n我觉得这个地方无聊，是因为这项活动与我的兴趣联系不大。我喜欢阅读和编程，因为可以顺着一个想法深入，或者解决一个问题。但在展厅里，做决定显得很重复，我自己也没有明确的任务。我不会说那里不好，它确实满足了自己的用途。我只是更希望参观时间短一些，事先的计划更明确一些。",
+      "keywords": [
+        "furniture showroom",
+        "mother",
+        "repetitive choices",
+        "no clear task",
+        "shorter visit"
+      ],
+      "pending": [
+        "家具购物、陪母亲、时间地点、具体行为和感受均为授权候选；母亲同住与兴趣为真，不扩写真实家装事实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-031",
+      "part": 2,
+      "title": "早起经历",
+      "region": "大陆",
+      "text": "Describe a time when you got up early\nYou should say:\nWhen it was\nWhat you did\nWhy you got up early\nAnd how you felt about it",
+      "english": "A time I got up early was during my solo trip to Europe in June. I needed to catch a morning train, so I set an alarm for around six and prepared most of my things the night before.\n\nAfter waking up, I checked my documents, packed the remaining items, and made sure I had the information I needed for the journey. I then left early enough to find the correct platform without rushing. Because I was travelling alone, I had to keep track of those details myself.\n\nI got up early mainly to give myself a safety margin. In an unfamiliar place, finding the entrance or understanding a sign can take longer than expected. I thought it was better to have extra waiting time than feel anxious about missing the train.\n\nAt first, I felt sleepy and would have preferred to stay in bed. Once everything was ready, though, I felt calmer. The experience made me appreciate preparation: an early start is much easier when there aren't lots of small decisions left to make. I wouldn't want to wake up that early every day, but for that journey it felt like a sensible choice.",
+      "chinese": "我早起的一次经历，是在六月独自去欧洲旅行的时候。当时我需要赶一班早上的火车，所以把闹钟设在大约六点，并在前一天晚上准备好了大部分东西。\n\n起床后，我检查了证件，装好剩下的物品，并确认自己掌握了旅途中需要的信息。之后我提早出发，这样就有足够时间找到正确的站台，不用匆忙赶路。因为是独自旅行，这些细节都需要我自己留意。\n\n我早起主要是为了给自己留出一些余量。在陌生的地方，找入口或看懂一个标识，都可能比预期花更长时间。我觉得，多等一会儿比担心错过火车更好。\n\n起初，我有些困，更想继续躺在床上。不过，等一切准备好之后，我就平静多了。这次经历让我体会到提前准备的价值：当没有很多小决定留到最后再做时，早出发会容易得多。我并不想每天都那么早起，但对那次行程来说，这是个合理的选择。",
+      "keywords": [
+        "Europe",
+        "morning train",
+        "six o'clock",
+        "prepare ahead",
+        "safety margin"
+      ],
+      "pending": [
+        "六月欧洲独行已确认；赶早班火车、约六点起床、前晚准备、具体动作与感受为候选。火车站城市未知，不指定城市。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-170",
+      "part": 3,
+      "title": "有趣视频",
+      "region": "大陆",
+      "text": "What skills can people learn from watching videos?",
+      "english": "People can learn practical skills such as cooking, drawing, repairing simple items, or using software. Videos can show the order of actions and common mistakes clearly. They may also introduce programming ideas, but watching alone isn't enough to become skilled. Viewers need to practise, test their understanding, and use reliable guidance when a task involves safety or expensive equipment.",
+      "chinese": "人们能学烹饪、绘画、修简单物件、使用软件等实用技能。视频清楚展示动作顺序与常错，也能介绍编程概念，但只看不足以熟练。观众需练习、检验理解；涉及安全或昂贵设备时用可靠指导。",
+      "keywords": [
+        "cooking",
+        "software",
+        "practice",
+        "reliable guidance"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-171",
+      "part": 3,
+      "title": "有趣视频",
+      "region": "大陆",
+      "text": "Are there any differences between the videos that young people and old people like to watch?",
+      "english": "Younger viewers may follow newer entertainment trends, gaming, or study-related content. Older viewers may be more interested in familiar performances, everyday advice, or community topics. But these are only possible patterns, not fixed rules. Both groups can enjoy comedy or educational videos. Personal interests and comfort with the platform often explain more than simply knowing someone's age.",
+      "chinese": "年轻观众可能跟新娱乐潮流、游戏或学习内容。年长者可能关心熟悉表演、日常建议或社区话题。但只是可能趋势，不是固定规则。双方都能喜搞笑或教育视频。个人兴趣及平台熟悉程度，往往比年龄更能解释。",
+      "keywords": [
+        "trends",
+        "familiar content",
+        "overlap",
+        "interests"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-172",
+      "part": 3,
+      "title": "有趣视频",
+      "region": "大陆",
+      "text": "Are there any differences between the videos that young men and young women like to watch?",
+      "english": "There can be differences, but individual interests seem more useful than gender for predicting what someone watches. One person may enjoy technology, another fashion, and both may like comedy or travel. Online recommendations also shape what appears on their screen. I would avoid assuming that a particular topic belongs to men or women, because that can overlook a lot of shared interests.",
+      "chinese": "可能有差异，但预测观看偏好时，个人兴趣似乎比性别更有用。一人喜欢科技，另一人喜欢时尚，两者都可能喜搞笑旅行。网络推荐也塑造屏幕内容。我会避免假定某主题属于男人或女人，因为会忽略许多共享兴趣。",
+      "keywords": [
+        "individual interests",
+        "recommendations",
+        "shared topics",
+        "avoid assumptions"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-173",
+      "part": 3,
+      "title": "有趣视频",
+      "region": "大陆",
+      "text": "What makes a video go viral online?",
+      "english": "A video often spreads when it creates a strong reaction, such as surprise, amusement, or recognition. A clear idea that people understand quickly is easier to share. Timing and platform recommendations can help too. However, attention is unpredictable, and a viral video isn't necessarily accurate or valuable. I think shareability explains popularity better than simply having expensive production.",
+      "chinese": "视频带来惊讶、好笑或认同等强反应时常传播。易快速理解的清晰想法更易分享。时机和平台推荐也有用。但注意难预测，爆款不一定准确有价值。我认为易分享比昂贵制作更能解释流行。",
+      "keywords": [
+        "emotion",
+        "clear idea",
+        "sharing",
+        "timing"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-174",
+      "part": 3,
+      "title": "去过的无聊地方",
+      "region": "大陆",
+      "text": "Why do most children think education is boring?",
+      "english": "Lessons can feel boring when children only listen, memorize, and repeat information without seeing its purpose. Work that is too easy or too difficult can also reduce interest. Practical activities and meaningful questions may help students become more involved. I think the problem is often how learning is presented, rather than children having no curiosity about the world.",
+      "chinese": "孩子只听、背、复述信息而看不到目的时，课可能无聊。太容易或太难的任务也降低兴趣。实践活动和有意义问题帮助参与。我认为问题常在呈现学习的方式，而非孩子对世界无好奇。",
+      "keywords": [
+        "purpose",
+        "active learning",
+        "difficulty",
+        "curiosity"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-175",
+      "part": 3,
+      "title": "去过的无聊地方",
+      "region": "大陆",
+      "text": "Why aren’t young people willing to listen to the experiences of older people?",
+      "english": "Young people may feel that older people's experiences don't match the world they live in, especially when technology or work has changed. Advice can also sound like criticism if it isn't invited. However, practical wisdom may still be relevant. Older people can explain without lecturing, and younger people can ask questions before deciding whether an experience offers something useful.",
+      "chinese": "年轻人可能觉得老人的经历与当下世界不符，尤其技术工作改变时。未经请求的建议也可能像批评。但实际智慧仍相关。老人可解释而非训话，年轻人可先提问，再判断经历是否有用。",
+      "keywords": [
+        "changed world",
+        "unsolicited advice",
+        "wisdom",
+        "questions"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-176",
+      "part": 3,
+      "title": "去过的无聊地方",
+      "region": "大陆",
+      "text": "What can people do when they feel bored?",
+      "english": "People can change what they are doing rather than keep scrolling on their phones. A short walk, a conversation or a small practical task can make a difference. Sometimes boredom also means an activity feels pointless, so choosing something with a clear goal, like learning a skill, may help more than simple entertainment.",
+      "chinese": "人们可以换件事做，而不是一直刷手机。散步、聊天或完成一项小任务，都可能有所帮助。有时无聊也意味着当前活动缺乏意义，因此选择有明确目标的事情，比如学习技能，可能比单纯娱乐更有效。",
+      "keywords": [
+        "change activities",
+        "a clear goal",
+        "learn a skill"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-177",
+      "part": 3,
+      "title": "去过的无聊地方",
+      "region": "大陆",
+      "text": "Why are some teachers’ classes boring? Are there any solutions?",
+      "english": "Some classes are boring because the teacher talks for too long without involving students. The material may also feel disconnected from real life. Teachers could use shorter explanations, practical examples and small discussions. However, entertainment alone is not enough; students still need to understand the subject and have a chance to ask questions.",
+      "chinese": "有些课无聊，是因为老师讲得太久，没有让学生参与。教材也可能与实际生活脱节。老师可以缩短讲解，增加实际例子和小组讨论。不过，仅仅有趣还不够，学生仍需理解内容，并有机会提问。",
+      "keywords": [
+        "involve students",
+        "practical examples",
+        "ask questions"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-178",
+      "part": 3,
+      "title": "去过的无聊地方",
+      "region": "大陆",
+      "text": "Why do some young people feel bored when talking with old people?",
+      "english": "There may be a gap in interests or ways of expressing ideas. Young people might want to discuss current entertainment, while older people prefer memories or family matters. That does not mean older people are boring. If both sides ask questions and find a shared interest, the conversation can become much more engaging.",
+      "chinese": "双方的兴趣或表达方式可能存在差距。年轻人可能想谈当下的娱乐，老人则更喜欢往事或家庭话题。这不意味着老人本身无聊。如果双方主动提问，找到共同兴趣，聊天就能更吸引人。",
+      "keywords": [
+        "a gap in interests",
+        "shared interests",
+        "both sides"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-179",
+      "part": 3,
+      "title": "去过的无聊地方",
+      "region": "大陆",
+      "text": "Do most people think news about celebrities is boring?",
+      "english": "I would not assume that most people find it boring. Some enjoy following actors or singers because they admire their work. Others lose interest when reports focus on private arguments rather than achievements. I think the quality of the story matters: an interesting interview can be worthwhile, whereas repeated gossip quickly becomes tiresome.",
+      "chinese": "我不会认为大多数人都觉得名人新闻无聊。有些人喜欢关注演员或歌手，因为欣赏他们的作品。另一些人在报道只关注私人争执而非成就时会失去兴趣。我认为内容质量很重要：有意思的采访值得看，重复的八卦则容易让人厌倦。",
+      "keywords": [
+        "their work",
+        "private arguments",
+        "repeated gossip"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-180",
+      "part": 3,
+      "title": "早起经历",
+      "region": "大陆",
+      "text": "Do you know anyone who likes to get up early?",
+      "english": "Someone with a regular exercise or work routine is the kind of person that comes to mind. They may enjoy having quiet time before the day gets busy. That quiet start can make a demanding day feel less rushed. I can understand the appeal: an early start leaves time for breakfast and a calmer journey.",
+      "chinese": "我想到的是有规律运动或工作作息的人。他们可能喜欢在一天忙起来之前享受安静时间。这种安静开局能让繁忙的一天不那么匆忙。我理解早起的吸引力：留出吃早餐的时间，出门也更从容。",
+      "keywords": [
+        "a regular routine",
+        "quiet time",
+        "a calmer journey"
+      ],
+      "pending": [
+        "用户认识的早起人士未提供；此稿未声称有特定朋友。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-181",
+      "part": 3,
+      "title": "早起经历",
+      "region": "大陆",
+      "text": "Why do people get up early?",
+      "english": "People get up early for practical reasons, such as work, school or a long journey. Others choose to exercise before their responsibilities begin. The morning can also feel quieter, which helps some people concentrate. Still, getting up early is useful only if they sleep enough; losing sleep would cancel out many of the benefits.",
+      "chinese": "人们早起可能是为了工作、上学或长途出行。也有人选择在开始处理日常事务前运动。早晨还可能比较安静，有助于一些人集中注意力。不过，早起只有在睡眠充足时才有用，缺觉会抵消不少好处。",
+      "keywords": [
+        "practical reasons",
+        "concentrate",
+        "sleep enough"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

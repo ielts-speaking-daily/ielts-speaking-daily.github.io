@@ -1,0 +1,471 @@
+{
+  "schemaVersion": 1,
+  "day": 1,
+  "date": "2026-10-09",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-001",
+    "QB-20261008-01-P1-002",
+    "QB-20261008-01-P1-003",
+    "QB-20261008-01-P1-004",
+    "QB-20261008-01-P1-005",
+    "QB-20261008-01-P1-006",
+    "QB-20261008-01-P1-007",
+    "QB-20261008-01-P1-008",
+    "QB-20261008-01-P2-001",
+    "QB-20261008-01-P2-002",
+    "QB-20261008-01-P3-001",
+    "QB-20261008-01-P3-002",
+    "QB-20261008-01-P3-003",
+    "QB-20261008-01-P3-004",
+    "QB-20261008-01-P3-005",
+    "QB-20261008-01-P3-006",
+    "QB-20261008-01-P3-007",
+    "QB-20261008-01-P3-008",
+    "QB-20261008-01-P3-009",
+    "QB-20261008-01-P3-010",
+    "QB-20261008-01-P3-011",
+    "QB-20261008-01-P3-012"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-001",
+      "part": 1,
+      "title": "Travelling",
+      "region": "大陆",
+      "text": "What transport do you often use when travelling?",
+      "english": "For long distances, I'd usually choose a train because I can read or use my computer on the way. For an international trip, flying is more practical.",
+      "chinese": "长途旅行时，我通常会选火车，因为途中可以看书或用电脑。出国旅行时，坐飞机更实际。",
+      "keywords": [
+        "long distances",
+        "on the way"
+      ],
+      "pending": [
+        "常用交通方式、在车上阅读或用电脑的习惯尚未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-002",
+      "part": 1,
+      "title": "Travelling",
+      "region": "大陆",
+      "text": "Do you often ride a bicycle?",
+      "english": "Not very often. I prefer walking for short distances, and cycling isn't really part of my regular routine. I'd still consider it for a relaxed weekend outing.",
+      "chinese": "不算经常。短距离我更喜欢步行，骑车也不是我的固定日常。不过，周末轻松出游时，我仍会考虑骑车。",
+      "keywords": [
+        "regular routine",
+        "weekend outing"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-003",
+      "part": 1,
+      "title": "Travelling",
+      "region": "大陆",
+      "text": "Do you prefer to sit by the window when travelling?",
+      "english": "Yes, I'd choose a window seat if possible. Looking outside makes a journey more interesting, especially when I'm travelling somewhere unfamiliar, and it gives me something to enjoy quietly.",
+      "chinese": "会的，如果可以，我会选靠窗的位置。看窗外让旅途更有趣，尤其是去不熟悉的地方时，也让我能安静地欣赏沿途。",
+      "keywords": [
+        "a window seat",
+        "somewhere unfamiliar"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-004",
+      "part": 1,
+      "title": "Travelling",
+      "region": "大陆",
+      "text": "Did you have a long journey with your family as a child?",
+      "english": "Yes, I remember a long train journey with my family when I was younger. We brought snacks and talked along the way, so the journey itself felt enjoyable.",
+      "chinese": "有的，我记得小时候和家人坐过一次长途火车。我们带了零食，途中一起聊天，所以旅途本身也很愉快。",
+      "keywords": [
+        "a long train journey",
+        "along the way"
+      ],
+      "pending": [
+        "假设童年与家人乘长途火车、带零食和聊天；均非已确认经历。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-005",
+      "part": 1,
+      "title": "Rubbish and recycling",
+      "region": "大陆",
+      "text": "Did you recycle when you were a kid?",
+      "english": "Only in simple ways. I used to put old paper aside so it could be recycled, but I didn't understand much about different recycling categories at that age.",
+      "chinese": "只是做过一些简单的回收。我以前会把废纸放在一边，方便回收，但那时不太了解不同的回收分类。",
+      "keywords": [
+        "put paper aside",
+        "recycling categories"
+      ],
+      "pending": [
+        "假设童年有收集废纸的习惯，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-006",
+      "part": 1,
+      "title": "Rubbish and recycling",
+      "region": "大陆",
+      "text": "Is waste sorting common in your country?",
+      "english": "It's becoming more common in Chinese cities, although the rules and how carefully people follow them vary. Clear labels on bins can make sorting much easier.",
+      "chinese": "在中国城市，垃圾分类越来越常见，但规则和人们的执行程度有所不同。垃圾桶上清晰的标签能让分类容易得多。",
+      "keywords": [
+        "clear labels",
+        "vary"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-007",
+      "part": 1,
+      "title": "Rubbish and recycling",
+      "region": "大陆",
+      "text": "How do you recycle things like paper and plastic?",
+      "english": "I'd separate clean paper and plastic from other rubbish and check the labels on the bins. If something is dirty, I'd find out how to dispose of it properly.",
+      "chinese": "我会把干净的纸和塑料与其他垃圾分开，并查看垃圾桶标签。如果东西脏了，我会了解如何正确处理。",
+      "keywords": [
+        "separate from",
+        "dispose of"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-008",
+      "part": 1,
+      "title": "Rubbish and recycling",
+      "region": "大陆",
+      "text": "What do you do when you see rubbish on the street?",
+      "english": "If it's safe to pick up, I'd put it in a nearby bin. I wouldn't handle anything sharp or dirty without protection, because keeping the street clean shouldn't involve unnecessary risks.",
+      "chinese": "如果捡起来是安全的，我会把它放进附近的垃圾桶。没有保护措施时，我不会碰尖锐或很脏的东西，因为清洁街道不应带来不必要的风险。",
+      "keywords": [
+        "pick up",
+        "a nearby bin"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-001",
+      "part": 2,
+      "title": "对结果开心的重要决定",
+      "region": "大陆",
+      "text": "Describe a time you made an important decision and were happy with the result\nYou should say:\nWhat the decision was\nWhy you made the decision\nHow easy it was for you to make the decision\nAnd explain why you were happy with the result",
+      "english": "An important decision I was happy with was choosing to focus on robotics during my master's studies in artificial intelligence. I already enjoyed programming, but I wanted to work on something that could interact with the real world.\n\nIt wasn't an instant decision. I spent some time comparing research topics and discussing them with my supervisor. Robotics seemed challenging because it involved more than making a program work on a screen. A robot also has to deal with a changing environment.\n\nEventually, I decided that the challenge was part of the attraction. I could build on my interest in computers while learning something new. Looking back, the decision gave my studies a clearer direction.\n\nI'm happy with the result because it connects with my next goal: doing a PhD abroad and researching embodied AI. I don't expect every experiment to succeed, but I feel that I'm moving towards a field I want to understand more deeply. For me, that sense of direction is more valuable than choosing the easiest option.",
+      "chinese": "一个让我对结果满意的重要决定，是在人工智能硕士阶段选择重点研究机器人。我本来就喜欢编程，但也想研究能与现实世界互动的东西。\n\n这并不是瞬间作出的决定。我花了一些时间比较研究主题，并与导师讨论。机器人似乎很有挑战性，因为它不只是让程序在屏幕上运行。机器人还必须应对不断变化的环境。\n\n最终，我认为这种挑战本身就有吸引力。我既能利用对计算机的兴趣，又能学习新东西。回头看，这个决定让我的学习方向更清晰。\n\n我对结果满意，因为它与下一步目标相连：赴海外读博并研究具身智能。我不期待每次实验都成功，但感觉自己正在走向一个想深入理解的领域。对我而言，这种方向感比选择最容易的选项更有价值。",
+      "keywords": [
+        "robotics focus",
+        "compare topics",
+        "supervisor",
+        "clear direction",
+        "PhD abroad"
+      ],
+      "pending": [
+        "选择机器人研究方向时的比较、导师讨论过程和个人感受待确认；现有专业/编程兴趣/博士方向已提供"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-002",
+      "part": 2,
+      "title": "做困难事情并成功的人",
+      "region": "大陆",
+      "text": "Describe a person you know who did something difficult and was successful\nYou should say:\nWho this person is\nWhat difficult thing this person did\nWhy this person was successful\nAnd explain how you feel about this person",
+      "english": "I'd like to talk about my supervisor. They managed to get a difficult robotics project working after several unsuccessful attempts. The problem was that the system performed well in a simple test, but became unreliable when the conditions changed.\n\nRather than changing everything at once, my supervisor broke the problem into smaller parts. They checked the data, compared the results and asked the team to keep a clear record of each experiment. That made it easier to see what was actually causing the failure.\n\nThe project eventually worked because they were patient and systematic. They also listened to other people's suggestions instead of assuming that their first idea must be correct. I think that combination was more useful than simply working longer hours.\n\nI admire them because the experience showed me what good research can look like. I'm studying AI and robotics myself, so I find this kind of example especially relevant. It reminds me that success often comes from understanding a problem properly and making steady improvements, rather than finding a quick trick.",
+      "chinese": "我想讲讲我的导师。导师经过几次不成功的尝试，最终让一个困难的机器人项目运行起来。问题是，系统在简单测试中表现良好，但条件变化后就变得不可靠。\n\n导师没有一下子改动所有部分，而是把问题拆分开来，逐一检查数据、比较结果，并让团队清楚地记录每次实验。这样更容易发现究竟是什么导致失败。\n\n项目最终成功，是因为导师有耐心、有条理。导师也会听取别人的建议，而不是认定自己的第一个想法一定正确。我认为，这些品质结合起来，比单纯延长工作时间更有帮助。\n\n我很敬佩导师，因为这次经历让我看到了优秀的研究工作可以是什么样。我自己也学习人工智能和机器人，因此这个例子对我尤其有启发。它提醒我，成功往往来自真正理解问题并持续改进，而不是找到一个快速窍门。",
+      "keywords": [
+        "supervisor",
+        "unreliable robot",
+        "small steps",
+        "experiment records",
+        "steady improvement"
+      ],
+      "pending": [
+        "具体机器人项目、失败与成功过程均为候选；导师的这些特点需确认"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-001",
+      "part": 3,
+      "title": "对结果开心的重要决定",
+      "region": "大陆",
+      "text": "Which is better, to make a decision quickly or slowly?",
+      "english": "It depends on how much the decision matters. For small things, like choosing lunch, a quick decision saves time. But choosing a university or accepting a job deserves more thought. People should compare their options and ask for advice if necessary. Generally, the harder a decision is to change later, the more carefully we should make it.",
+      "chinese": "这取决于决定有多重要。像选午餐这样的事情，快速决定能节约时间。但是选大学或接受工作值得多考虑。如果有需要，人们应比较选项、征求建议。一般来说，决定日后越难改变，我们就越应该谨慎做出。",
+      "keywords": [
+        "small choices",
+        "compare options",
+        "advice",
+        "hard to change"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-002",
+      "part": 3,
+      "title": "对结果开心的重要决定",
+      "region": "大陆",
+      "text": "Do you think most people's decisions are made in their 20s?",
+      "english": "Many important decisions happen in people's twenties, but I wouldn't say most decisions do. People often choose a career and become more independent during that period. However, someone might change jobs, return to university, or move abroad much later. The twenties can shape our direction, but they don't decide everything about the rest of our lives.",
+      "chinese": "许多重要决定发生在人们二十多岁时，但我不会说多数决定都如此。在这段时期，人们常选择职业、变得更加独立。然而，一个人可能在很久以后换工作、重返大学或移居国外。二十多岁能影响我们的方向，但不会决定余生的一切。",
+      "keywords": [
+        "twenties",
+        "career",
+        "independence",
+        "later changes"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-003",
+      "part": 3,
+      "title": "对结果开心的重要决定",
+      "region": "大陆",
+      "text": "What if people in a group have different opinions on a decision?",
+      "english": "The group should first listen to everyone's reasons rather than immediately take a vote. People may disagree because they have different priorities, such as cost or convenience. Once they share a clear goal, finding a compromise becomes easier. If there is still no agreement and time is limited, voting can be a practical final step.",
+      "chinese": "小组应该先听每个人的理由，而不是马上投票。分歧可能来自不同的优先事项，比如成本或方便程度。有了明确的共同目标，寻找折中方案会更容易。如果仍不能达成一致且时间有限，投票可以成为实际的最后一步。",
+      "keywords": [
+        "listen",
+        "priorities",
+        "common goal",
+        "compromise",
+        "vote"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-004",
+      "part": 3,
+      "title": "对结果开心的重要决定",
+      "region": "大陆",
+      "text": "What little decisions do people make every day?",
+      "english": "People make choices about food, clothes, transport, and the order of their tasks. They also decide whether to exercise or relax after studying or working. These decisions seem small, but repeated choices can become habits. For example, walking a short distance instead of taking a taxi may gradually make someone's daily routine more active.",
+      "chinese": "人们会决定吃什么、穿什么、如何出行以及任务的顺序。学习或工作后，他们也要决定锻炼还是休息。这些决定看起来很小，但重复的选择能形成习惯。例如，短距离步行而不是打车，可能逐渐让一个人的日常生活更活跃。",
+      "keywords": [
+        "food",
+        "transport",
+        "task order",
+        "exercise",
+        "habits"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-005",
+      "part": 3,
+      "title": "对结果开心的重要决定",
+      "region": "大陆",
+      "text": "Do you think it is a good idea to make a small decision every day?",
+      "english": "Yes, making small decisions can help people become more independent. A child choosing a book, for example, gets some practice in deciding what they enjoy. Adults can also build confidence without risking very much. Still, people don't need to create extra decisions deliberately. Ordinary life already offers plenty of opportunities to make simple choices.",
+      "chinese": "是的，做小决定能帮助人们更独立。例如，孩子选书时，可以练习判断自己喜欢什么。成年人也能在风险不大的情况下建立信心。不过，人们不必刻意制造额外的决定。日常生活已经提供了很多做简单选择的机会。",
+      "keywords": [
+        "independence",
+        "choose a book",
+        "confidence",
+        "small risk"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-006",
+      "part": 3,
+      "title": "对结果开心的重要决定",
+      "region": "大陆",
+      "text": "How can we tell the difference between an important and an easy decision?",
+      "english": "Importance is about a decision's consequences, while ease is about how clear the best option is. An important choice may affect someone's career or finances. However, it can still be easy if one option obviously matches their goals. Accepting a suitable job offer is an example. So important and easy aren't necessarily opposite descriptions.",
+      "chinese": "重要性看决定的后果，容易程度看最佳选项有多清晰。重要选择可能影响一个人的职业或经济状况。但如果一个选项显然符合目标，它仍然可以很容易。接受合适的工作邀请就是例子。因此，重要和容易不一定是相反的描述。",
+      "keywords": [
+        "consequences",
+        "clear option",
+        "career",
+        "job offer"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-007",
+      "part": 3,
+      "title": "做困难事情并成功的人",
+      "region": "大陆",
+      "text": "In which sectors are companies more likely to succeed in China?",
+      "english": "I'd expect opportunities in technology, healthcare, and services that solve everyday problems. For example, useful software or affordable care can attract customers because there is a clear need. But a promising sector doesn't guarantee success. A company still needs a reliable product, sensible prices, and a good understanding of what its customers actually want.",
+      "chinese": "我预计科技、医疗和解决日常问题的服务领域会有机会。例如，有用的软件或负担得起的照护能够吸引顾客，因为需求明确。不过，有前景的行业不保证成功。公司仍需要可靠的产品、合理价格，以及对顾客实际需求的充分了解。",
+      "keywords": [
+        "technology",
+        "healthcare",
+        "clear need",
+        "reliable product"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-008",
+      "part": 3,
+      "title": "做困难事情并成功的人",
+      "region": "大陆",
+      "text": "Is it easy to start up a company?",
+      "english": "Setting up a company may be fairly simple on paper, but building a successful business is much harder. The founders need money, customers, and people they can work with. They also have to manage uncertainty, because an idea that sounds good may not sell. I'd say getting started is only the first part of the challenge.",
+      "chinese": "成立公司的手续可能相对简单，但建立成功的业务要困难得多。创始人需要资金、顾客和可以合作的人。他们还必须应对不确定性，因为听起来不错的想法可能卖不出去。我认为，开始只是挑战的第一部分。",
+      "keywords": [
+        "start up",
+        "customers",
+        "team",
+        "uncertainty"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-009",
+      "part": 3,
+      "title": "做困难事情并成功的人",
+      "region": "大陆",
+      "text": "Other than making money, what is more important for a company?",
+      "english": "A company needs to earn people's trust and provide something genuinely useful. If it sells poor products or treats employees badly, short-term profit may damage its future. For example, reliable technical support can persuade customers to stay. Fair treatment of staff also matters, because experienced employees often make the quality of the business possible.",
+      "chinese": "公司需要赢得信任，并提供真正有用的东西。如果销售劣质产品或苛待员工，短期利润可能损害未来。例如，可靠的技术支持能促使顾客留下。公平对待员工也很重要，因为有经验的员工往往是业务质量的保障。",
+      "keywords": [
+        "trust",
+        "useful products",
+        "support",
+        "fair treatment"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-010",
+      "part": 3,
+      "title": "做困难事情并成功的人",
+      "region": "大陆",
+      "text": "Does money equal success?",
+      "english": "Money is one sign of success, but it isn't the whole picture. Someone may earn a lot while feeling exhausted or having little time for their family. Another person may earn less but do meaningful work and keep learning. I would judge success through a mixture of financial security, personal progress, and satisfaction with daily life.",
+      "chinese": "金钱是成功的一种标志，但不是全部。有人赚很多，却感到疲惫，或者很少有时间陪家人。另一个人可能赚得较少，但从事有意义的工作并持续学习。我会综合经济安全、个人进步和日常生活满意度判断成功。",
+      "keywords": [
+        "money",
+        "meaningful work",
+        "progress",
+        "satisfaction"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-011",
+      "part": 3,
+      "title": "做困难事情并成功的人",
+      "region": "大陆",
+      "text": "How can companies help protect the environment?",
+      "english": "Companies can reduce waste in both production and packaging. They can also use energy more efficiently and make products that last longer. For a technology company, repairing devices rather than immediately replacing them could help. These changes work best when they become normal business practice, rather than a temporary campaign used only to attract attention.",
+      "chinese": "公司可以减少生产和包装中的浪费，也能提高能源使用效率，让产品更耐用。对于科技公司，修理设备而不是马上更换可能有帮助。当这些改变成为日常经营做法，而非只为吸引注意的临时活动时，效果最好。",
+      "keywords": [
+        "reduce waste",
+        "energy",
+        "repair",
+        "lasting change"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-012",
+      "part": 3,
+      "title": "做困难事情并成功的人",
+      "region": "大陆",
+      "text": "Is it difficult to do business in today's world?",
+      "english": "It can be difficult because customers have many choices and businesses face fast changes. A small company may compete with firms that have much bigger budgets. At the same time, online tools make it easier to reach customers and test ideas. So the environment is challenging, but people also have useful resources that weren't available before.",
+      "chinese": "做生意可能很难，因为顾客选择多，企业面对快速变化。小公司可能要与预算大得多的企业竞争。同时，网络工具让接触顾客和测试想法更容易。所以环境有挑战，但人们也拥有过去没有的有用资源。",
+      "keywords": [
+        "competition",
+        "fast change",
+        "online tools",
+        "opportunities"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

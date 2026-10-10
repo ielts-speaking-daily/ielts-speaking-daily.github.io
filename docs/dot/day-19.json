@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "day": 19,
+  "date": "2026-10-27",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-129",
+    "QB-20261008-01-P1-130",
+    "QB-20261008-01-P1-131",
+    "QB-20261008-01-P1-132",
+    "QB-20261008-01-P1-133",
+    "QB-20261008-01-P1-134",
+    "QB-20261008-01-P1-135",
+    "QB-20261008-01-P1-136",
+    "QB-20261008-01-P2-034",
+    "QB-20261008-01-P2-035",
+    "QB-20261008-01-P3-194",
+    "QB-20261008-01-P3-195",
+    "QB-20261008-01-P3-196",
+    "QB-20261008-01-P3-197",
+    "QB-20261008-01-P3-198",
+    "QB-20261008-01-P3-199",
+    "QB-20261008-01-P3-200",
+    "QB-20261008-01-P3-201",
+    "QB-20261008-01-P3-202",
+    "QB-20261008-01-P3-203",
+    "QB-20261008-01-P3-204",
+    "QB-20261008-01-P3-205",
+    "QB-20261008-01-P3-206"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 13
+  },
+  "minutes": 39.1,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-129",
+      "part": 1,
+      "title": "Headphones",
+      "region": "大陆",
+      "text": "What type of headphones do you use?",
+      "english": "I'd prefer lightweight headphones that are comfortable for longer periods. Clear sound and a good fit would matter more to me than owning an expensive brand.",
+      "chinese": "我会选长时间戴也舒服的轻便耳机。比起昂贵品牌，我更在意清晰声音和适合的佩戴感。",
+      "keywords": [
+        "lightweight",
+        "a good fit"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-130",
+      "part": 1,
+      "title": "Headphones",
+      "region": "大陆",
+      "text": "When would you use headphones?",
+      "english": "I'd use them when watching videos near other people. They'd also be useful in a shared study space, as long as I kept the volume reasonably low.",
+      "chinese": "我会在周围有别人时看视频用耳机。共用学习空间里也有用，只要音量保持适度低。",
+      "keywords": [
+        "a shared space",
+        "keep the volume low"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-131",
+      "part": 1,
+      "title": "Headphones",
+      "region": "大陆",
+      "text": "In what conditions would you not use headphones?",
+      "english": "I wouldn't use headphones when crossing roads or speaking with someone. In those situations, paying attention to the people and sounds around me is more important.",
+      "chinese": "过马路或与别人讲话时我不会戴耳机。这些情况下，留意身边的人和声音更重要。",
+      "keywords": [
+        "crossing roads",
+        "paying attention"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-132",
+      "part": 1,
+      "title": "Headphones",
+      "region": "大陆",
+      "text": "Is wearing headphones comfortable?",
+      "english": "They can be comfortable if they fit properly. I'd still take regular breaks, because even a good pair might feel heavy or warm after several hours.",
+      "chinese": "佩戴合适的话可以舒服。我仍会经常休息，因为再好的耳机，几个小时后也可能让人觉得沉或热。",
+      "keywords": [
+        "fit properly",
+        "regular breaks"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-133",
+      "part": 1,
+      "title": "Morning time",
+      "region": "大陆",
+      "text": "Do you spend your mornings doing the same things on both weekends and weekdays? Why?",
+      "english": "Not exactly. I'd start study tasks earlier on weekdays and take weekends more slowly. I still prefer a simple plan rather than leaving the whole morning completely unstructured.",
+      "chinese": "不完全一样。工作日我会较早开始学习，周末则慢一点。我仍喜欢简单计划，而不是整段早晨毫无安排。",
+      "keywords": [
+        "study tasks",
+        "a simple plan"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-134",
+      "part": 1,
+      "title": "Morning time",
+      "region": "大陆",
+      "text": "Are there any differences between what you do in the morning now and what you did in the past?",
+      "english": "My childhood mornings followed the school timetable closely. As a master's student now, I'd have more responsibility for deciding which tasks to tackle first and managing my own time.",
+      "chinese": "小时候的早晨紧跟学校时间表。现在读硕士，我会更需要自己决定先处理哪些任务、管理时间。",
+      "keywords": [
+        "school timetable",
+        "managing time"
+      ],
+      "pending": [
+        "硕士身份真实；童年和现在晨间变化为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-135",
+      "part": 1,
+      "title": "Morning time",
+      "region": "大陆",
+      "text": "What did you do in the morning when you were little? Why?",
+      "english": "I usually ate breakfast and got ready for school. There wasn't much time for other activities, because leaving on time was the main priority on school mornings.",
+      "chinese": "我通常吃早饭，然后准备上学。没很多时间做其他活动，因为上学日早晨最重要的是按时出门。",
+      "keywords": [
+        "get ready",
+        "on time"
+      ],
+      "pending": [
+        "童年早餐和上学流程为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-136",
+      "part": 1,
+      "title": "Morning time",
+      "region": "大陆",
+      "text": "What do you usually do in the morning?",
+      "english": "I'd check the tasks for the day and choose one important thing to begin with. That simple plan would help me start working without spending ages organising everything.",
+      "chinese": "我会看看当天的任务，选一件重要的事先开始。这个简单计划能帮助我行动，不用长时间整理安排。",
+      "keywords": [
+        "one important thing",
+        "start working"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-034",
+      "part": 2,
+      "title": "发小",
+      "region": "大陆",
+      "text": "Describe a friend from your childhood\nYou should say:\nWho he/she is\nWhere and how you met each other\nWhat you often did together\nAnd explain what made you like him/her",
+      "english": "A childhood friend I would like to talk about is a classmate from primary school in my hometown, a small county town in north-eastern China. We first met when we sat near each other in class and began talking during breaks.\n\nWe often spent time together after lessons. Sometimes we exchanged books or discussed something we had watched. On other days, we simply walked home and talked about what had happened at school. We didn't need an expensive activity to have a good time.\n\nWhat I liked most was that they were easy to talk to. If I wasn't ready to speak, they didn't force me to join a noisy conversation. But when we were comfortable together, we could talk for a long time about small things. They also had a sense of humour that made an ordinary school day feel lighter.\n\nThe friendship was important because it gave me a familiar person outside my family. We could share interests and help each other when a school task felt difficult. Looking back, I value the simple consistency of it: seeing someone regularly, listening to them, and gradually building trust. That's still the kind of friendship I find most comfortable.",
+      "chinese": "我想谈的一位童年朋友，是家乡小学里的一位同学。我的家乡是中国东北的一个小县城。我们最初认识，是因为上课时座位离得很近，课间便开始聊天。\n\n放学后，我们经常一起待一会儿。有时会交换书，或者讨论看过的内容。还有些时候，我们只是一起走回家，聊聊学校里发生的事。不需要参加昂贵的活动，我们也能过得很开心。\n\n我最喜欢的一点，是与对方聊天很自在。如果我一时不想开口，对方不会逼我加入热闹的谈话。但当我们相处得很放松时，也能围绕小事聊很久。对方还有幽默感，让普通的上学日也显得轻松些。\n\n这段友谊很重要，因为它让我在家人之外还有一个熟悉的人。我们可以分享兴趣，遇到难做的学习任务时也会互相帮助。回头看，我珍惜的是这种简单而稳定的相处：经常见面、倾听彼此、慢慢建立信任。这仍然是让我最自在的一种友谊。",
+      "keywords": [
+        "childhood classmate",
+        "hometown",
+        "books",
+        "easy conversation",
+        "trust"
+      ],
+      "pending": [
+        "小学朋友、见面方式、换书与步行、幽默互助和儿童阶段具体性格为候选；没有真实朋友姓名或已确认童年事件。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-035",
+      "part": 2,
+      "title": "想从事医疗行业的人",
+      "region": "大陆",
+      "text": "Describe a person you know who would like to choose a career in the medical field\n(e.g. a doctor, a nurse)\nYou should say:\nWhen you knew him/her\nWhen he/she started to think about that\nWhat he/she would like to do\nAnd explain why he/she would like to choose this career",
+      "english": "Someone I know who wants to become a nurse is a former schoolmate. I got to know them at secondary school, and we stayed in touch enough to discuss our future plans.\n\nThey started thinking seriously about the medical field near the end of school, when choosing what to study became more immediate. They were interested in science, but they also wanted work that involved direct contact with people rather than only studying information from a distance.\n\nTheir goal is to train as a nurse and work in a hospital. What attracts them is the practical side: noticing what a patient needs, explaining simple information clearly, and working with other professionals. They understand that the job can involve difficult schedules and responsibility, so it isn't simply an idealized picture of helping people.\n\nI think the choice suits the qualities they want to develop. They are patient and prefer doing something concrete when someone needs support. My own direction is AI and robotics, so our paths are different. But I can understand the wish to connect knowledge with real situations. I would hope they choose it after learning enough about the everyday work, not just because the title sounds respectable.",
+      "chinese": "我认识的一位想成为护士的人，是我以前的一位同学。我们在中学认识，后来也一直保持着一定联系，会聊到彼此的未来计划。\n\n临近中学毕业、需要考虑接下来学什么的时候，对方开始认真考虑医疗行业。对方对科学有兴趣，同时也希望做一份能直接与人接触的工作，而不是只在远处研究相关信息。\n\n对方的目标是接受护理培训，然后在医院工作。吸引对方的是这份工作的实际内容：留意患者的需求、清楚解释简单的信息，以及与其他专业人员合作。对方知道这份工作可能有辛苦的排班，也要承担责任，所以并不只是把帮助他人想象得很美好。\n\n我觉得这个选择符合对方想培养的品质。对方很耐心，别人需要支持时，也更愿意做些具体的事。我的方向是人工智能和机器人，所以我们的道路不同，但我能理解把知识与真实情况联系起来的愿望。我希望对方在充分了解日常工作之后再选择这条路，而不只是因为这个职业听起来很体面。",
+      "keywords": [
+        "schoolmate",
+        "nursing",
+        "patient contact",
+        "practical help",
+        "responsibility"
+      ],
+      "pending": [
+        "医疗职业同学、认识时间、志向形成时间、性格动机和联系均为完整候选；不声称有真实医疗行业朋友或已获入学资格。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-194",
+      "part": 3,
+      "title": "想颁布的新法律",
+      "region": "大陆",
+      "text": "What kinds of behavior are considered as good behavior?",
+      "english": "Good behaviour usually involves considering how our actions affect other people. Being honest, keeping promises and respecting shared spaces are simple examples. It also means helping when it is reasonable, rather than only avoiding punishment. Standards may differ slightly between cultures, but treating people fairly and taking responsibility for mistakes are valuable in most situations.",
+      "chinese": "良好行为通常意味着考虑自己的行动会如何影响他人。诚实、守信、尊重公共空间都是简单例子。它也包括在合理情况下帮助他人，而不只是躲避惩罚。文化标准可能略有不同，但公平待人、为错误负责，在多数场合都很有价值。",
+      "keywords": [
+        "keep promises",
+        "shared spaces",
+        "take responsibility"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-195",
+      "part": 3,
+      "title": "想颁布的新法律",
+      "region": "大陆",
+      "text": "Do you think children can learn about the law outside of school?",
+      "english": "Certainly. Parents can explain everyday examples, such as why people must follow traffic rules or respect someone else's property. Libraries and suitable educational programmes can also help. The information needs to match children's age. I would prefer clear examples and conversations to frightening stories, because understanding a law is more useful than simply fearing punishment.",
+      "chinese": "当然可以。家长可以解释日常例子，比如为何遵守交通规则、尊重他人财产。图书馆和合适的教育节目也有帮助。内容应符合孩子的年龄。我更倾向于清楚的例子和交流，而非吓人的故事，因为理解法律比单纯害怕惩罚更有用。",
+      "keywords": [
+        "traffic rules",
+        "match their age",
+        "understanding the law"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-196",
+      "part": 3,
+      "title": "想颁布的新法律",
+      "region": "大陆",
+      "text": "What are the benefits for people to obey rules?",
+      "english": "Rules make people's behaviour more predictable, which helps them share roads, workplaces and public services. Following them can reduce conflict and protect people who have less power. Of course, the rules need to be fair and useful. Obedience is easier to justify when the rule serves a clear purpose rather than someone's personal convenience.",
+      "chinese": "规则让行为更可预测，有助于人们共享道路、工作场所和公共服务。遵守规则可以减少冲突，并保护弱势者。当然，规则本身必须公平、有用。当它服务于清楚的公共目的，而不是某个人的便利时，服从才更合理。",
+      "keywords": [
+        "predictable behaviour",
+        "reduce conflict",
+        "a clear purpose"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-197",
+      "part": 3,
+      "title": "想颁布的新法律",
+      "region": "大陆",
+      "text": "How can parents teach children to obey rules?",
+      "english": "Parents should set a good example and keep their expectations clear. If adults ignore a rule themselves, children may not take it seriously. Explaining the reason and using consistent consequences can help. Children should also be allowed to ask questions, because learning to behave responsibly is more valuable than following instructions without any understanding.",
+      "chinese": "家长应以身作则，把要求讲清楚。如果大人自己不守规则，孩子可能也不会认真对待。解释原因，并保持后果处理的一致性，会有帮助。也应允许孩子提问，因为学会负责任，比毫无理解地照指令做更有价值。",
+      "keywords": [
+        "set an example",
+        "clear expectations",
+        "consistent consequences"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-198",
+      "part": 3,
+      "title": "发小",
+      "region": "大陆",
+      "text": "Do you still keep in touch with your friends from childhood? Why or why not?",
+      "english": "If a childhood friendship still feels meaningful, I would like to keep in touch, even when distance makes meetings difficult. Shared memories can make a conversation feel comfortable. At the same time, I would not maintain contact only out of obligation. Friendships need some current connection as well as history, otherwise they can gradually become less close.",
+      "chinese": "如果童年友谊仍有意义，我愿意保持联系，即使距离让见面变得困难。共同回忆能让交流很自在。不过，我不会只因为义务而联系。友谊既需要历史，也需要当下的联系，否则可能逐渐疏远。",
+      "keywords": [
+        "shared memories",
+        "keep in touch",
+        "a current connection"
+      ],
+      "pending": [
+        "是否仍与童年朋友保持联系未提供；此稿不声称已有联系频率。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-199",
+      "part": 3,
+      "title": "发小",
+      "region": "大陆",
+      "text": "How important is childhood friendship to children?",
+      "english": "Childhood friendships give children opportunities to share, negotiate and deal with disagreements outside the family. A reliable friend can also make school feel less stressful. However, having one or two good friends may be enough; popularity is not the main goal. The important thing is that the relationship feels safe and both children are treated respectfully.",
+      "chinese": "童年友谊让孩子有机会在家庭之外学习分享、协商和处理分歧。可靠的朋友也能减轻上学的压力。不过，有一两个好朋友可能就足够了，受欢迎不是主要目标。关键是关系让人有安全感，双方都得到尊重。",
+      "keywords": [
+        "negotiate",
+        "less stressful",
+        "a safe relationship"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-200",
+      "part": 3,
+      "title": "发小",
+      "region": "大陆",
+      "text": "What do you think of communicating via social media?",
+      "english": "Social media is convenient for keeping in touch across distance and sharing small updates. It can help people arrange meetings or find others with similar interests. But short messages lack tone, and constant notifications can become distracting. I see it as a useful tool, provided people choose when to use it and do not let it replace every conversation.",
+      "chinese": "社交媒体方便远距离联系、分享近况，也能帮助安排见面或结识兴趣相近的人。但短消息缺少语气，持续通知还会分散注意力。我把它看作有用的工具，前提是主动选择使用时间，不让它取代所有交流。",
+      "keywords": [
+        "across distance",
+        "lack tone",
+        "constant notifications"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-201",
+      "part": 3,
+      "title": "发小",
+      "region": "大陆",
+      "text": "Do you think online communication through social media will replace face-to-face communication?",
+      "english": "I do not think it will replace face-to-face communication completely. Online messages are useful when people live far apart, but meeting in person gives us body language and a fuller sense of someone's feelings. Some conversations also need privacy and attention. The two methods can support each other rather than compete for every part of our social lives.",
+      "chinese": "我认为它不会完全取代面对面交流。人们相隔很远时，网上消息很有用，但见面能让我们看到肢体语言，更完整地感受对方的情绪。有些谈话也需要隐私和专注。两种方式可以互相支持，而不是争夺社交生活的每一部分。",
+      "keywords": [
+        "body language",
+        "privacy and attention",
+        "support each other"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-202",
+      "part": 3,
+      "title": "发小",
+      "region": "大陆",
+      "text": "What's the difference between having younger friends and older friends?",
+      "english": "Older friends may offer experience and a different perspective on decisions. Younger friends can introduce new interests or ways of using technology. However, these are possibilities rather than fixed rules. I would value someone who listens and treats me fairly, regardless of age, because shared values and mutual respect matter more than an age difference.",
+      "chinese": "年长朋友可能提供经验，以及看待决定的不同角度。年轻朋友可能带来新兴趣或技术使用方式。不过，这些只是可能性，不是固定规则。不论年龄，我都重视愿意倾听、公平待我的人，因为共同价值观和相互尊重比年龄差更重要。",
+      "keywords": [
+        "a different perspective",
+        "shared values",
+        "mutual respect"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-203",
+      "part": 3,
+      "title": "发小",
+      "region": "大陆",
+      "text": "Has technology changed people's friendships? How?",
+      "english": "Yes, technology has made it easier to maintain friendships over long distances. People can exchange messages, share photos or have a video call without arranging a journey. It also helps them meet people with similar interests. The downside is that easy contact can stay quite shallow, so close friendships still need time, attention and genuine support.",
+      "chinese": "是的，技术让远距离维持友谊更容易。人们不必安排出行，就能发消息、分享照片或视频通话，也更容易结识兴趣相近的人。缺点是方便的联系可能停留在表面，因此亲密友谊仍需要时间、关注和真正的支持。",
+      "keywords": [
+        "long distances",
+        "a video call",
+        "genuine support"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-204",
+      "part": 3,
+      "title": "想从事医疗行业的人",
+      "region": "大陆",
+      "text": "Do you think being a doctor is easy or difficult?",
+      "english": "I think it is difficult, both academically and emotionally. Doctors need extensive knowledge, practical training and the ability to make careful decisions under pressure. They also communicate with people who may be frightened or in pain. Good equipment helps, but it does not remove that responsibility. The work can be rewarding precisely because it matters so much.",
+      "chinese": "我认为很难，无论在学业还是情感层面。医生需要广泛知识、实践训练，以及在压力下谨慎决策的能力，还要与可能害怕或疼痛的人交流。好的设备有所帮助，却不能消除责任。这份工作很有意义，也正因为它如此重要。",
+      "keywords": [
+        "practical training",
+        "under pressure",
+        "responsibility"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-205",
+      "part": 3,
+      "title": "想从事医疗行业的人",
+      "region": "大陆",
+      "text": "Do you think learning biology is interesting for children?",
+      "english": "Biology can be very interesting when children see its connection with the world around them. Learning how a plant grows or how animals adapt is easier to enjoy than memorising isolated terms. Teachers could use observations and simple experiments. Not every child will love the subject, but practical activities give more children a reason to be curious.",
+      "chinese": "当孩子看见生物学与周围世界的联系时，它会很有意思。了解植物如何生长、动物如何适应环境，比背孤立术语更容易让人感兴趣。老师可以使用观察和简单实验。并非每个孩子都会喜欢，但实践活动能让更多孩子产生好奇心。",
+      "keywords": [
+        "the world around them",
+        "simple experiments",
+        "be curious"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-206",
+      "part": 3,
+      "title": "想从事医疗行业的人",
+      "region": "大陆",
+      "text": "Why do some children want to become doctors?",
+      "english": "Some children admire the idea of helping people recover from illness. Others may be inspired by a family member, a teacher or a programme about hospitals. The job can also appear respected and meaningful. As children grow older, they need to learn about the long training and responsibilities as well, so their choice becomes more informed.",
+      "chinese": "有些孩子向往帮助人们康复，也有人受到家人、老师或医院相关节目的启发。这份工作还可能显得受尊重、有意义。随着长大，他们也需要了解漫长的培训和责任，让职业选择建立在更充分的认识上。",
+      "keywords": [
+        "help people recover",
+        "be inspired",
+        "long training"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

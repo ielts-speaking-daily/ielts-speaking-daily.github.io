@@ -1,0 +1,470 @@
+{
+  "schemaVersion": 1,
+  "day": 5,
+  "date": "2026-10-13",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-033",
+    "QB-20261008-01-P1-034",
+    "QB-20261008-01-P1-035",
+    "QB-20261008-01-P1-036",
+    "QB-20261008-01-P1-037",
+    "QB-20261008-01-P1-038",
+    "QB-20261008-01-P1-039",
+    "QB-20261008-01-P1-040",
+    "QB-20261008-01-P2-009",
+    "QB-20261008-01-P2-010",
+    "QB-20261008-01-P3-049",
+    "QB-20261008-01-P3-050",
+    "QB-20261008-01-P3-051",
+    "QB-20261008-01-P3-052",
+    "QB-20261008-01-P3-053",
+    "QB-20261008-01-P3-054",
+    "QB-20261008-01-P3-055",
+    "QB-20261008-01-P3-056",
+    "QB-20261008-01-P3-057",
+    "QB-20261008-01-P3-058",
+    "QB-20261008-01-P3-059",
+    "QB-20261008-01-P3-060"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-033",
+      "part": 1,
+      "title": "Paper",
+      "region": "大陆",
+      "text": "Do people still keep handwritten letters today?",
+      "english": "Yes, some people keep them because they feel more personal than messages on a screen. A handwritten letter can become a reminder of a particular person or period of life.",
+      "chinese": "会，有些人保存手写信，因为它们比屏幕上的消息更有个人情感。一封手写信可以让人想起某个人或人生阶段。",
+      "keywords": [
+        "handwritten letter",
+        "a reminder of"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-034",
+      "part": 1,
+      "title": "Paper",
+      "region": "大陆",
+      "text": "Do you still write physical letters?",
+      "english": "Not regularly. I'd normally send a message online because it's quicker, but a physical letter could be a thoughtful choice for a special occasion.",
+      "chinese": "不经常。我通常会在网上发消息，因为更快；但在特殊场合，一封纸质信件会是很用心的选择。",
+      "keywords": [
+        "a thoughtful choice",
+        "a special occasion"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-035",
+      "part": 1,
+      "title": "Paper",
+      "region": "大陆",
+      "text": "What did you like to do with paper as a child?",
+      "english": "I enjoyed folding paper into simple shapes, like little boats. It didn't require expensive materials, and it was satisfying to turn a plain sheet into something recognisable.",
+      "chinese": "我以前喜欢把纸折成简单的形状，比如小船。这不需要昂贵的材料，把普通纸张变成看得出形状的东西也很有成就感。",
+      "keywords": [
+        "folding paper",
+        "a plain sheet"
+      ],
+      "pending": [
+        "假设童年折纸船，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-036",
+      "part": 1,
+      "title": "Paper",
+      "region": "大陆",
+      "text": "Have you made any crafts with paper?",
+      "english": "Yes, I once made a simple paper bookmark. I decorated it with a few colours, and it was useful because I could actually use it while reading.",
+      "chinese": "做过，我曾做过一个简单的纸书签。我用几种颜色装饰了它，而且它很实用，因为看书时真能用上。",
+      "keywords": [
+        "a paper bookmark",
+        "decorate"
+      ],
+      "pending": [
+        "假设制作并使用纸书签；阅读爱好真实但该事件未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-037",
+      "part": 1,
+      "title": "Secondary school",
+      "region": "大陆",
+      "text": "Is there anything you miss about your secondary school?",
+      "english": "I miss seeing the same classmates every day. It was easy to chat between lessons, and those small conversations made the school day feel less repetitive.",
+      "chinese": "我怀念每天见到同一群同学。课间聊天很方便，这些简短交流也让上学的日子不那么重复单调。",
+      "keywords": [
+        "between lessons",
+        "less repetitive"
+      ],
+      "pending": [
+        "假设怀念中学同学及课间聊天，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-038",
+      "part": 1,
+      "title": "Secondary school",
+      "region": "大陆",
+      "text": "What was your favourite subject at secondary school?",
+      "english": "Mathematics was my favourite subject because I enjoyed working towards a clear answer. That interest would fit quite naturally with my later studies in artificial intelligence.",
+      "chinese": "数学曾是我最喜欢的科目，因为我喜欢一步步找到明确答案。这种兴趣也会与我后来学习人工智能自然契合。",
+      "keywords": [
+        "a clear answer",
+        "fit naturally"
+      ],
+      "pending": [
+        "假设中学最爱数学；AI专业已确认但童年兴趣不能据此推断。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-039",
+      "part": 1,
+      "title": "Secondary school",
+      "region": "大陆",
+      "text": "Were there any subjects that you found difficult at secondary school?",
+      "english": "I found history challenging because there were many dates and events to remember. Understanding the connections helped, but memorising all the details still took effort.",
+      "chinese": "我觉得历史比较难，因为要记很多日期和事件。理解它们的联系有帮助，但记住所有细节仍然很费力。",
+      "keywords": [
+        "take effort",
+        "remember details"
+      ],
+      "pending": [
+        "假设中学历史学科较难，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-040",
+      "part": 1,
+      "title": "Secondary school",
+      "region": "大陆",
+      "text": "Do you remember your first day at secondary school?",
+      "english": "Yes, I remember feeling a little nervous because I didn't know many people. Once we started introducing ourselves, the atmosphere became much more relaxed.",
+      "chinese": "记得，当时我有一点紧张，因为不认识很多人。开始互相介绍之后，气氛就放松多了。",
+      "keywords": [
+        "introducing ourselves",
+        "a relaxed atmosphere"
+      ],
+      "pending": [
+        "假设中学第一天紧张、自我介绍等细节，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-009",
+      "part": 2,
+      "title": "小时候学到的新技能",
+      "region": "大陆",
+      "text": "Describe a new skill you learned when you were a child\nYou should say:\nWhat the skill was\nWho taught you this skill\nHow you learned it\nAnd explain how you felt about learning the skill",
+      "english": "A skill I learned as a child was typing on a computer. I learned it during primary school with help from my mother. It was a small skill, but it gave me more independence when using a computer.\n\nAt first, I had to look for each letter and used only a couple of fingers. My mother showed me how to place my hands and encouraged me to practise with short words rather than rushing straight into long passages.\n\nI improved by doing a little practice regularly. I would type a few sentences, check the mistakes and try again. It was easier to notice progress when I compared my work with something I'd typed before.\n\nI felt proud when typing became more natural. It meant I could write and look things up with less help. Looking back, that skill fits well with my current interests, because I now enjoy programming and spending time on computers. It shows how a simple childhood skill can become the starting point for a much bigger interest, even if the early practice wasn't particularly exciting.",
+      "chinese": "可以描述的一项童年技能是电脑打字。我在小学阶段由母亲帮助学习。虽然是小技能，却让我使用电脑时更独立。\n\n开始时，我必须寻找每个字母，而且只用一两根手指。母亲教我如何摆放双手，并鼓励我先练短单词，而不是急着输入长文章。\n\n我通过定期进行一点练习来进步。我会输入几句话，检查错误，再重试。与以前打过的内容比较时，更容易发现进步。\n\n打字变得自然时，我很自豪。这意味着我能更少依靠别人来写东西和搜索信息。回头看，这项技能很契合我现在的兴趣，因为现在我喜欢编程和使用电脑。它能说明，一个简单的童年技能如何成为更大兴趣的起点，即使初期练习并不特别有趣。",
+      "keywords": [
+        "typing",
+        "primary school",
+        "mother",
+        "short practice",
+        "independence"
+      ],
+      "pending": [
+        "童年学习打字、母亲教授、练习过程全部为候选；确认或替换后作为个人经历使用"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-010",
+      "part": 2,
+      "title": "喜欢拍照的人",
+      "region": "大陆",
+      "text": "Describe a person you know who really likes taking photos\nYou should say:\nWho the person is\nWhen and how you got to know him/her\nWhere he/she takes photos\nAnd explain how you feel about him/her",
+      "english": "A person I'd describe as enjoying photography is a friend from university. We met through our studies and became friends because we both liked talking about technology and creative interests.\n\nThey take photos in ordinary places, such as streets, parks and the campus. They are interested in small details, like the way light falls on a building or how a familiar place looks at a different time of day. They don't need every picture to be taken somewhere famous.\n\nWhen we go out, they sometimes stop to take a photo and explain what caught their attention. At first, I might not notice the same thing, but looking at the picture helps me understand their point of view.\n\nI like this interest because it encourages people to pay attention to their surroundings. I'm more used to thinking through problems with a computer, so photography would offer a different kind of observation. I wouldn't mind waiting a little while they take pictures, as long as we still have time to enjoy the place together.",
+      "chinese": "我想描述的一位摄影爱好者是我大学时的朋友。我们在学习中认识，也因为都喜欢聊技术和有创意的爱好而成为朋友。\n\n这位朋友会在街道、公园、校园等普通地方拍照，关注细节，例如光照在建筑上的方式，或熟悉的地方在不同时间呈现的样子。照片不必都拍于知名景点。\n\n一起外出时，这位朋友有时会停下来拍照，解释是什么吸引了自己的注意。开始时，我可能看不到同样的细节，但照片能帮助我理解对方的视角。\n\n我喜欢这种兴趣，因为它鼓励人们注意周围环境。我更习惯用电脑思考问题，因此摄影能提供另一种观察方式。只要仍有时间一起享受这个地方，我不会介意等一会儿让朋友拍照。",
+      "keywords": [
+        "university friend",
+        "ordinary places",
+        "light and details",
+        "different perspective",
+        "shared outing"
+      ],
+      "pending": [
+        "大学摄影朋友、认识方式及一起外出活动全部为候选"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-049",
+      "part": 3,
+      "title": "小时候学到的新技能",
+      "region": "大陆",
+      "text": "Is it important for everyone to have a specialized skill?",
+      "english": "A specialized skill can give someone useful career options and a stronger sense of competence. Programming, for example, allows people to build tools rather than only use them. However, not everyone needs to become an expert in a narrow field. Communication, adaptability, and everyday problem-solving also matter. A useful combination of skills may be better than specialization alone.",
+      "chinese": "专项技能能提供有用的职业选择，并增强胜任感。例如，编程让人能构建工具，而非只使用工具。但不是每个人都必须成为狭窄领域的专家。沟通、适应性和日常解题也重要。有用的技能组合可能优于单一专业化。",
+      "keywords": [
+        "specialized skill",
+        "programming",
+        "adaptability",
+        "combination"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-050",
+      "part": 3,
+      "title": "小时候学到的新技能",
+      "region": "大陆",
+      "text": "Can a child learn skills from another child?",
+      "english": "Yes, children often learn by watching and copying one another. A child who understands a game or a simple computer task can explain it in familiar language. Learning from a friend may also feel less intimidating. However, children can pass on mistakes, so an adult should provide guidance when safety or accurate information is important.",
+      "chinese": "是的，孩子常通过观察和模仿同伴学习。理解游戏或简单电脑操作的孩子，可以用熟悉语言解释。向朋友学习也可能不那么令人紧张。但孩子也会传递错误，所以涉及安全或准确知识时，成年人应提供指导。",
+      "keywords": [
+        "watch and copy",
+        "familiar language",
+        "friends",
+        "guidance"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-051",
+      "part": 3,
+      "title": "小时候学到的新技能",
+      "region": "大陆",
+      "text": "Do you think it is easier for children to learn new skills than for adults?",
+      "english": "Children may pick up new sounds or movements quickly because they practise through play and aren't always afraid of mistakes. Adults, however, can use experience and set clear goals. For a complex skill like programming, that can be a real advantage. So children aren't automatically better learners; the type of skill and the learning conditions both matter.",
+      "chinese": "孩子可能很快掌握新的声音或动作，因为他们通过玩耍练习，也不总怕犯错。成年人则能利用经验、设立清晰目标。对于编程这样的复杂技能，这可能是真实优势。所以孩子并非自动更擅长学习；技能类型与学习条件都重要。",
+      "keywords": [
+        "play",
+        "mistakes",
+        "experience",
+        "programming"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-052",
+      "part": 3,
+      "title": "小时候学到的新技能",
+      "region": "大陆",
+      "text": "What are the differences between the way adults learn and the way children learn?",
+      "english": "Adults often want to know why a skill is useful before investing their time in it. They may use plans, instructions, and previous knowledge. Children are more likely to explore through games and imitation. Of course, these aren't fixed rules. An adult can learn through play, and a child can benefit from a clear explanation too.",
+      "chinese": "成年人投入时间前，常想知道技能有什么用途。他们可能利用计划、说明和既有知识。孩子更可能通过游戏和模仿探索。当然，这并非固定规则。成年人也能通过玩耍学习，孩子也能从清晰解释中受益。",
+      "keywords": [
+        "purpose",
+        "plans",
+        "games",
+        "imitation"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-053",
+      "part": 3,
+      "title": "小时候学到的新技能",
+      "region": "大陆",
+      "text": "What are the differences between learning in a group and learning by yourself?",
+      "english": "Learning in a group gives people feedback and different ways to solve a problem. It can also keep them motivated. Studying alone offers more control over pace and fewer distractions. For a technical subject, I think combining the two works well: first understand the basics independently, then discuss difficult points with others and compare possible solutions.",
+      "chinese": "小组学习提供反馈和不同解题方式，也能保持动力。独学则能更好控制节奏、减少干扰。对技术学科，我认为结合两者效果不错：先独立理解基础，再与他人讨论难点、比较可能的解法。",
+      "keywords": [
+        "feedback",
+        "motivation",
+        "own pace",
+        "combine"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-054",
+      "part": 3,
+      "title": "小时候学到的新技能",
+      "region": "大陆",
+      "text": "What skills should children learn before they go to school?",
+      "english": "Basic independence and social skills are more useful than advanced academic knowledge at that stage. Children should practise expressing their needs, taking turns, and asking for help. Simple tasks like washing their hands and looking after their belongings also matter. These skills make the classroom less confusing and help children feel comfortable around teachers and other children.",
+      "chinese": "这个阶段，基本独立能力和社交能力比超前学术知识更有用。孩子应练习表达需求、轮流和求助。洗手、照顾个人物品等简单任务也重要。这些技能让课堂不那么难理解，并帮助孩子在老师和同伴周围感到自在。",
+      "keywords": [
+        "independence",
+        "take turns",
+        "ask for help",
+        "belongings"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-055",
+      "part": 3,
+      "title": "喜欢拍照的人",
+      "region": "大陆",
+      "text": "Some people don't mind others walking into their shot when they're taking photos.",
+      "english": "I can understand that attitude, especially in a busy public place where a completely empty background is unrealistic. Other people can even make a photo look more natural. However, someone taking a carefully planned portrait may prefer a clear shot. It helps to be patient and considerate, rather than expecting everyone nearby to stop moving for a photograph.",
+      "chinese": "我能理解这种态度，尤其在繁忙公共场所，完全空的背景并不现实。其他人甚至能让照片更自然。但拍摄精心设计的人像的人，可能更希望画面不受遮挡。耐心和体贴有帮助，而不应要求附近所有人为了照片停止移动。",
+      "keywords": [
+        "public place",
+        "natural photo",
+        "clear shot",
+        "consideration"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证",
+        "原文为陈述句，实际问句待核；本稿仅是假设考官要求评价该说法时的候选回应"
+      ],
+      "sourceIssue": "原文为陈述句，疑似缺问句，待核；不自行补题",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-056",
+      "part": 3,
+      "title": "喜欢拍照的人",
+      "region": "大陆",
+      "text": "Why do tourists like taking photos while they are travelling?",
+      "english": "Photos help tourists keep memories of places they may never visit again. They can also share the experience with family and friends who stayed at home. Sometimes taking a photo encourages people to notice interesting details, such as a building's design. Still, if they photograph everything, they may spend more time looking at a screen than enjoying the trip.",
+      "chinese": "照片帮助游客保留可能不会再去的地方的记忆，也能把经历分享给留在家的亲友。有时拍照促使人留意有趣细节，比如建筑设计。但如果什么都拍，可能看屏幕的时间多于享受旅行的时间。",
+      "keywords": [
+        "memories",
+        "share",
+        "details",
+        "enjoy the trip"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-057",
+      "part": 3,
+      "title": "喜欢拍照的人",
+      "region": "大陆",
+      "text": "Do you think it’s ok to take photos everywhere?",
+      "english": "No, some places need clear limits. Hospitals may protect patients' privacy, and museums may restrict photography to protect objects or improve the visitor experience. People should also ask before taking close photos of strangers. Being able to take a picture doesn't automatically mean it is appropriate. Respecting signs and people's comfort should come before getting an interesting shot.",
+      "chinese": "不，有些地方需要明确限制。医院可能要保护患者隐私，博物馆可能限制摄影以保护展品或改善参观体验。近距离拍陌生人前也应询问。能拍照不自动代表合适。遵守标识、尊重人的舒适感，应先于得到有趣照片。",
+      "keywords": [
+        "privacy",
+        "museum rules",
+        "ask first",
+        "respect"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-058",
+      "part": 3,
+      "title": "喜欢拍照的人",
+      "region": "大陆",
+      "text": "What kind of photos do people often take?",
+      "english": "People often photograph family, friends, food, and places they visit. Some pictures record important occasions, while others capture ordinary moments that seem worth remembering. With phones, practical photos are common too, such as a timetable or a document. So photography isn't only about beautiful images; it can also help people store useful information for later.",
+      "chinese": "人们常拍家人、朋友、食物和去过的地方。有些照片记录重要场合，另一些抓住值得记住的普通瞬间。手机也让实用照片常见，比如时间表或文件。因此，摄影不只关乎美丽图像，还帮助人们保存以后有用的信息。",
+      "keywords": [
+        "people",
+        "food",
+        "memories",
+        "information"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-059",
+      "part": 3,
+      "title": "喜欢拍照的人",
+      "region": "大陆",
+      "text": "Why are some people keen on taking photos?",
+      "english": "For some people, photography is a creative hobby. They enjoy choosing the light, angle, and composition rather than simply recording an event. Others like keeping memories or sharing experiences online. It can also be satisfying to notice something beautiful that everyone else overlooks. Different motives can exist together, so a keen photographer doesn't necessarily take photos only for attention.",
+      "chinese": "对有些人，摄影是创造性爱好。他们享受选择光线、角度和构图，而非只是记录事件。另一些人喜欢保存记忆或网上分享经历。发现别人忽略的美也令人满足。不同动机能并存，因此热衷摄影者未必只为获取关注。",
+      "keywords": [
+        "creativity",
+        "light and angle",
+        "memories",
+        "notice beauty"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-060",
+      "part": 3,
+      "title": "喜欢拍照的人",
+      "region": "大陆",
+      "text": "When do people like taking photos?",
+      "english": "Celebrations and holidays are obvious occasions because people want to remember them. They also take photos when they see an attractive view, finish a project, or spend time with someone important. Nowadays, even an ordinary meal may become a photo opportunity. The common idea is that something feels worth preserving, whether it is a major event or a small moment.",
+      "chinese": "庆祝和假期是明显场合，因为人们想记住它们。看到好景、完成项目或与重要的人相处时，也会拍照。如今，普通一餐也可能成为拍照机会。共同点是觉得某事值得保存，不论重大事件还是小瞬间。",
+      "keywords": [
+        "celebrations",
+        "views",
+        "projects",
+        "small moments"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

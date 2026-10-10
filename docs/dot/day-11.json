@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 11,
+  "date": "2026-10-19",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-073",
+    "QB-20261008-01-P1-074",
+    "QB-20261008-01-P1-075",
+    "QB-20261008-01-P1-076",
+    "QB-20261008-01-P1-077",
+    "QB-20261008-01-P1-078",
+    "QB-20261008-01-P1-079",
+    "QB-20261008-01-P1-080",
+    "QB-20261008-01-P2-020",
+    "QB-20261008-01-P2-021",
+    "QB-20261008-01-P3-110",
+    "QB-20261008-01-P3-111",
+    "QB-20261008-01-P3-112",
+    "QB-20261008-01-P3-113",
+    "QB-20261008-01-P3-114",
+    "QB-20261008-01-P3-115",
+    "QB-20261008-01-P3-116",
+    "QB-20261008-01-P3-117",
+    "QB-20261008-01-P3-118",
+    "QB-20261008-01-P3-119",
+    "QB-20261008-01-P3-120",
+    "QB-20261008-01-P3-121"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-073",
+      "part": 1,
+      "title": "Websites",
+      "region": "大陆",
+      "text": "Would you like to have your own website?",
+      "english": "Yes, perhaps a simple site about my research and projects. Since I plan to pursue a PhD abroad, it could be a useful way to introduce my interests.",
+      "chinese": "想，也许建一个介绍我的研究与项目的简单网站。我计划海外读博，所以这可以是介绍个人兴趣的有用方式。",
+      "keywords": [
+        "a simple site",
+        "introduce my interests"
+      ],
+      "pending": [
+        "海外博士计划真实；建站愿望与展示项目方案为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-074",
+      "part": 1,
+      "title": "Websites",
+      "region": "大陆",
+      "text": "What have you learned from websites that help with your life or studies?",
+      "english": "I've learned ways to solve programming problems by reading online explanations. Comparing different approaches can be useful because the first solution isn't always the clearest or most efficient.",
+      "chinese": "我通过阅读网上解释，学过解决编程问题的方法。比较不同方法很有用，因为第一个方案未必最清楚或最高效。",
+      "keywords": [
+        "compare approaches",
+        "solve programming problems"
+      ],
+      "pending": [
+        "编程爱好真实；具体通过网站学习的经历未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-075",
+      "part": 1,
+      "title": "Watch",
+      "region": "大陆",
+      "text": "Do you wear a watch?",
+      "english": "Not usually. I'd normally check the time on my phone, so a watch wouldn't be essential. I'd consider wearing one if it was comfortable and served a clear purpose.",
+      "chinese": "通常不戴。我一般会用手机看时间，所以手表不是必需品。如果戴着舒服，又有明确用途，我会考虑戴。",
+      "keywords": [
+        "check the time",
+        "a clear purpose"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-076",
+      "part": 1,
+      "title": "Watch",
+      "region": "大陆",
+      "text": "Have you ever got a watch as a gift?",
+      "english": "Yes, I once received a simple watch from a family member. I valued the thought behind it more than the price, so it felt like a personal gift.",
+      "chinese": "收过，我曾收到一位家人送的简单手表。我看重的是其中的心意，而不只是价格，所以感觉这是一份很有个人意义的礼物。",
+      "keywords": [
+        "the thought behind it",
+        "a personal gift"
+      ],
+      "pending": [
+        "假设家人送过手表；赠送人、时间及事件未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-077",
+      "part": 1,
+      "title": "Watch",
+      "region": "大陆",
+      "text": "Why do some people wear expensive watches?",
+      "english": "Some appreciate the design and craftsmanship, while others see a watch as a symbol of success. The reasons vary, and the price alone doesn't explain its appeal.",
+      "chinese": "有人欣赏设计和工艺，也有人把手表看成成功的象征。原因各不相同，单凭价格不能解释它的吸引力。",
+      "keywords": [
+        "craftsmanship",
+        "a symbol of success"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-078",
+      "part": 1,
+      "title": "Watch",
+      "region": "大陆",
+      "text": "Do you think it is important to wear a watch? Why?",
+      "english": "Not essential for everyone. A watch is convenient, but most people can check the time on another device. I'd say it depends on someone's habits and preferences.",
+      "chinese": "并不是人人都必须戴。手表很方便，但大多数人也能用其他设备看时间。我觉得这取决于个人习惯和偏好。",
+      "keywords": [
+        "not essential",
+        "habits and preferences"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-079",
+      "part": 1,
+      "title": "Shopping",
+      "region": "大陆",
+      "text": "Do you like shopping?",
+      "english": "I enjoy buying something useful more than browsing shops for hours. Books or computer-related items would interest me, but shopping itself wouldn't be one of my main hobbies.",
+      "chinese": "比起逛商店几个小时，我更喜欢买有用的东西。书或电脑相关用品会让我感兴趣，但购物本身不是我的主要爱好。",
+      "keywords": [
+        "something useful",
+        "browsing shops"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-080",
+      "part": 1,
+      "title": "Shopping",
+      "region": "大陆",
+      "text": "How often do you go shopping?",
+      "english": "I'd shop when I need something rather than follow a fixed schedule. For everyday items, smaller purchases would be more practical than turning each trip into a major outing.",
+      "chinese": "我会在有需要时购物，而不是遵循固定时间。日常用品分次少量买更实际，不必把每次购物都变成大型出行。",
+      "keywords": [
+        "a fixed schedule",
+        "everyday items"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-020",
+      "part": 2,
+      "title": "不喜欢的短途旅行",
+      "region": "大陆",
+      "text": "Describe a short trip you often take but do not like\nYou should say:\nWhere you go\nWhen you go there\nWhy you go there\nAnd explain why you do not like the trip",
+      "english": "A short trip I'd describe as necessary but not enjoyable is the journey from my apartment to the university when I need to attend a meeting. I take a bus, and I make the trip regularly during the study term.\n\nI go there because some research discussions are easier to have in person. We can look at the same materials and ask questions immediately. So the destination is useful, even though the journey itself isn't something I look forward to.\n\nThe main problem is that the travelling time can be unpredictable. If the road is busy, a short distance may take much longer than expected. I also find it harder to read or concentrate when the bus is crowded and people are moving around me.\n\nI don't dislike travelling in general; I enjoyed having the chance to visit Europe. This trip feels different because it's repeated and mainly serves a practical purpose. I'd prefer a more reliable journey or the option of an online meeting when being there in person isn't really necessary. That would help me use my time more efficiently.",
+      "chinese": "一段有必要但让我不太享受的短途行程，是需要参加会议时，从公寓去大学的路程。我乘公交车，并在学期中经常往返。\n\n我去大学，是因为有些研究讨论当面进行更方便。我们能一起看相同的材料，马上提问。因此，去学校是有用的，尽管我并不期待这段路程。\n\n主要问题是行程时间可能不稳定。道路繁忙时，短距离也可能花很久。公交拥挤、周围人移动时，我也更难阅读或集中注意力。\n\n我并不是不喜欢旅行本身，我很享受能去欧洲参观的机会。这段行程不同，因为它重复发生，主要是为了办事。我更希望行程稳定，或者在不必现场参加时可以线上开会。这样能更有效地利用时间。",
+      "keywords": [
+        "apartment to university",
+        "regular bus journey",
+        "meetings",
+        "unpredictable traffic",
+        "efficient use of time"
+      ],
+      "pending": [
+        "当前居所与学校之间的通勤、交通方式、频率、会议和不喜欢的理由均为候选；不要用一次欧洲行硬替代经常往返短途题"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-021",
+      "part": 2,
+      "title": "受欢迎的人",
+      "region": "大陆",
+      "text": "Describe a popular person\nYou should say:\nWho this person is\nWhat kind of person he or she is\nWhen you see him/her normally\nAnd explain why you think this person is popular",
+      "english": "A popular person I'd like to describe is my supervisor. I'm a master's student working in AI and robotics, so I normally see them during research discussions and meetings at university.\n\nThey are a knowledgeable person, but what makes them approachable is the way they speak to students. They listen carefully and explain difficult points without making someone feel foolish for asking a basic question. They can be serious about the work while still creating a relaxed atmosphere.\n\nFor example, if a student is stuck on a problem, they ask what has already been tried and help identify the next step. That feels more useful than simply pointing out that the result is wrong. They also give quieter students a chance to speak, instead of letting the most confident person dominate the discussion.\n\nI think they are popular because students feel respected and supported. I'm generally quiet, especially around people I don't know well, so that kind of atmosphere matters to me. Their popularity seems to come from consistent behaviour rather than trying to entertain everyone. To me, that's a more meaningful kind of popularity.",
+      "chinese": "我想描述的一位受欢迎的人是我的导师。我是研究人工智能和机器人的硕士生，所以通常会在学校的研究讨论和会议中见到导师。\n\n导师知识丰富，而他们与学生交流的方式让人觉得很容易亲近。他们会认真倾听、解释难点，不会让学生因为问了一个基础问题就觉得自己很笨。他们对待工作很认真，同时也能营造轻松的气氛。\n\n例如，学生遇到问题时，导师会先问已经尝试过哪些方法，再帮助确定下一步该怎么做。这比单纯指出结果错了更有用。他们也会给比较安静的学生发言机会，而不是让最自信的人主导整个讨论。\n\n我认为导师受欢迎，是因为学生能够感受到尊重和支持。我平时比较安静，尤其是在不太熟悉的人面前，所以这样的气氛对我很重要。导师的好人缘似乎来自一贯的待人方式，而不是刻意逗所有人开心。对我来说，这是一种更有意义的受欢迎。",
+      "keywords": [
+        "supervisor",
+        "research meetings",
+        "listen carefully",
+        "quieter students",
+        "respect"
+      ],
+      "pending": [
+        "导师受欢迎程度、见面频率、具体指导和分配发言的做法是授权候选，待用户确认；尚未作答。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-110",
+      "part": 3,
+      "title": "不喜欢的电影",
+      "region": "大陆",
+      "text": "Should documentary films be completely truthful?",
+      "english": "Documentaries should be honest about the facts they present. They can select and organize material, because no film can include everything, but they shouldn't invent events or mislead the audience through editing. If a scene is reconstructed, that should be clear. Viewers need to distinguish evidence from interpretation so they can trust the film without treating one perspective as the whole story.",
+      "chinese": "纪录片应诚实呈现事实。可以选择组织材料，因为电影不可能包含一切，但不应编事件或通过剪辑误导。若场景是重现，应明确。观众需区分证据与解读，才能信任影片又不把一个视角当全部。",
+      "keywords": [
+        "facts",
+        "editing",
+        "reconstruction",
+        "interpretation"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-111",
+      "part": 3,
+      "title": "不喜欢的电影",
+      "region": "大陆",
+      "text": "Can movies help people better understand the cultural background of a country?",
+      "english": "Yes, movies can show everyday details such as food, family relationships, and ways of speaking. That makes culture feel more concrete than a short description. However, a film represents particular characters and the director's choices, not every person in a country. It is a useful starting point, especially when viewers also read or talk to people from that background.",
+      "chinese": "是的，电影展示食物、家庭关系、说话方式等日常细节，让文化比简短描述更具体。但电影呈现特定角色和导演选择，不代表全国所有人。它是有用起点，尤其观众也阅读或与该文化背景的人交谈时。",
+      "keywords": [
+        "daily details",
+        "culture",
+        "director",
+        "starting point"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-112",
+      "part": 3,
+      "title": "不喜欢的电影",
+      "region": "大陆",
+      "text": "Are movies more likely to help people become more creative than books?",
+      "english": "Movies and books stimulate imagination in different ways. A film can demonstrate visual design, music, and movement, which may inspire creative ideas. A book leaves more details for the reader to imagine and often explores thoughts more deeply. I wouldn't rank one above the other. Using both can give people a broader set of ideas and ways of expressing them.",
+      "chinese": "电影与书以不同方式激发想象。影片展示视觉设计、音乐和动作，可能启发创意。书让读者自行想象更多细节，通常更深入探索思考。我不会给两者排高下。兼用能提供更广的想法与表达方式。",
+      "keywords": [
+        "visual design",
+        "imagination",
+        "depth",
+        "both media"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-113",
+      "part": 3,
+      "title": "不喜欢的电影",
+      "region": "大陆",
+      "text": "What are the differences between watching movies at home and in a cinema?",
+      "english": "A cinema offers a large screen, strong sound, and fewer interruptions, so the film can feel more immersive. At home, people can pause, choose their own snacks, and avoid travel costs. The atmosphere is more flexible but distractions are easier. I would choose a cinema for a visually impressive film and home for a relaxed, convenient viewing experience.",
+      "chinese": "影院提供大屏幕、强声音和较少打断，影片更有沉浸感。在家能暂停、自选零食、免去出行费用。环境更灵活但也更易分心。我会为视觉出色的电影选影院，为轻松方便体验选在家。",
+      "keywords": [
+        "large screen",
+        "immersion",
+        "pause",
+        "convenience"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-114",
+      "part": 3,
+      "title": "不喜欢的电影",
+      "region": "大陆",
+      "text": "What kinds of movies are the most popular in China?",
+      "english": "I'd put comedies, action films, and family-friendly animation among the widely enjoyed choices in China. They offer entertainment that people can share with friends or relatives. Science-fiction films also attract viewers interested in technology and imagined futures. I wouldn't claim one genre is always the most popular, because a strong story or a particular release can change what attracts attention.",
+      "chinese": "我会把喜剧、动作片和适合家庭的动画列为中国广受喜欢的选择。它们提供可与亲友共享的娱乐。科幻也吸引关心技术与想象未来的观众。我不会断言一种类型一直最流行，因为好故事或某次上映能改变关注方向。",
+      "keywords": [
+        "comedy",
+        "action",
+        "animation",
+        "science fiction"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-115",
+      "part": 3,
+      "title": "不喜欢的短途旅行",
+      "region": "大陆",
+      "text": "What problems does it cause for transportation when everyone commutes at the same time?",
+      "english": "When many people travel at once, roads become congested and public transport gets crowded. People may wait longer, struggle to board, or arrive late. The pressure is concentrated into a short period even if capacity is available later. Flexible starting times and reliable public transport can spread the demand, reducing the need for everyone to use the same route simultaneously.",
+      "chinese": "很多人同时出行时，道路拥堵、公交拥挤。人们可能等更久、难上车或迟到。即使稍后有运力，压力也集中短时间。灵活开始时间与可靠公交可分散需求，降低大家同时用同一路线的需要。",
+      "keywords": [
+        "congestion",
+        "crowding",
+        "peak demand",
+        "flexible hours"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-116",
+      "part": 3,
+      "title": "不喜欢的短途旅行",
+      "region": "大陆",
+      "text": "What are the benefits of travelling abroad?",
+      "english": "Travelling abroad can expose people to different daily routines, cultures, and ways of solving problems. It also encourages practical independence, such as navigating an unfamiliar place. For students, visiting museums or attending academic events can broaden their perspective. The benefits are greater when people pay attention and interact respectfully, rather than only move between famous places for photographs.",
+      "chinese": "出国旅行让人接触不同日常、文化和解题方式，也鼓励实际独立，比如在陌生地方找路。对学生，参观博物馆或参加学术活动可拓宽视角。认真观察、尊重交流，比只在著名地点间打卡拍照，更能受益。",
+      "keywords": [
+        "culture",
+        "independence",
+        "museums",
+        "interaction"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-117",
+      "part": 3,
+      "title": "不喜欢的短途旅行",
+      "region": "大陆",
+      "text": "Which is better for knowing more about a country? Travelling or reading books about it?",
+      "english": "Travelling is better for firsthand experience, while books are often better for background and explanation. A visitor can see everyday behaviour but may not understand its history or meaning. Reading can fill those gaps, although it can't fully reproduce being there. I would combine them: learn some context before a trip, then use the experience to ask more thoughtful questions.",
+      "chinese": "旅行更适合亲身体验，书更适合背景解释。访客可看日常行为，却未必理解历史意义。阅读补缺，但无法完全复制身临其境。我会结合：出发前学背景，再用旅行体验提出更深入的问题。",
+      "keywords": [
+        "firsthand",
+        "background",
+        "history",
+        "combine"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-118",
+      "part": 3,
+      "title": "不喜欢的短途旅行",
+      "region": "大陆",
+      "text": "How much time do you think people should spend on a trip abroad?",
+      "english": "For a leisure trip, I think one or two weeks can be a reasonable starting point, if time and money allow. It gives people room to explore without rushing every day. A nearby destination may need less time, while a long journey can justify more. The goal should be a manageable pace and meaningful experience, not simply visiting the maximum number of cities.",
+      "chinese": "休闲旅行如果时间金钱允许，我认为一两周是合理起点。这样能探索，不必天天赶。近的目的地可能需更少，长途可值得更多时间。目标应是可管理节奏和有意义体验，而非仅去最多城市。",
+      "keywords": [
+        "one or two weeks",
+        "budget",
+        "pace",
+        "experience"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-119",
+      "part": 3,
+      "title": "不喜欢的短途旅行",
+      "region": "大陆",
+      "text": "Who prefers travelling abroad? The young or the old?",
+      "english": "Younger people may seek independence, new experiences, or study opportunities abroad. Older people may have more free time after retirement and enjoy cultural travel at a slower pace. Neither group automatically prefers it more. Health, money, and personal interests matter a great deal. I would expect different travel styles rather than a simple age-based divide in willingness to go abroad.",
+      "chinese": "年轻人可能追求独立、新体验或海外学习机会。老人退休后可能有更多时间，以慢节奏享受文化旅行。两群体没有谁自动更喜欢。健康、金钱和兴趣很重要。我预期的是旅行风格差别，而非简单按年龄区分出国意愿。",
+      "keywords": [
+        "independence",
+        "retirement",
+        "resources",
+        "travel styles"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-120",
+      "part": 3,
+      "title": "不喜欢的短途旅行",
+      "region": "大陆",
+      "text": "Do Chinese people like travelling abroad?",
+      "english": "Many Chinese people are interested in travelling abroad to see different scenery, try food, or experience another culture. However, not everyone has the same budget or available time, and some prefer domestic trips. Interest also doesn't always turn into an actual journey. I would say overseas travel appeals to a range of people, rather than describe it as a universal preference.",
+      "chinese": "许多中国人有兴趣出国看不同风景、尝食物、体验文化。但并非人人预算和时间相同，有人偏国内游。兴趣也未必转成实际旅行。我会说海外游吸引多种人群，而非全民统一偏好。",
+      "keywords": [
+        "scenery",
+        "food",
+        "culture",
+        "different preferences"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-121",
+      "part": 3,
+      "title": "受欢迎的人",
+      "region": "大陆",
+      "text": "Why do people want to be popular?",
+      "english": "Being popular can make people feel accepted and valued. It may also bring social or professional opportunities, because others are more willing to involve them. However, constant attention can create pressure to maintain an image. I think wanting good relationships is natural, but chasing approval from everyone can distract people from their own interests and the friendships that actually matter.",
+      "chinese": "受欢迎让人觉得被接纳、被重视，也可能带来社交职业机会，因为他人更愿让他们参与。但持续关注会带来维持形象的压力。我觉得想有好关系自然，但追求人人认可会分散对自身兴趣和重要友谊的注意。",
+      "keywords": [
+        "acceptance",
+        "opportunities",
+        "image",
+        "real friendships"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

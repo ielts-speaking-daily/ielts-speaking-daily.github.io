@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 16,
+  "date": "2026-10-24",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-105",
+    "QB-20261008-01-P1-106",
+    "QB-20261008-01-P1-107",
+    "QB-20261008-01-P1-108",
+    "QB-20261008-01-P1-109",
+    "QB-20261008-01-P1-110",
+    "QB-20261008-01-P1-111",
+    "QB-20261008-01-P1-112",
+    "QB-20261008-01-P2-028",
+    "QB-20261008-01-P2-029",
+    "QB-20261008-01-P3-158",
+    "QB-20261008-01-P3-159",
+    "QB-20261008-01-P3-160",
+    "QB-20261008-01-P3-161",
+    "QB-20261008-01-P3-162",
+    "QB-20261008-01-P3-163",
+    "QB-20261008-01-P3-164",
+    "QB-20261008-01-P3-165",
+    "QB-20261008-01-P3-166",
+    "QB-20261008-01-P3-167",
+    "QB-20261008-01-P3-168",
+    "QB-20261008-01-P3-169"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-105",
+      "part": 1,
+      "title": "Mirrors",
+      "region": "大陆",
+      "text": "Do you usually take a mirror with you？",
+      "english": "No, I wouldn't normally carry one. If I needed a quick check while I was out, I'd probably use my phone rather than add another item to my bag.",
+      "chinese": "不会，我通常不会带。如果在外面需要简单看一下，我可能会用手机，而不是往包里再添一样东西。",
+      "keywords": [
+        "a quick check",
+        "another item"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-106",
+      "part": 1,
+      "title": "Mirrors",
+      "region": "大陆",
+      "text": "Would you use mirrors to decorate your room?",
+      "english": "Possibly, but I'd keep it simple. A well-placed mirror can make a room feel brighter, though I'd prefer useful furniture to lots of decorative details.",
+      "chinese": "可能会，但我会保持简单。位置合适的镜子能让房间显得更明亮，不过我更喜欢实用家具，而不是很多装饰细节。",
+      "keywords": [
+        "well placed",
+        "feel brighter"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-107",
+      "part": 1,
+      "title": "Outer space and stars",
+      "region": "大陆",
+      "text": "Have you ever learnt about outer space and stars?",
+      "english": "I've learned some basics through school and general-interest videos. I find the scale of space fascinating, although I wouldn't claim to know much technical astronomy.",
+      "chinese": "我通过学校和科普视频学过一些基础知识。宇宙的尺度让我着迷，不过我不会说自己了解很多专业天文学知识。",
+      "keywords": [
+        "the scale of space",
+        "technical astronomy"
+      ],
+      "pending": [
+        "候选学校与视频学习太空知识的经历，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-108",
+      "part": 1,
+      "title": "Outer space and stars",
+      "region": "大陆",
+      "text": "Do you like science fiction movies? Why?",
+      "english": "I'd enjoy science fiction that explores thoughtful questions about technology. Since I study AI, stories about intelligent machines could be especially interesting, provided the plot is engaging too.",
+      "chinese": "我会喜欢探讨技术问题、引人思考的科幻作品。因为我学AI，智能机器的故事可能特别有趣，前提是情节也有吸引力。",
+      "keywords": [
+        "thoughtful questions",
+        "an engaging plot"
+      ],
+      "pending": [
+        "AI专业真实；科幻电影偏好为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-109",
+      "part": 1,
+      "title": "Outer space and stars",
+      "region": "大陆",
+      "text": "Do you want to know more about outer space?",
+      "english": "Yes, out of curiosity rather than as a career plan. I'd like to understand how scientists study distant objects and what they can infer from limited information.",
+      "chinese": "想了解，是出于好奇，而不是职业计划。我想知道科学家如何研究遥远天体，以及怎样从有限信息中作出推断。",
+      "keywords": [
+        "out of curiosity",
+        "limited information"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-110",
+      "part": 1,
+      "title": "Outer space and stars",
+      "region": "大陆",
+      "text": "Do you want to go into outer space in the future?",
+      "english": "I'd be curious, but probably not ready to go myself. Space travel sounds exciting, yet I'd want to understand the risks and requirements before seriously considering it.",
+      "chinese": "我会好奇，但大概还没准备亲自去。太空旅行听起来很刺激，不过认真考虑前，我想先了解风险和要求。",
+      "keywords": [
+        "understand the risks",
+        "seriously considering"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-111",
+      "part": 1,
+      "title": "Singing",
+      "region": "大陆",
+      "text": "Do you like singing? Why?",
+      "english": "Not very much in public. I'd be more comfortable singing casually around people I know well, because I'm fairly quiet until I feel familiar with someone.",
+      "chinese": "我不太喜欢在公开场合唱歌。熟人身边随意唱唱会更自在，因为在和对方熟悉之前，我通常比较安静。",
+      "keywords": [
+        "people I know well",
+        "feel familiar"
+      ],
+      "pending": [
+        "安静、熟人面前更健谈真实；唱歌习惯与喜好为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-112",
+      "part": 1,
+      "title": "Singing",
+      "region": "大陆",
+      "text": "Have you ever learnt how to sing?",
+      "english": "Only a little through school music lessons. I learned to follow a melody, but I didn't develop proper singing technique, so I wouldn't call myself a trained singer.",
+      "chinese": "只通过学校音乐课学过一点。我学会了跟着旋律唱，但没有练出正规的唱歌技巧，所以不算受过训练的歌手。",
+      "keywords": [
+        "follow a melody",
+        "singing technique"
+      ],
+      "pending": [
+        "候选学校唱歌学习经历，与051的普通学校音乐课保持一致。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-028",
+      "part": 2,
+      "title": "喜欢或不喜欢的高建筑",
+      "region": "大陆",
+      "text": "Describe a tall building you like or dislike\nYou should say:\nWhat it is used for\nWhere it is\nWhat it looks like\nAnd explain why you like/dislike it",
+      "english": "A tall building I like is a residential tower in the city where I live in Guangdong. It is mainly used for apartments, with shared entrances and practical facilities for the residents.\n\nThe building has many floors and a fairly simple shape. I wouldn't call it a dramatic landmark. What I like is the balance between a modern appearance and everyday usefulness. The windows let in plenty of light, and the areas around the entrance feel clear and easy to understand.\n\nI became interested in it because I live in an apartment myself, so I notice how residential buildings can make daily life easier or more difficult. A tower may look impressive from a distance, but the lifts, maintenance, and access to nearby services matter much more when people actually use it.\n\nThis building appeals to me because it seems designed for living rather than only for photographs. It offers a practical way to house people in a city without using too much land. I wouldn't choose a home simply because it is high up, but I appreciate a building that uses its height sensibly and still feels comfortable at ground level.",
+      "chinese": "我喜欢的一座高楼，是我现在居住的广东城市里的一座住宅楼。它主要用于公寓居住，并为住户提供共同的出入口和实用设施。\n\n这栋楼有很多层，整体造型比较简单。我不会把它称作一座特别引人注目的地标。我喜欢的是现代外观与日常实用性之间的平衡。窗户带来了充足的自然光，入口附近也显得清晰，让人容易辨认。\n\n我之所以对它感兴趣，是因为我自己也住公寓，所以会留意住宅建筑怎样让日常生活更方便，或者更麻烦。一座高楼从远处看可能很气派，但当人们真正使用它时，电梯、维护情况以及能否方便地使用附近的服务，都重要得多。\n\n这栋楼吸引我，是因为它看起来是为生活设计的，而不只是为了拍照。它提供了一种在城市里安排住房、又不占用过多土地的实用方式。我不会仅仅因为楼层高就选择一处住房，但我欣赏能够合理利用高度、同时在地面层面也让人感到舒适的建筑。",
+      "keywords": [
+        "residential tower",
+        "Guangdong",
+        "apartments",
+        "maintenance",
+        "practical design"
+      ],
+      "pending": [
+        "住宅塔楼、附近设施、外观采光与喜爱是完整候选；只确认用户住广东城市公寓，未确认所住楼高度或此楼真实存在。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-029",
+      "part": 2,
+      "title": "有趣视频",
+      "region": "大陆",
+      "text": "Describe an interesting video\nYou should say:\nWhen and where you watched it\nWhat it is about\nWhy you watched it\nAnd explain how you feel about it",
+      "english": "An interesting video I watched showed a robot handling everyday objects. I watched it on my computer at home one evening when I wanted a short break from studying.\n\nThe robot had to identify items and place them in the right positions. The video didn't only show a perfect final result. It also included an attempt that went wrong and showed how the system tried again. That made it more interesting than a simple display of fast, impressive movements.\n\nI watched it because my master's studies focus on AI and robotics. I wanted to see an example of a robot dealing with the physical world, where objects can move and small errors matter. Something that looks easy for a person can involve several difficult problems for a machine.\n\nI felt curious and motivated afterwards. The most useful part was thinking about the gap between a successful demonstration and a reliable system people could use every day. I didn't regard the video as proof that the problem had been completely solved. Instead, it gave me a clear example to think about and reminded me why practical robotics remains such an interesting research area.",
+      "chinese": "我看过的一个有趣视频，展示了一台机器人如何处理日常物品。某天晚上，我想在学习之余短暂休息一下，就在家里的电脑上看了这个视频。\n\n机器人需要识别物品，再把它们放到正确的位置。视频并不只展示一个完美的最终结果，也包括了一次失败的尝试，以及系统如何重新尝试。相比单纯展示快速、令人惊艳的动作，这样的内容让我觉得更有趣。\n\n我会看这个视频，是因为我的硕士学习重点是人工智能和机器人。我想看看机器人应对物理世界的例子：在这个世界里，物品会移动，细小的误差也很重要。一个对人来说看似简单的动作，对机器来说可能涉及好几个难题。\n\n看完之后，我感到好奇，也更有动力。最有价值的是思考成功演示与人们能够日常使用的可靠系统之间还有什么差距。我没有把这个视频当作问题已经完全解决的证明，而是把它看作一个清晰、值得思考的例子。它也提醒我，为什么实用机器人仍然是如此有趣的研究领域。",
+      "keywords": [
+        "robot video",
+        "everyday objects",
+        "retry",
+        "physical world",
+        "reliability"
+      ],
+      "pending": [
+        "具体视频、观看时间、失败重试画面和观看后感受为授权候选；未指定真实机器人系统或引用其能力。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-158",
+      "part": 3,
+      "title": "帮助他人",
+      "region": "大陆",
+      "text": "Can kids provide any help to parents?",
+      "english": "Children can help with age-appropriate tasks, such as putting away belongings, setting the table, or sorting simple items. Older children may assist with basic technology as well. The benefit isn't only reducing parents' workload; it also teaches cooperation and responsibility. Tasks should be safe and manageable, and children shouldn't be expected to carry responsibilities that properly belong to adults.",
+      "chinese": "孩子能做适龄任务，如收物品、摆餐具、分简单物件。大一些也能协助基础技术。益处不只减轻家长工作，也教合作责任。任务应安全可做，不应期待孩子承担本应属于成年人的责任。",
+      "keywords": [
+        "simple chores",
+        "technology",
+        "cooperation",
+        "safe tasks"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-159",
+      "part": 3,
+      "title": "帮助他人",
+      "region": "大陆",
+      "text": "Should parents give children advice? Why?",
+      "english": "Parents should offer advice because their experience can help children see risks or options they haven't considered. But advice works better when it starts with listening. If parents immediately decide everything, children may stop sharing their thoughts. I would favour guidance that explains reasons and supports independent judgment, with more direct involvement when safety is genuinely at stake.",
+      "chinese": "家长应给建议，因为经验帮助孩子看到未考虑的风险选项。但建议从倾听开始更有效。若家长立即决定一切，孩子可能不再分享想法。我赞成解释理由、支持独立判断的指导，安全真正有危险时更直接介入。",
+      "keywords": [
+        "experience",
+        "listen",
+        "reasons",
+        "independent judgment"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-160",
+      "part": 3,
+      "title": "帮助他人",
+      "region": "大陆",
+      "text": "What kind of advice should parents give to their children?",
+      "english": "Useful advice includes how to stay safe, manage money, treat others respectfully, and make thoughtful choices. Parents can also help children respond to setbacks without feeling that one mistake defines them. For major education or career decisions, discussing options is better than prescribing a single path. The advice should become less controlling as children gain experience and responsibility.",
+      "chinese": "有用建议包括安全、理财、尊重他人和审慎选择。家长也能帮助应对挫折，不让一次错误定义自己。重大教育职业选择时，讨论选项好过指定唯一路径。随孩子经验责任增长，建议应减少控制。",
+      "keywords": [
+        "safety",
+        "money",
+        "setbacks",
+        "options"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-161",
+      "part": 3,
+      "title": "帮助他人",
+      "region": "大陆",
+      "text": "Should parents help their kids with their homework?",
+      "english": "Parents can help by providing a quiet place, encouraging a routine, and explaining a confusing instruction. But doing the homework for children removes the chance to learn. Asking guiding questions is often more useful than giving the answer immediately. If the work remains too difficult, discussing it with the teacher can help identify what support the child actually needs.",
+      "chinese": "家长可提供安静地点、鼓励规律、解释困惑指令。但替孩子做作业剥夺学习机会。引导提问常比马上给答案更有用。若仍太难，与老师讨论可找出孩子真正需要的支持。",
+      "keywords": [
+        "quiet space",
+        "routine",
+        "guiding questions",
+        "teacher support"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-162",
+      "part": 3,
+      "title": "喜欢或不喜欢的高建筑",
+      "region": "大陆",
+      "text": "Are there many tall buildings in your country?",
+      "english": "Yes, tall buildings are a familiar feature of many Chinese cities. They include apartment blocks, office towers, and hotels. Building upwards can make use of limited urban land, but it also creates demands on transport, lifts, and shared services. The skyline is only one part of the picture; how comfortably people can live and work inside matters more than height alone.",
+      "chinese": "是的，高楼是许多中国城市常见特征，包括公寓楼、办公塔楼和酒店。向上建设利用有限土地，但也增加交通、电梯和共享服务需求。天际线只是部分，内部生活工作是否舒适，比仅有高度更重要。",
+      "keywords": [
+        "apartments",
+        "offices",
+        "land",
+        "daily comfort"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-163",
+      "part": 3,
+      "title": "喜欢或不喜欢的高建筑",
+      "region": "大陆",
+      "text": "What are the differences between those tall buildings in your country?",
+      "english": "Some are designed for housing, while others contain offices, hotels, or mixed uses. Their appearance also varies, from simple residential blocks to glass towers with distinctive shapes. The practical differences can be more important than the exterior, such as lift capacity, natural light, and shared facilities. A visually impressive building isn't automatically the most comfortable one to use every day.",
+      "chinese": "有些用于住房，有些是办公、酒店或混合用途。外观从简单住宅楼到造型独特玻璃塔楼各异。实际差异可能更重要，如电梯运力、自然光和共享设施。视觉出色不自动等于日常使用最舒适。",
+      "keywords": [
+        "uses",
+        "appearance",
+        "lifts",
+        "natural light"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-164",
+      "part": 3,
+      "title": "喜欢或不喜欢的高建筑",
+      "region": "大陆",
+      "text": "Why are different places laid out and designed differently?",
+      "english": "Places have different climates, geography, histories, and practical needs. A dense city centre may prioritize transport and limited land, while a rural area has more space. Local culture also influences what feels familiar or attractive. Good planning responds to these conditions rather than copying one fashionable layout everywhere. Similar buildings can work very differently when their surroundings and users are different.",
+      "chinese": "地方气候、地理、历史和需求不同。密集中心可能优先交通与有限土地，农村空间更多。本地文化影响熟悉美感。好规划应回应条件，而非到处复制时尚布局。周围环境和使用者不同，相似建筑表现也很不同。",
+      "keywords": [
+        "climate",
+        "geography",
+        "density",
+        "local needs"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-165",
+      "part": 3,
+      "title": "喜欢或不喜欢的高建筑",
+      "region": "大陆",
+      "text": "What are the advantages of living in tall buildings?",
+      "english": "Tall buildings can provide housing close to jobs and services without spreading the city over as much land. Upper floors may offer views and less direct street noise. Shared facilities can also be convenient. However, these benefits rely on good maintenance and reliable lifts. Height itself doesn't guarantee a pleasant home; layout, safety, and the surrounding neighbourhood remain important.",
+      "chinese": "高楼让住房近工作服务，不必让城市占同样多土地。高层可能有景观、少直接街声。共享设施也方便。但优势依赖维护与可靠电梯。高度本身不保证好家，布局、安全和社区仍重要。",
+      "keywords": [
+        "land efficiency",
+        "views",
+        "shared facilities",
+        "maintenance"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-166",
+      "part": 3,
+      "title": "喜欢或不喜欢的高建筑",
+      "region": "大陆",
+      "text": "Why do some people like to remodel and decorate their homes themselves?",
+      "english": "Designing a home themselves gives people control over the colours, layout, and details that affect daily life. It can reflect their taste more closely and create a sense of achievement. Some also enjoy the process or want to manage costs. But major structural or technical work requires appropriate expertise, so doing everything personally isn't always the safest or most economical approach.",
+      "chinese": "自己设计住房让人掌控影响日常的色彩、布局和细节，更贴合品味并带来成就。有些也享受过程或想控费用。但重大结构或技术工作需专业能力，因此全亲自做未必最安全经济。",
+      "keywords": [
+        "personal taste",
+        "control",
+        "achievement",
+        "expertise"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-167",
+      "part": 3,
+      "title": "喜欢或不喜欢的高建筑",
+      "region": "大陆",
+      "text": "What kind of interior design style do most people like?",
+      "english": "Comfortable, practical designs with enough light and storage seem broadly appealing. Some people like a simple modern look, while others prefer warmer traditional details. I wouldn't assume there is one style that most people want. Budget, home size, and daily routines shape the choice. A room that works well for its residents matters more than following the latest decorating trend.",
+      "chinese": "舒适实用、光线储物足够的设计似乎广有吸引力。有些喜欢简洁现代风，另一些喜欢温暖传统细节。我不假定多数人统一想一种风格。预算、住房大小、日常塑造选择。适合住户的房间，比跟装饰潮流重要。",
+      "keywords": [
+        "comfort",
+        "light",
+        "storage",
+        "personal needs"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-168",
+      "part": 3,
+      "title": "有趣视频",
+      "region": "大陆",
+      "text": "What kind of videos do people in your country like to watch?",
+      "english": "Popular choices include comedy, food, travel, and practical tutorials. Some viewers enjoy gaming or animation-related content, while others want news or explanations of science and technology. Short videos are convenient for a quick break, but longer ones can explore a topic more carefully. China has a wide range of viewers, so I wouldn't reduce their preferences to one category.",
+      "chinese": "热门选择包括搞笑、美食、旅行和实用教程。有些观众喜游戏或动画相关内容，另一些想看新闻或科技解释。短视频方便小休，长视频可更认真探讨主题。中国观众多样，所以我不会缩为单一类。",
+      "keywords": [
+        "comedy",
+        "food",
+        "tutorials",
+        "technology"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-169",
+      "part": 3,
+      "title": "有趣视频",
+      "region": "大陆",
+      "text": "Which is more helpful, watching videos or reading books?",
+      "english": "Videos are especially helpful when a skill involves movement or a visible sequence, such as cooking or assembling something. Books can explain background ideas in more detail and make it easy to return to a particular section. For technical learning, I would use a video to see the process, then written material to understand it and check details.",
+      "chinese": "技能含动作或可视顺序时，如烹饪或组装，视频尤其有用。书能更详细解释背景概念，方便回到具体部分。技术学习中，我会用视频看过程，再用书面材料理解和核对细节。",
+      "keywords": [
+        "demonstration",
+        "background",
+        "details",
+        "combine resources"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

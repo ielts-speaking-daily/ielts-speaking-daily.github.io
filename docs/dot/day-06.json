@@ -1,0 +1,488 @@
+{
+  "schemaVersion": 1,
+  "day": 6,
+  "date": "2026-10-14",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-041",
+    "QB-20261008-01-P1-042",
+    "QB-20261008-01-P1-043",
+    "QB-20261008-01-P1-044",
+    "QB-20261008-01-P1-045",
+    "QB-20261008-01-P1-046",
+    "QB-20261008-01-P1-047",
+    "QB-20261008-01-P1-048",
+    "QB-20261008-01-P2-011",
+    "QB-20261008-01-P2-012",
+    "QB-20261008-01-P3-061",
+    "QB-20261008-01-P3-062",
+    "QB-20261008-01-P3-063",
+    "QB-20261008-01-P3-064",
+    "QB-20261008-01-P3-065",
+    "QB-20261008-01-P3-066",
+    "QB-20261008-01-P3-067",
+    "QB-20261008-01-P3-068",
+    "QB-20261008-01-P3-069",
+    "QB-20261008-01-P3-070",
+    "QB-20261008-01-P3-071",
+    "QB-20261008-01-P3-072",
+    "QB-20261008-01-P3-073"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 13
+  },
+  "minutes": 39.1,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-041",
+      "part": 1,
+      "title": "Name",
+      "region": "大陆",
+      "text": "Do you often forget people's names?",
+      "english": "Sometimes, especially if I meet several people at once. I can remember the conversation quite well but forget the name, so I try to repeat it early on.",
+      "chinese": "有时会，尤其是一次认识好几个人时。我能记得谈话内容，却可能忘了名字，所以会尽量在刚认识时重复一下名字。",
+      "keywords": [
+        "at once",
+        "repeat a name"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-042",
+      "part": 1,
+      "title": "Name",
+      "region": "大陆",
+      "text": "How do you feel when people can't remember your name?",
+      "english": "I don't mind too much because it happens to everyone. I'd just introduce myself again rather than make the person feel embarrassed about forgetting.",
+      "chinese": "我不太介意，因为人人都可能遇到这种情况。我会再介绍一次自己，而不是让对方因为忘记名字而尴尬。",
+      "keywords": [
+        "introduce myself again",
+        "feel embarrassed"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-043",
+      "part": 1,
+      "title": "Name",
+      "region": "大陆",
+      "text": "How do you remember people's names?",
+      "english": "I'd repeat the name during our first conversation and connect it with something about the person. That gives me more to remember than just a sound.",
+      "chinese": "我会在初次谈话中重复对方名字，再把它与这个人的某个特点联系起来。这样我记住的就不只是一个声音了。",
+      "keywords": [
+        "connect it with",
+        "a first conversation"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-044",
+      "part": 1,
+      "title": "Name",
+      "region": "大陆",
+      "text": "Is it easy for you to remember people's names?",
+      "english": "It's easier when I have a proper conversation with the person. If I only hear a name once in a large group, I'm more likely to forget it.",
+      "chinese": "和对方认真聊过时会容易些。如果只是在人群中听到一次名字，我更容易忘记。",
+      "keywords": [
+        "a proper conversation",
+        "likely to forget"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-045",
+      "part": 1,
+      "title": "Opportunities",
+      "region": "大陆",
+      "text": "Do you often get new opportunities?",
+      "english": "I've had some worthwhile opportunities through my studies. In June, I travelled alone to Europe for an academic conference and also visited Vienna and Budapest.",
+      "chinese": "学习带给我一些有价值的机会。今年六月，我独自去欧洲参加学术会议，还游览了维也纳和布达佩斯。",
+      "keywords": [
+        "worthwhile opportunities",
+        "an academic conference"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-046",
+      "part": 1,
+      "title": "Opportunities",
+      "region": "大陆",
+      "text": "Do you like taking on new opportunities?",
+      "english": "Yes, especially when an opportunity could broaden my horizons. My plan to pursue a PhD abroad reflects that, although I'd still think carefully before making a big commitment.",
+      "chinese": "喜欢，尤其是能拓宽眼界的机会。我的海外读博计划体现了这一点，不过做出重大承诺前，我仍会认真考虑。",
+      "keywords": [
+        "broaden my horizons",
+        "a big commitment"
+      ],
+      "pending": [
+        "博士动机真实；普遍喜欢机会与决策习惯为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-047",
+      "part": 1,
+      "title": "Opportunities",
+      "region": "大陆",
+      "text": "Should people try as many different things as they can?",
+      "english": "Trying different things is useful, but people don't need to try everything. I'd suggest exploring a few interests properly rather than constantly moving on without learning much.",
+      "chinese": "尝试不同事物有用，但不必什么都试。我建议认真探索几项兴趣，而不是不断换方向却没学到多少东西。",
+      "keywords": [
+        "explore interests",
+        "moving on"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-048",
+      "part": 1,
+      "title": "Opportunities",
+      "region": "大陆",
+      "text": "Did you have any opportunities to take part in new activities as a child?",
+      "english": "Yes, I had a chance to join a school activity involving simple science experiments. I enjoyed finding out how things worked instead of only reading about them.",
+      "chinese": "有的，我有机会参加过包含简单科学实验的学校活动。我喜欢了解事物实际如何运作，而不只是读相关介绍。",
+      "keywords": [
+        "science experiments",
+        "how things worked"
+      ],
+      "pending": [
+        "假设童年参与学校科学实验活动，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-011",
+      "part": 2,
+      "title": "尊敬的比你年长的人",
+      "region": "大陆",
+      "text": "Describe someone who is older than you that you admire\nYou should say:\nWho this person is\nHow you knew this person\nWhat kinds of things you like to do together\nAnd explain how you feel about this person",
+      "english": "Someone older than me whom I'd like to describe is my supervisor. I got to know them through my master's studies in artificial intelligence and robotics. What I admire is the way they combine knowledge with a patient attitude towards students.\n\nWe enjoy discussing research ideas and looking at problems from different angles. Sometimes I arrive with a technical question and think there must be one quick answer. They encourage me to explain my reasoning first, which often helps me notice a weakness in my own approach.\n\nWe also talk about the wider purpose of research. Since I want to study abroad for a PhD, those conversations would be relevant to how I think about my future. I like that the discussion is serious without making me afraid to ask questions.\n\nI feel both respect and gratitude towards them. I'm generally quiet, so having someone who listens carefully makes it easier for me to speak openly. Their example suggests that being experienced isn't just about knowing more. It's also about helping other people become more independent.",
+      "chinese": "我想描述的一位比我年长的人是我的导师。我们通过我的人工智能和机器人硕士学习认识。我敬佩的是导师把知识与对学生的耐心结合起来。\n\n我们喜欢讨论研究想法，从不同角度看问题。有时，我带着技术问题来，并认为一定有一个快速答案。导师会鼓励我先解释思路，这往往帮助我发现自己方法中的弱点。\n\n我们也会讨论研究更广泛的目的。因为我希望出国读博，这些交谈与我思考未来有关。我喜欢这种认真、却不会让我不敢提问的讨论。\n\n我对导师既尊敬又感激。我平常比较安静，有一位认真倾听的人，会让我更容易坦率表达。导师的例子说明，有经验不只是懂得更多，也包括帮助别人变得更独立。",
+      "keywords": [
+        "supervisor",
+        "research discussions",
+        "patient listener",
+        "PhD plans",
+        "independence"
+      ],
+      "pending": [
+        "导师年龄较大、具体讨论和指导方式是候选；导师很好和硕士身份已确认"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-012",
+      "part": 2,
+      "title": "好的购物服务",
+      "region": "大陆",
+      "text": "Describe a time when you received good service in a shop/store/company\nYou should say:\nWhere the shop/store/company is\nWhen you went to the shop/store/company\nWhat service you received from the staff\nAnd explain how you felt about the service",
+      "english": "A time I received good service was when I went to a computer shop in Guangdong last year to look for a laptop. I was choosing something for both my studies and programming, so I needed more help than just being told which model was popular.\n\nThe member of staff first asked what I wanted to use it for and what mattered most to me. They then explained a few options in plain language. Instead of pushing the most expensive model, they showed me which differences would actually affect my work.\n\nI also had a question about setting the computer up. They took some time to demonstrate the basic steps and made sure I understood what to do. I didn't feel rushed, even when I asked another question.\n\nI appreciated the service because it helped me make a rational choice. A computer is useful to me as an AI student and someone who enjoys coding, so I wanted to get the decision right. The experience felt comfortable because the staff listened carefully and gave practical advice without putting pressure on me.",
+      "chinese": "我获得良好服务的一次经历，是去年去广东的一家电脑商店选笔记本电脑。我希望它能用于专业学习和编程，因此需要的不只是别人告诉我哪款热门。\n\n店员先问我打算用它做什么，最看重什么，然后用简单语言解释几个选择。店员没有强推最贵的型号，而是告诉我哪些差异真正会影响我的工作。\n\n我还问了电脑初始设置的问题。店员花时间演示基本步骤，确保我知道如何操作。即使我又问了一个问题，也没有感觉被催促。\n\n我很感激这种服务，因为它帮助我理性选择。作为人工智能学生和编程爱好者，电脑对我很有用，因此我希望做对选择。这次体验让我很舒服，因为店员认真倾听、提供实用建议，也没有给我施压。",
+      "keywords": [
+        "computer shop",
+        "study and coding",
+        "listen first",
+        "plain explanations",
+        "no pressure"
+      ],
+      "pending": [
+        "去年访问电脑店、选购和店员服务均为候选，可与P2-008同一次购机统一"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-061",
+      "part": 3,
+      "title": "尊敬的比你年长的人",
+      "region": "大陆",
+      "text": "What kinds of things do the elderly remember for a long time?",
+      "english": "Older people may remember emotionally important moments, such as childhood experiences, family events, and their first job. Familiar places and friendships can also remain vivid. These memories often carry a personal meaning, rather than being random facts. However, everyone is different, and I wouldn't assume that all older people remember the same things or forget recent events.",
+      "chinese": "年长者可能记得情感重要的时刻，比如童年经历、家庭事件和第一份工作。熟悉的地方与友谊也可能记忆鲜明。这些记忆往往有个人意义，而非随意事实。不过每个人不同，我不会假设所有老人记得同样事情或忘记近期事件。",
+      "keywords": [
+        "childhood",
+        "family events",
+        "first job",
+        "personal meaning"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-062",
+      "part": 3,
+      "title": "尊敬的比你年长的人",
+      "region": "大陆",
+      "text": "What sports are popular among older people?",
+      "english": "Walking, tai chi, and gentle group exercise are familiar choices among older people in China. They don't necessarily require expensive equipment and can provide social contact as well as movement. Some older people enjoy swimming or cycling too. The suitable activity depends on the person's health and experience, so age alone shouldn't decide what they are allowed to enjoy.",
+      "chinese": "在中国，散步、太极和温和集体锻炼是年长者常见选择。它们未必需要昂贵装备，既提供活动，也提供社交。有些老人也喜欢游泳或骑行。合适活动取决于健康与经验，因此不应仅凭年龄决定允许他们享受什么。",
+      "keywords": [
+        "walking",
+        "tai chi",
+        "social contact",
+        "health"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-063",
+      "part": 3,
+      "title": "尊敬的比你年长的人",
+      "region": "大陆",
+      "text": "What do old people usually do in their daily life?",
+      "english": "Their routines vary a lot. Retired people may cook, exercise, meet friends, or help with family responsibilities. Some keep working, study new subjects, or enjoy hobbies they previously had little time for. I think it's more useful to consider their interests and circumstances than imagine one typical routine. Retirement can create flexibility, but it doesn't make everyone's life identical.",
+      "chinese": "他们的日常差别很大。退休者可能做饭、锻炼、见朋友或帮忙承担家庭责任。有些继续工作、学习新知识，或享受以前没时间做的爱好。我认为考虑兴趣和处境，比想象统一日常更有用。退休带来灵活性，却不会让生活完全相同。",
+      "keywords": [
+        "retirement",
+        "family",
+        "hobbies",
+        "different routines"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-064",
+      "part": 3,
+      "title": "尊敬的比你年长的人",
+      "region": "大陆",
+      "text": "Why is there a generation gap between the young and the old?",
+      "english": "Different generations grow up with different technology, social expectations, and opportunities. That can influence how they think about work, relationships, or money. Young people may see a new tool as normal while older people find it unfamiliar. But a gap doesn't have to become a conflict. Patient conversation can help both sides understand the experiences behind their opinions.",
+      "chinese": "不同代人在不同技术、社会期待和机会中成长，影响他们对工作、关系或金钱的看法。年轻人可能觉得新工具很正常，年长者却陌生。但差异不必变成冲突。耐心交谈能帮助双方理解观点背后的经历。",
+      "keywords": [
+        "technology",
+        "expectations",
+        "experience",
+        "conversation"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-065",
+      "part": 3,
+      "title": "尊敬的比你年长的人",
+      "region": "大陆",
+      "text": "Has old people's life quality improved when compared to the past?",
+      "english": "In many ways, there are more possibilities now, such as better communication tools and improved access to services. These can make daily life more convenient for older people. However, improvement isn't equal for everyone. Some face financial difficulties or find digital systems confusing. So better technology and facilities help, but support must remain accessible to people with different needs.",
+      "chinese": "许多方面现在有更多可能，比如更好的沟通工具、改善的服务获取方式。这能让老人日常更方便。但改善并非人人相同。有些面临经济困难，或觉得数字系统难理解。因此更好技术与设施有帮助，但支持必须让不同需求的人也能获得。",
+      "keywords": [
+        "services",
+        "communication",
+        "digital barriers",
+        "accessibility"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-066",
+      "part": 3,
+      "title": "尊敬的比你年长的人",
+      "region": "大陆",
+      "text": "What can young and old people learn from each other?",
+      "english": "Young people can learn patience and practical judgment from older people's experience. Older people may learn about new technology or current ways of studying and working. This exchange works best when neither side acts superior. For example, helping someone use a phone can become a conversation about both modern tools and how they solved problems before those tools existed.",
+      "chinese": "年轻人能从年长者经验中学耐心和实际判断。年长者可能了解新技术或当下学习工作的方式。双方都不摆优越姿态时，交流最好。例如，帮人用手机，也能变成关于现代工具及没有这些工具时如何解题的交谈。",
+      "keywords": [
+        "experience",
+        "technology",
+        "mutual respect",
+        "exchange"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-067",
+      "part": 3,
+      "title": "好的购物服务",
+      "region": "大陆",
+      "text": "Can consumption drive economic growth?",
+      "english": "Yes, when people buy goods and services, businesses receive income and may hire more staff or expand production. That supports other businesses too, such as suppliers. However, spending beyond people's means isn't healthy growth. I think consumption helps most when it meets real needs and is supported by stable income, rather than pressure to keep buying unnecessary things.",
+      "chinese": "是的，人们购买商品服务时，企业获得收入，可能招更多员工或扩大生产。这也支持供应商等其他企业。但超出支付能力的消费不是健康增长。我认为消费在满足真实需求、有稳定收入支持时最有帮助，而非受压不断买不必要东西。",
+      "keywords": [
+        "income",
+        "jobs",
+        "suppliers",
+        "real needs"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-068",
+      "part": 3,
+      "title": "好的购物服务",
+      "region": "大陆",
+      "text": "What are the advantages and disadvantages of shopping online?",
+      "english": "Online shopping makes it easy to compare prices and find products that local shops may not stock. It is convenient when people are busy. The disadvantage is that they can't inspect the item before paying, and returns may take time. Reviews help, but they aren't always reliable. For expensive or highly personal purchases, extra care is sensible.",
+      "chinese": "网购方便比较价格、找到本地商店可能不卖的产品，忙碌时也方便。缺点是付款前无法检查实物，退货可能耗时。评论有帮助，但不总可靠。对于昂贵或非常个人化的购买，多谨慎些是合理的。",
+      "keywords": [
+        "compare prices",
+        "choice",
+        "inspection",
+        "returns"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-069",
+      "part": 3,
+      "title": "好的购物服务",
+      "region": "大陆",
+      "text": "What are the differences between online shopping and in-store shopping?",
+      "english": "Online shopping usually offers more choice and quick price comparisons, but buyers have to wait for delivery. In a physical shop, they can examine a product and ask questions immediately. That is useful for clothes or equipment where fit and feel matter. I see the two as different tools, with the better option determined by the purchase.",
+      "chinese": "网购通常选择更多、方便比价，但买家必须等配送。实体店可以现场检查产品、马上提问。当衣服或设备的合身程度、触感重要时，这很有用。我把两者视为不同工具，更好选择由具体购买决定。",
+      "keywords": [
+        "choice",
+        "delivery",
+        "try products",
+        "purchase type"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-070",
+      "part": 3,
+      "title": "好的购物服务",
+      "region": "大陆",
+      "text": "Why do some people not like shopping in small shops?",
+      "english": "Small shops may have a limited range of products, and prices can be harder to compare. Some customers also worry about returns or product consistency. A larger store may feel more predictable. However, that doesn't mean small shops provide poor service. A reliable local shop can offer personal advice and convenience that a large chain doesn't always provide.",
+      "chinese": "小店产品范围可能有限，价格也较难比较。有些顾客还担心退货或产品一致性，大店可能感觉更可预期。但这不代表小店服务差。可靠的本地小店能提供个性建议与便利，大连锁未必总能做到。",
+      "keywords": [
+        "limited choice",
+        "returns",
+        "predictability",
+        "personal service"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-071",
+      "part": 3,
+      "title": "好的购物服务",
+      "region": "大陆",
+      "text": "What are the advantages and disadvantages of shopping in small shops?",
+      "english": "Small shops can be convenient, friendly, and familiar with their regular customers. They may also sell distinctive local products. On the other hand, their stock and opening hours can be limited, and prices aren't always the lowest. I would choose one for a simple local purchase, but compare more widely when buying something expensive or technically complicated.",
+      "chinese": "小店方便友好，熟悉常客，也可能售有特色的本地产品。另一方面，库存和营业时间可能有限，价格未必最低。我会用小店完成简单本地购买，买昂贵或技术复杂的东西时，则更广泛比较。",
+      "keywords": [
+        "local shop",
+        "regular customers",
+        "stock",
+        "compare"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-072",
+      "part": 3,
+      "title": "好的购物服务",
+      "region": "大陆",
+      "text": "Why are shopping malls so popular in China?",
+      "english": "Shopping malls combine shops, restaurants, cinemas, and other activities in one place. That makes them convenient for families or friends with different interests. Indoor space also offers shelter from heat and rain, which can matter in Chinese cities. People don't always go just to buy something; a mall can be a place to meet, eat, and spend time together.",
+      "chinese": "商场把商店、餐馆、电影院和其他活动集中在一处，方便兴趣不同的亲友。室内也能避暑避雨，这在中国城市可能重要。人们未必只为购买而去；商场也可以是见面、吃饭和共同消磨时间的地方。",
+      "keywords": [
+        "all in one",
+        "families",
+        "weather",
+        "social space"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-073",
+      "part": 3,
+      "title": "擅长做手工的人",
+      "region": "大陆",
+      "text": "Does art, like music or theater, have an impact on society?",
+      "english": "Yes, art can shape how people understand emotions and social issues. A film or play may show a situation from a perspective the audience hasn't considered. Music can also bring people together at public events. Its influence isn't always immediate or measurable, but it can encourage conversation and give people a shared way to express feelings.",
+      "chinese": "是的，艺术能影响人们理解情绪和社会问题的方式。电影或戏剧可能展示观众未考虑过的视角。音乐也能在公共活动中把人聚在一起。影响未必即时或可量化，但能促成讨论，并提供共同表达感受的方式。",
+      "keywords": [
+        "perspective",
+        "social issues",
+        "shared feelings",
+        "conversation"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

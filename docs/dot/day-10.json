@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 10,
+  "date": "2026-10-18",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-065",
+    "QB-20261008-01-P1-066",
+    "QB-20261008-01-P1-067",
+    "QB-20261008-01-P1-068",
+    "QB-20261008-01-P1-069",
+    "QB-20261008-01-P1-070",
+    "QB-20261008-01-P1-071",
+    "QB-20261008-01-P1-072",
+    "QB-20261008-01-P2-018",
+    "QB-20261008-01-P2-019",
+    "QB-20261008-01-P3-098",
+    "QB-20261008-01-P3-099",
+    "QB-20261008-01-P3-100",
+    "QB-20261008-01-P3-101",
+    "QB-20261008-01-P3-102",
+    "QB-20261008-01-P3-103",
+    "QB-20261008-01-P3-104",
+    "QB-20261008-01-P3-105",
+    "QB-20261008-01-P3-106",
+    "QB-20261008-01-P3-107",
+    "QB-20261008-01-P3-108",
+    "QB-20261008-01-P3-109"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-065",
+      "part": 1,
+      "title": "Tidiness",
+      "region": "大陆",
+      "text": "Did you keep your room tidy as a child?",
+      "english": "Not consistently. I sometimes left books around until I needed more space, and then I'd tidy up. Keeping everything organised wasn't a strong habit at that age.",
+      "chinese": "并不是一直整洁。我有时把书随处放，直到需要更多空间才整理。那时，保持东西有条理还不是很强的习惯。",
+      "keywords": [
+        "tidy up",
+        "a strong habit"
+      ],
+      "pending": [
+        "假设童年房间不够整洁、书籍摆放习惯，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-066",
+      "part": 1,
+      "title": "Tidiness",
+      "region": "大陆",
+      "text": "How do you keep your work or study space tidy?",
+      "english": "I'd keep the desk fairly clear and put similar items together. For digital files, I'd use simple folder names so I could find materials without searching through everything.",
+      "chinese": "我会让桌面尽量清爽，并把相似东西放在一起。电子文件会用简单文件夹名称，方便找到材料，不用把所有东西都翻一遍。",
+      "keywords": [
+        "a clear desk",
+        "folder names"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-067",
+      "part": 1,
+      "title": "Tidiness",
+      "region": "大陆",
+      "text": "Do you think that it is necessary to be tidy?",
+      "english": "Yes, to a reasonable degree. Tidiness can save time and reduce distractions, but constantly reorganising everything can become a distraction itself if you take it too far.",
+      "chinese": "有必要，但要适度。整洁能节省时间、减少干扰，但如果过了头，不停重新整理东西本身也会成为干扰。",
+      "keywords": [
+        "reduce distractions",
+        "to a reasonable degree"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-068",
+      "part": 1,
+      "title": "Websites",
+      "region": "大陆",
+      "text": "What kinds of websites do you often visit?",
+      "english": "I'd mainly visit websites about programming and research, as well as pages related to books or anime. Those categories fit my studies and the things I enjoy.",
+      "chinese": "我主要会浏览编程和研究网站，也会看与书籍或动漫相关的页面。这些类别与我的学习和爱好相符。",
+      "keywords": [
+        "programming and research",
+        "fit my interests"
+      ],
+      "pending": [
+        "专业和爱好真实；实际常访问的网站类别未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-069",
+      "part": 1,
+      "title": "Websites",
+      "region": "大陆",
+      "text": "What is your favourite website?",
+      "english": "GitHub would be a useful choice because I'm interested in programming. I like the idea of exploring projects and seeing how other people organise their code.",
+      "chinese": "GitHub会是一个有用的选择，因为我对编程感兴趣。我喜欢探索项目、看看别人如何组织代码的想法。",
+      "keywords": [
+        "explore projects",
+        "organise code"
+      ],
+      "pending": [
+        "GitHub为候选网站；是否使用及喜欢未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-070",
+      "part": 1,
+      "title": "Websites",
+      "region": "大陆",
+      "text": "Are there any changes to the websites you often visit?",
+      "english": "One change I've noticed is that more websites offer personalised recommendations. That can help me find relevant content, although I sometimes prefer a simple search tool.",
+      "chinese": "我注意到的一个变化是，更多网站提供个性化推荐。这能帮助找到相关内容，不过我有时更喜欢简单的搜索工具。",
+      "keywords": [
+        "personalised recommendations",
+        "relevant content"
+      ],
+      "pending": [
+        "假设个人注意到网站推荐功能变化，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-071",
+      "part": 1,
+      "title": "Websites",
+      "region": "大陆",
+      "text": "What kinds of websites are popular in your country?",
+      "english": "Shopping, video and information platforms are popular. People use them for quite different purposes, so I don't think one type of website appeals equally to everyone.",
+      "chinese": "购物、视频和信息平台很受欢迎。人们的使用目的很不同，所以我觉得不会有某一类网站对所有人同样有吸引力。",
+      "keywords": [
+        "different purposes",
+        "appeals to"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-072",
+      "part": 1,
+      "title": "Websites",
+      "region": "大陆",
+      "text": "Do you prefer getting information from websites or books?",
+      "english": "I'd use websites for quick, specific questions and books for a fuller explanation. I enjoy reading, so I wouldn't want online information to replace books completely.",
+      "chinese": "我会用网站解决快速、具体的问题，用书获得更完整的解释。我喜欢阅读，所以不希望网上信息完全取代书籍。",
+      "keywords": [
+        "specific questions",
+        "a fuller explanation"
+      ],
+      "pending": [
+        "阅读爱好真实；信息来源选择为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-018",
+      "part": 2,
+      "title": "教你新技能的人",
+      "region": "大陆",
+      "text": "Describe a person who taught you a new skill\nYou should say:\nWho this person was\nWhat the skill was\nHow you learned it\nAnd explain how you felt about this person",
+      "english": "A person who taught me a useful new skill is my supervisor. The skill I'd describe is debugging a program in a more systematic way, which is particularly relevant to my studies in AI and robotics.\n\nBefore learning it, I would sometimes change several things at once when a program didn't work. That made it difficult to know which change had helped or created another problem. My supervisor showed me how to reduce the problem to a smaller example and check one possibility at a time.\n\nI learned by applying the method to a real task and explaining each step during our discussion. Instead of giving me the answer immediately, they asked questions that helped me see what evidence I had and what I was only assuming.\n\nI felt grateful because the skill was useful beyond that one piece of code. It gave me a calmer way to approach unfamiliar problems. I'm quite rational, so I liked having a method I could understand and reuse. I also appreciated being treated as someone who could learn to solve the problem independently.",
+      "chinese": "一位教会我实用新技能的人是我的导师。我想描述的技能，是更有条理地调试程序，它与人工智能和机器人学习尤其相关。\n\n学会之前，程序运行出问题时，我有时会一次修改几个地方。这使我很难判断哪项修改起了作用，又是哪项引出了新问题。导师教我把问题缩小到更简单的例子，一次检查一种可能性。\n\n我通过把方法用于具体任务，并在讨论时解释每一步来学习。导师没有马上给答案，而是提问，让我区分手里的证据与仅仅作出的假设。\n\n我感到感激，因为这项技能不只对那段代码有用，也让我更冷静地处理陌生问题。我比较理性，因此喜欢能理解并重复使用的方法。我也很欣赏导师把我当成能学会独立解决问题的人。",
+      "keywords": [
+        "supervisor",
+        "systematic debugging",
+        "small example",
+        "one change",
+        "independent problem-solving"
+      ],
+      "pending": [
+        "导师教过调试、具体错误和指导过程均为候选；不要登记为已发生或已掌握的技能"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-019",
+      "part": 2,
+      "title": "不喜欢的电影",
+      "region": "大陆",
+      "text": "Describe a movie/film you don’t like\nYou should say:\nWhen you watched it\nWhere you watched it\nWhat it was about\nAnd explain why don’t like it",
+      "english": "A film I didn't like was one of the Transformers films. I watched it at home on my computer during a weekend, because the idea of robots was connected with an interest I already had.\n\nThe film was mainly about large robots and conflicts between different groups. There were a lot of action scenes and impressive visual effects. Those parts looked exciting, but they weren't enough to keep me interested throughout the whole story.\n\nWhat I didn't like was that the action sometimes seemed more important than the characters' reasons for doing things. I found it harder to care about the events when I didn't feel a clear connection between the characters and the consequences of their choices.\n\nI don't think a film has to be completely realistic to be enjoyable. I watch Japanese anime, so I'm comfortable with imaginative worlds. But I prefer the story to have some internal logic and give me a reason to care. For me, the film matched my interest in robots but didn't fully match my taste in storytelling.",
+      "chinese": "我不喜欢的一部电影是《变形金刚》系列中的一部。一个周末，我在家用电脑观看，因为机器人的概念与我原有的兴趣相关。\n\n电影主要讲大型机器人与不同阵营之间的冲突。有很多动作场面和令人印象深刻的视觉效果。这些部分看起来精彩，但不足以让我始终对整个故事感兴趣。\n\n我不喜欢的是，动作有时似乎比人物做事情的理由更重要。如果人物与选择后果之间缺少清晰联系，我就更难关心剧情。\n\n我认为电影不必完全写实才能好看。我看日本动漫，因此能接受有想象力的世界，但更希望故事有内部逻辑，并让我有理由关心它。对我来说，这部电影符合机器人兴趣，却并不完全符合我对叙事的偏好。",
+      "keywords": [
+        "Transformers",
+        "weekend at home",
+        "visual effects",
+        "character motivation",
+        "internal logic"
+      ],
+      "pending": [
+        "具体影片、观看时间地点、喜恶和评价是候选；动漫兴趣与机器人方向已确认"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-098",
+      "part": 3,
+      "title": "学习并喜欢历史的人",
+      "region": "大陆",
+      "text": "Do you think people should learn ancient history before learning modern history?",
+      "english": "Learning ancient history first can provide useful background, especially when later institutions developed from earlier ones. But a strict order isn't always necessary. A modern event may interest students and lead them to explore its older roots. I think a clear timeline and links between periods matter more than requiring everyone to begin with the oldest material.",
+      "chinese": "先学古代史能提供背景，尤其后来的制度源自早期制度。但严格顺序不总必要。现代事件可能吸引学生，促使探索更早根源。我认为清晰时间线和时期联系，比要求所有人从最古老材料开始更重要。",
+      "keywords": [
+        "background",
+        "modern interest",
+        "roots",
+        "timeline"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-099",
+      "part": 3,
+      "title": "学习并喜欢历史的人",
+      "region": "大陆",
+      "text": "Is it important to learn how people in the past lived their lives?",
+      "english": "Yes, it shows that history is about real people, not just rulers and wars. Understanding their daily challenges can make past events easier to relate to. It also helps us notice what has changed and what remains familiar. For example, the tools people used for work reveal both technological progress and the effort behind ordinary life.",
+      "chinese": "是的，这表明历史关乎真实的人，不只是统治者和战争。理解日常挑战能让过去事件更容易产生联系，也帮助注意改变与仍熟悉之处。例如，过去工作工具既体现技术进步，也体现普通生活背后的努力。",
+      "keywords": [
+        "real people",
+        "daily challenges",
+        "change",
+        "tools"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-100",
+      "part": 3,
+      "title": "学习并喜欢历史的人",
+      "region": "大陆",
+      "text": "How do children learn history before they attend school?",
+      "english": "They can learn through family stories, picture books, museum visits, or child-friendly programmes. At that age, a story about how people lived is easier to understand than a long list of dates. Adults should explain what is factual and what is fictional. The aim is to build curiosity and a simple sense of time, rather than test detailed historical knowledge.",
+      "chinese": "孩子可通过家庭故事、图画书、博物馆参观或适龄节目学习。在这个年龄，过去怎样生活的故事比长日期清单易懂。成年人应解释什么是事实、什么是虚构。目标是建立好奇心和简单时间概念，而非测详细历史知识。",
+      "keywords": [
+        "family stories",
+        "picture books",
+        "facts",
+        "curiosity"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-101",
+      "part": 3,
+      "title": "学习并喜欢历史的人",
+      "region": "大陆",
+      "text": "At what age do you think people should begin to learn history?",
+      "english": "I think basic history can begin around the early primary-school years, using stories and pictures. Children don't need to study difficult political arguments immediately. As they get older, they can learn timelines and compare different sources. The right starting point is when they can understand that life was different before they were born and become curious about those differences.",
+      "chinese": "我认为基础历史可在小学低年级左右通过故事和图片开始。孩子不必马上学复杂政治论争。年龄大些后可学时间线、比较不同来源。适合开始的时点，是能理解出生之前的生活不同，并开始好奇这些差异。",
+      "keywords": [
+        "early school",
+        "stories",
+        "timelines",
+        "curiosity"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-102",
+      "part": 3,
+      "title": "学习并喜欢历史的人",
+      "region": "大陆",
+      "text": "Do you think children should begin learning history from an early age?",
+      "english": "Yes, simple historical stories can help children understand their community and develop curiosity. They might learn about an old building or how transport used to work. However, early learning should be gentle and accurate, not a demand to memorize dates. Asking questions and exploring objects can make history feel like discovery rather than another subject they must perform well in.",
+      "chinese": "是的，简单历史故事帮助孩子理解社区、发展好奇心。他们可能了解老建筑或以前的交通方式。但早期学习应温和且准确，而非要求背日期。提问和探索物品能让历史像发现，而非另一门必须表现好的课程。",
+      "keywords": [
+        "community",
+        "old buildings",
+        "questions",
+        "discovery"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-103",
+      "part": 3,
+      "title": "教你新技能的人",
+      "region": "大陆",
+      "text": "Why is self-discipline important when learning a new skill?",
+      "english": "A new skill usually requires repeated practice after the first excitement has faded. Self-discipline helps people continue when progress is slow or mistakes become frustrating. For example, learning to code involves testing and fixing problems, not just watching a tutorial. Regular, manageable practice builds ability more reliably than one long session followed by several weeks of doing nothing.",
+      "chinese": "新技能通常需要在最初兴奋消退后反复练习。自律帮助在进步缓慢或错误令人烦时坚持。例如学编程需要测试、修问题，而非只看教程。规律、可管理练习，比一次长练后数周不练更可靠地建立能力。",
+      "keywords": [
+        "practice",
+        "slow progress",
+        "coding",
+        "consistency"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-104",
+      "part": 3,
+      "title": "教你新技能的人",
+      "region": "大陆",
+      "text": "What are the differences between learning from a teacher and learning by oneself?",
+      "english": "A teacher can provide structure, spot mistakes, and explain difficult ideas in a different way. Independent learning gives people flexibility and lets them follow their own interests. The risk is getting stuck without knowing what is wrong. For many skills, a combination works best: use good materials independently, then seek feedback when progress slows or a problem becomes confusing.",
+      "chinese": "老师能提供结构、发现错误、换方式解释难点。自学给灵活性，允许追随兴趣。风险是卡住却不知道错在哪里。许多技能最好结合：独立用好材料，再在进步减慢或问题令人困惑时寻求反馈。",
+      "keywords": [
+        "structure",
+        "flexibility",
+        "mistakes",
+        "feedback"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-105",
+      "part": 3,
+      "title": "教你新技能的人",
+      "region": "大陆",
+      "text": "How do adults learn a new skill?",
+      "english": "Adults often start by identifying a goal, then choose a course, tutorial, or person who can guide them. They usually need to fit practice around other responsibilities. Small practical projects can help because they turn information into action. Learning becomes more sustainable when the goal is clear and the practice schedule is realistic, rather than based on unlimited free time.",
+      "chinese": "成年人常先确定目标，再选课程、教程或指导者。他们通常得把练习安排在其他责任之间。小实践项目有帮助，因为把信息转为行动。当目标明确、练习时间现实，而非假定空闲无限时，学习更可持续。",
+      "keywords": [
+        "goal",
+        "resources",
+        "responsibilities",
+        "small projects"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-106",
+      "part": 3,
+      "title": "教你新技能的人",
+      "region": "大陆",
+      "text": "How can parents and teachers teach children new skills?",
+      "english": "They should demonstrate the skill, let children try it, and give specific feedback. Breaking a task into small steps prevents it from feeling overwhelming. Encouragement is useful, but children also need permission to make mistakes. Adults can gradually reduce their help as confidence grows, so the child learns to do the task independently rather than always wait for instructions.",
+      "chinese": "应示范技能、让孩子尝试、给具体反馈。拆成小步骤避免任务过于沉重。鼓励有用，但孩子也需要允许犯错。信心增长后，成年人可逐步减少帮助，让孩子学独立完成，而非总等指令。",
+      "keywords": [
+        "demonstrate",
+        "small steps",
+        "feedback",
+        "independence"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-107",
+      "part": 3,
+      "title": "教你新技能的人",
+      "region": "大陆",
+      "text": "Where can children learn new skills?",
+      "english": "Schools are one source, but children can also learn at home, in clubs, and through community activities. A library workshop might introduce crafts, while a sports club teaches movement and teamwork. Online resources can help too, with suitable adult guidance. Different settings expose children to different skills, so learning doesn't need to stop when the school day ends.",
+      "chinese": "学校是一种来源，孩子也能在家、社团和社区活动学。图书馆活动可介绍手工，运动社团教动作与合作。网络资源在适当成人指导下也有帮助。不同场景提供不同技能，所以放学不必停止学习。",
+      "keywords": [
+        "school",
+        "home",
+        "clubs",
+        "guided online learning"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-108",
+      "part": 3,
+      "title": "教你新技能的人",
+      "region": "大陆",
+      "text": "Why should children learn new skills?",
+      "english": "New skills help children become more capable and discover what interests them. Learning something unfamiliar also teaches patience and how to cope with mistakes. A skill doesn't have to lead to a career to be worthwhile. Cooking a simple meal or making a model can build confidence and make everyday life more interesting as well as more independent.",
+      "chinese": "新技能帮助孩子更有能力、发现兴趣。学陌生事也教耐心、如何面对错误。技能不必导向职业才值得学。做简单饭或模型，能建立信心，让日常更有趣，也更独立。",
+      "keywords": [
+        "capability",
+        "interests",
+        "patience",
+        "confidence"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-109",
+      "part": 3,
+      "title": "不喜欢的电影",
+      "region": "大陆",
+      "text": "Do people’s movie preferences change as they get older?",
+      "english": "Preferences often change as people gain different experiences, but they don't change in one fixed direction. A teenager may enjoy excitement and later become more interested in complex relationships or social issues. Someone else may keep loving animation throughout life. Available time matters too. I think personal development influences taste, while favourite genres can remain a lasting source of comfort.",
+      "chinese": "人们经历增多时偏好常变化，但不朝单一固定方向。青少年可能喜欢刺激，后来更关心复杂关系或社会议题。另一些人一生喜欢动画。时间也重要。我认为个人发展影响品味，但喜爱类型可一直提供慰藉。",
+      "keywords": [
+        "experience",
+        "genres",
+        "animation",
+        "lasting favourites"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

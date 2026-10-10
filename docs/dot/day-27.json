@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 1,
+  "day": 27,
+  "date": "2026-11-04",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-185",
+    "QB-20261008-01-P1-186",
+    "QB-20261008-01-P1-187",
+    "QB-20261008-01-P1-188",
+    "QB-20261008-01-P1-189",
+    "QB-20261008-01-P1-190",
+    "QB-20261008-01-P1-191",
+    "QB-20261008-01-P1-192",
+    "QB-20261008-01-P2-049",
+    "QB-20261008-01-P2-050",
+    "QB-20261008-01-P3-279",
+    "QB-20261008-01-P3-280",
+    "QB-20261008-01-P3-281",
+    "QB-20261008-01-P3-282",
+    "QB-20261008-01-P3-283",
+    "QB-20261008-01-P3-284",
+    "QB-20261008-01-P3-285",
+    "QB-20261008-01-P3-286",
+    "QB-20261008-01-P3-287",
+    "QB-20261008-01-P3-288",
+    "QB-20261008-01-P3-289",
+    "QB-20261008-01-P3-290"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-185",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Is there anything you dislike about it?",
+      "english": "One possible drawback is having fewer opportunities in a specialised field like AI. For my own goals, I'd need to look beyond a small town for broader academic options.",
+      "chinese": "一个可能的缺点是，AI等专业领域的机会较少。为了自己的目标，我需要到小城之外寻找更广泛的学术选择。",
+      "keywords": [
+        "a specialised field",
+        "academic options"
+      ],
+      "pending": [
+        "AI专业真实；家乡机会状况及个人不满为候选，未核实当地资源。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-186",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "What's your hometown famous for？",
+      "english": "I'd describe it as known locally for its food and winter scenery rather than internationally famous sights. It's a small northeastern town, so its appeal would be more personal.",
+      "chinese": "我会把它描述成在当地因食物和冬景而出名，而不是有国际著名景点。它是东北小城，所以吸引力更偏个人感受。",
+      "keywords": [
+        "winter scenery",
+        "known locally"
+      ],
+      "pending": [
+        "当地食物和冬景声誉为候选描述；县名与特色未提供，不登记为事实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-187",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Did you learn about the history of your hometown at school？",
+      "english": "Only a little. We learned some basic local history at school, but I don't remember many details. I'd need to read more before giving a confident explanation.",
+      "chinese": "只学过一点。学校讲过一些当地历史基础，但我记不清很多细节。要有把握地解释，我需要再阅读更多资料。",
+      "keywords": [
+        "local history",
+        "a confident explanation"
+      ],
+      "pending": [
+        "候选学校家乡历史教育及记忆情况。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-188",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Are there many young people in your hometown?",
+      "english": "There are young people, especially students, but some leave for university or work. I wouldn't claim to know the exact population; the opportunities available can affect who stays.",
+      "chinese": "有年轻人，尤其是学生，但有些会去外地上大学或工作。我不知道确切人口；当地机会会影响谁留下。",
+      "keywords": [
+        "leave for university",
+        "who stays"
+      ],
+      "pending": [
+        "家乡青年流动情况为候选观察，没有人口数据。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-189",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Is your hometown a good place for young people to pursue their careers?",
+      "english": "It depends on the career. A small town could suit local services or businesses, but for specialised research like robotics, a larger academic environment might offer more options.",
+      "chinese": "取决于职业。小城可能适合本地服务或生意，但机器人等专业研究可能在更大的学术环境里有更多选择。",
+      "keywords": [
+        "local services",
+        "more options"
+      ],
+      "pending": [
+        "职业适配判断为观点候选，未核实家乡就业状况。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-190",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Have you learned anything about the history of your hometown?",
+      "english": "I've learned a few basic things from school and conversations, but not enough to describe its history in detail. I'd be interested in understanding how the town developed.",
+      "chinese": "我通过学校和交谈了解过一些基础内容，但不足以详细介绍历史。我会有兴趣了解小城怎样发展起来。",
+      "keywords": [
+        "basic things",
+        "how it developed"
+      ],
+      "pending": [
+        "学习家乡历史渠道为候选，与187保持基础了解而非精通。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-191",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Did you learn about the culture of your hometown in your childhood?",
+      "english": "Yes, mainly through everyday customs and family activities rather than formal lessons. That kind of learning felt natural because it was part of ordinary life.",
+      "chinese": "了解过，主要通过日常习俗和家庭活动，而不是正式课程。这种学习很自然，因为它是普通生活的一部分。",
+      "keywords": [
+        "everyday customs",
+        "ordinary life"
+      ],
+      "pending": [
+        "童年家乡文化学习和家庭活动为候选，不指定未确认节日经历。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-192",
+      "part": 1,
+      "title": "The area you live in",
+      "region": "大陆",
+      "text": "Do you like the area that you live in?",
+      "english": "I'd like an area that feels convenient without being too noisy. Since I prefer quiet activities, a balance between useful nearby services and a peaceful atmosphere would suit me.",
+      "chinese": "我会喜欢方便又不太吵的区域。因为我喜欢安静活动，附近实用设施与平静气氛之间的平衡适合我。",
+      "keywords": [
+        "a balance between",
+        "a peaceful atmosphere"
+      ],
+      "pending": [
+        "安静性格真实；当前区域喜好待确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-049",
+      "part": 2,
+      "title": "很久没收到回复的信息",
+      "region": "大陆",
+      "text": "Describe a time when you sent a message or an email to someone but received no\nreply for a long time\nYou should say:\nWho you sent it to\nWhat the message/email was about\nWhether you finally received the reply\nAnd explain how you felt about the experience",
+      "english": "An occasion when I waited a long time for an email reply involved a conference organiser. I had sent a question about a practical arrangement for an academic event, because I wanted to know what I needed to prepare before travelling.\n\nThe message was quite short. I explained the issue, gave the relevant details and asked for clarification. I expected an answer within a few days, but almost a week passed without one. That was frustrating because I could not finish that part of my planning confidently.\n\nAt first, I kept checking my inbox, which did not help. I then looked through the event information again to make sure the answer was not already available. After that, I sent one polite follow-up instead of several repeated messages.\n\nEventually, I received a reply with the information I needed. The organiser explained that they had been dealing with many requests. I felt relieved, and the delay became easier to understand. The experience reminded me to leave extra time for communication and not assume that a slow answer means someone is deliberately ignoring me.",
+      "chinese": "一次长时间等邮件回复的经历，与会议组织者有关。我询问学术活动的实际安排，因为想知道出行前需要准备什么。\n\n消息很短，我说明问题、给相关信息并请求澄清。原以为几天内有答复，却快一周没有消息，令人烦躁，因为无法放心完成那部分规划。\n\n开始我反复查收件箱，并没有帮助。后来又看了活动信息，确认其中还没有现成的答案。之后只礼貌跟进一次，而非连续催促。\n\n最终，我收到了需要的信息。组织者解释说正在处理很多请求，我松了一口气，也更能理解这次延迟。这段经历提醒我，应给沟通留出额外时间，不要把慢回复自动当作故意忽视。",
+      "keywords": [
+        "a conference organiser",
+        "clarification",
+        "almost a week",
+        "one polite follow-up",
+        "leave extra time"
+      ],
+      "pending": [
+        "发给组织者的邮件、等待时长、跟进过程及对方解释均为候选故事；仅赴学术会议的背景已确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-050",
+      "part": 2,
+      "title": "长久目标/抱负",
+      "region": "大陆",
+      "text": "Describe a long-term goal/ambition you would like to achieve\nYou should say:\nHow long you have had this goal/ambition\nWhat it is\nHow you will achieve it\nAnd explain why you set it",
+      "english": "My long-term ambition is to pursue a PhD abroad and continue doing research in embodied artificial intelligence. I've been planning this for about a year. I'm currently a master's student studying AI, with a particular focus on robotics, so this goal is closely connected with what I'm studying now.\n\nThe reason I want to study abroad is to broaden my horizons and experience a wider range of educational approaches. I hope that learning in a different environment will give me more ways to think about research problems.\n\nIn terms of the research itself, I'd like to work on bringing general-purpose intelligent robots into real-world use. Put simply, I want to help make robots that can deal with a wider range of tasks in practical settings. That's the direction I hope to explore more deeply.\n\nTo move towards this goal, I'm preparing for IELTS and working on my English. One possible next step would be to look for PhD programmes and supervisors whose research fits my interests. There is still a lot to prepare, but the goal gives my current studies and English preparation a clear direction.",
+      "chinese": "我的长期目标是到海外读博士，继续研究具身人工智能。我已经规划了约一年。目前是人工智能专业硕士生，尤其关注机器人，因此这个目标与现有学习紧密相关。\n\n想出国学习，是为了拓宽眼界、体验更多元的教育方式。我希望不同环境的学习能带来思考研究问题的更多方法。\n\n研究方面，我想推动通用智能机器人进入实际应用。简单说，就是帮助机器人在现实场景处理更广泛的任务，这是希望继续深入探索的方向。\n\n为实现目标，我正在准备雅思、提高英语。一个可能的下一步是寻找研究兴趣匹配的博士项目和导师。还有许多要准备，但这个目标让当前学习和英语备考有明确方向。",
+      "keywords": [
+        "about a year",
+        "PhD abroad",
+        "embodied AI",
+        "real-world use",
+        "IELTS preparation"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-279",
+      "part": 3,
+      "title": "包含动物的故事或书",
+      "region": "大陆",
+      "text": "Why do people always tell children stories with animals?",
+      "english": "Animals make stories easy for children to imagine and remember. Different characters can represent feelings or behaviours without making the lesson feel too direct. A story about a helpful rabbit, for example, can introduce kindness. However, children should eventually learn that real animals have their own needs and do not behave exactly like the human characters in stories.",
+      "chinese": "动物使故事更容易让孩子想象和记住。不同角色可以表现情感或行为，又不让道理显得太直接。例如，热心兔子的故事能引出善良。不过，孩子最终也应了解真实动物有自身需求，并不完全像故事里的人格化角色。",
+      "keywords": [
+        "imagine and remember",
+        "kindness",
+        "real animals"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-280",
+      "part": 3,
+      "title": "保护环境的法律",
+      "region": "大陆",
+      "text": "What kinds of rules do schools in China have?",
+      "english": "Schools in China commonly have rules about attendance, classroom behaviour, safety and academic honesty. Some also set expectations for uniforms or the use of phones. The details differ between schools. I think the strongest rules are those with a clear purpose, such as preventing bullying, and students should understand the reason rather than follow them only because punishment is possible.",
+      "chinese": "中国学校通常有出勤、课堂行为、安全和学术诚信方面的规则，也有学校要求制服或规范手机使用。细节因学校而异。我认为最有力的规则都有明确目的，比如防止欺凌；学生应理解理由，而非仅因为可能受罚才遵守。",
+      "keywords": [
+        "attendance",
+        "academic honesty",
+        "a clear purpose"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-281",
+      "part": 3,
+      "title": "保护环境的法律",
+      "region": "大陆",
+      "text": "Do you think school rules are important?",
+      "english": "Yes, sensible rules help students learn in a safe and predictable environment. Without them, disruption or bullying may make school unfair for others. However, importance does not mean every existing rule is good. Schools should review rules that create unnecessary restrictions and explain the useful ones, so discipline supports learning rather than becomes an end in itself.",
+      "chinese": "重要。合理规则有助于在安全、可预测的环境中学习。缺少规则，干扰或欺凌可能让学校对他人不公平。不过，重要不意味着所有现行规则都好。学校应检查不必要的限制，解释有用规定，让纪律服务学习，而非成为目的本身。",
+      "keywords": [
+        "a predictable environment",
+        "unnecessary restrictions",
+        "support learning"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-282",
+      "part": 3,
+      "title": "保护环境的法律",
+      "region": "大陆",
+      "text": "Are children unhappy with the school rules?",
+      "english": "Some children dislike rules when they feel the restrictions are unfair or the reasons are unclear. Others may accept them once they understand how they protect everyone. Children are also sensitive to inconsistency, especially if adults ignore the same standards. I think discussing the purpose and listening to concerns can reduce frustration without removing all expectations.",
+      "chinese": "有些孩子觉得限制不公平、理由不清楚，就会不喜欢。另一些人理解规则如何保护大家后可能接受。孩子也对不一致敏感，成人无视同样标准时尤其如此。我认为讨论目的、倾听顾虑，可以减少不满，同时保留必要要求。",
+      "keywords": [
+        "unfair restrictions",
+        "inconsistency",
+        "listen to concerns"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-283",
+      "part": 3,
+      "title": "保护环境的法律",
+      "region": "大陆",
+      "text": "How can parents and teachers help children understand and follow rules?",
+      "english": "They can explain the rule through simple examples and show what responsible behaviour looks like. Adults should follow the same principles themselves and apply consequences consistently. It also helps to let children ask questions. When a child breaks a rule, discussing the effect on others may teach more than simply telling them that they have been bad.",
+      "chinese": "可以通过简单例子解释规则，并展示负责任的行为。成年人自己应遵循同样原则，保持后果处理一致，也应允许孩子提问。孩子违规时，讨论对他人的影响，可能比只说他们表现不好更有教育意义。",
+      "keywords": [
+        "simple examples",
+        "follow the principles",
+        "effects on others"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-284",
+      "part": 3,
+      "title": "保护环境的法律",
+      "region": "大陆",
+      "text": "What are the rules people should obey at work?",
+      "english": "At work, people should follow safety procedures, protect confidential information and treat colleagues respectfully. They also need to meet reasonable commitments and be honest about their work. The exact rules depend on the role. A laboratory and a shop have different risks, but clear expectations and fair treatment are useful in both, rather than relying on guesswork.",
+      "chinese": "工作中应遵守安全程序、保护机密信息、尊重同事，也要履行合理承诺、诚实对待工作。具体规定依岗位而异。实验室和商店的风险不同，但明确要求和公平待遇对两者都有用，不能靠猜。",
+      "keywords": [
+        "safety procedures",
+        "confidential information",
+        "fair treatment"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-285",
+      "part": 3,
+      "title": "保护环境的法律",
+      "region": "大陆",
+      "text": "What is the purpose of punishment?",
+      "english": "Punishment should discourage harmful behaviour, protect others and help the person understand what needs to change. It should be proportionate and fair rather than simply painful. In a school, a consequence can be combined with an explanation and a chance to repair harm. I think prevention and learning are better goals than revenge or public humiliation.",
+      "chinese": "惩罚应阻止有害行为、保护他人，帮助当事人理解需要改什么。惩罚应适度公平，而非单纯让人痛苦。在学校，后果可以结合解释和弥补伤害的机会。我认为预防和学习，比报复或公开羞辱更好的目标。",
+      "keywords": [
+        "proportionate",
+        "repair harm",
+        "prevention and learning"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-286",
+      "part": 3,
+      "title": "很久没收到回复的信息",
+      "region": "大陆",
+      "text": "In what situations do people spend a long time responding to others’ messages?",
+      "english": "People may reply slowly when they are working, travelling or dealing with something urgent. A message may also need a careful answer rather than a quick response. Sometimes notifications are missed altogether. I would not automatically interpret a delay as disrespect, because the sender can see only the waiting time, not everything happening in the other person's life.",
+      "chinese": "人们工作、旅行或处理急事时可能回复慢。有些消息需要认真回答，不能匆忙回复；有时通知干脆被漏看。我不会自动把延迟理解为不尊重，因为发信者只看见等了多久，看不见对方生活里的全部情况。",
+      "keywords": [
+        "a careful answer",
+        "missed notifications",
+        "not automatically disrespect"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-287",
+      "part": 3,
+      "title": "很久没收到回复的信息",
+      "region": "大陆",
+      "text": "In what situations do people not respond to messages at all?",
+      "english": "Some messages are spam or irrelevant, so people reasonably choose not to answer. Other messages may feel intrusive, upsetting or difficult to respond to. Forgetfulness can also play a part. If there is an existing commitment, though, a short explanation is usually more considerate than silence, because it tells the other person what to expect.",
+      "chinese": "有些消息是垃圾信息或无关内容，人们不回复很合理。另一些可能侵犯边界、令人不快或难以回应，也可能只是忘记了。但如果已有承诺，简短解释通常比沉默体贴，因为能让对方知道接下来如何预期。",
+      "keywords": [
+        "irrelevant messages",
+        "an existing commitment",
+        "a short explanation"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-288",
+      "part": 3,
+      "title": "很久没收到回复的信息",
+      "region": "大陆",
+      "text": "What would you do if you did not receive a reply after sending out a message?",
+      "english": "I would first consider whether the message is urgent and whether I have allowed a reasonable amount of time. If it matters, I would send one polite follow-up or use another appropriate channel. Repeated messages may create pressure without helping. For something less important, I would wait and avoid assuming that the person is deliberately ignoring me.",
+      "chinese": "我会先看消息是否紧急、是否已经给了合理时间。如果重要，会礼貌跟进一次，或使用另一个合适渠道。反复发消息可能只制造压力。对不那么重要的事，我会等待，避免认定对方故意不理我。",
+      "keywords": [
+        "reasonable time",
+        "a polite follow-up",
+        "another channel"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-289",
+      "part": 3,
+      "title": "很久没收到回复的信息",
+      "region": "大陆",
+      "text": "Why do some people prefer sending a message instead of making a call?",
+      "english": "Messages let people respond when they are available, rather than interrupting them immediately. They also provide a written record of details, which is useful for dates or instructions. Some people find it easier to organise their thoughts in writing. However, a call may be better for something urgent or emotionally complicated, where tone and immediate questions matter.",
+      "chinese": "消息让人有空时回复，不会立刻打断，也保留细节的文字记录，适合日期或说明。有些人写下来更容易组织想法。不过，紧急或情感复杂的事情可能更适合电话，因为语气和即时提问很重要。",
+      "keywords": [
+        "a written record",
+        "organise thoughts",
+        "tone"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-290",
+      "part": 3,
+      "title": "很久没收到回复的信息",
+      "region": "大陆",
+      "text": "How do you show your respect in your messages?",
+      "english": "I would use a polite greeting when appropriate, explain my purpose clearly and avoid demanding an immediate reply. I would also consider the other person's time, especially when sending a long request. Saying thank you matters, but respect is not only about formal words. A concise message with enough context can be more considerate than an elaborate one.",
+      "chinese": "合适时我会礼貌问候，清楚说明目的，避免要求立即回复。发长请求时，也会考虑对方时间。感谢重要，但尊重不只在于正式措辞。有充分背景的简洁消息，可能比冗长华丽的消息更体贴。",
+      "keywords": [
+        "a polite greeting",
+        "enough context",
+        "respect their time"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

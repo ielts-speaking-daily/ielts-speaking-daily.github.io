@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "day": 26,
+  "date": "2026-11-03",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-177",
+    "QB-20261008-01-P1-178",
+    "QB-20261008-01-P1-179",
+    "QB-20261008-01-P1-180",
+    "QB-20261008-01-P1-181",
+    "QB-20261008-01-P1-182",
+    "QB-20261008-01-P1-183",
+    "QB-20261008-01-P1-184",
+    "QB-20261008-01-P2-047",
+    "QB-20261008-01-P2-048",
+    "QB-20261008-01-P3-267",
+    "QB-20261008-01-P3-268",
+    "QB-20261008-01-P3-269",
+    "QB-20261008-01-P3-270",
+    "QB-20261008-01-P3-271",
+    "QB-20261008-01-P3-272",
+    "QB-20261008-01-P3-273",
+    "QB-20261008-01-P3-274",
+    "QB-20261008-01-P3-275",
+    "QB-20261008-01-P3-276",
+    "QB-20261008-01-P3-277",
+    "QB-20261008-01-P3-278"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-177",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Where is your hometown?",
+      "english": "My hometown is a small county town in northeastern China. I live in Guangdong now, so my hometown and my current home are in different parts of the country.",
+      "chinese": "我家乡是中国东北的小县城。现在住广东，所以家乡和现居地在国内不同地区。",
+      "keywords": [
+        "northeastern China",
+        "my current home"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-178",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Is that a big city or a small place?",
+      "english": "It's a small place rather than a big city. More specifically, it's a county town in northeastern China, while I currently live in a city in Guangdong.",
+      "chinese": "它是小地方，而不是大城市。具体来说，是中国东北的小县城，而我现在住在广东的一座城市。",
+      "keywords": [
+        "a small place",
+        "more specifically"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-179",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Please describe your hometown a little.",
+      "english": "It's a small county town in the northeast of China. That's the background I come from, although my current home is much farther south, in Guangdong.",
+      "chinese": "它是中国东北的小县城。这是我的家乡背景，不过目前的家远在更南面的广东。",
+      "keywords": [
+        "the northeast",
+        "farther south"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-180",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "How long have you been living there?",
+      "english": "I lived there through my school years before moving away for further study. I now live in Guangdong, so I wouldn't describe myself as living in my hometown at present.",
+      "chinese": "我在那里度过了上学阶段，之后为继续学习搬走。现在住广东，所以目前不能说仍住在家乡。",
+      "keywords": [
+        "school years",
+        "at present"
+      ],
+      "pending": [
+        "童年居住年限与搬家原因属候选；现居广东真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-181",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Do you think you will continue living there for a long time?",
+      "english": "I'm not living there now; my current home is in Guangdong. I also plan to pursue a PhD abroad, so my immediate plans involve places outside my hometown.",
+      "chinese": "我现在不住那里，现居地在广东。我也计划海外读博，所以眼下的计划涉及家乡之外的地方。",
+      "keywords": [
+        "my immediate plans",
+        "outside my hometown"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-182",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Do you like your hometown?",
+      "english": "Yes, I'd appreciate the familiarity of a small hometown. Even though I live elsewhere now, I'd still value having a place that connects me with my earlier life.",
+      "chinese": "喜欢，我会珍惜小家乡的熟悉感。即使现在住在别处，我仍会看重一个能与早年生活相连的地方。",
+      "keywords": [
+        "familiarity",
+        "my earlier life"
+      ],
+      "pending": [
+        "喜欢家乡及熟悉感为候选；不新增具体童年事件。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-183",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "Do you like living there?",
+      "english": "I'd enjoy visiting, but I don't live there at the moment. My studies and future PhD plans mean I'd be more focused on opportunities outside my hometown.",
+      "chinese": "我会喜欢回去看看，但目前不住那里。学习和未来博士计划意味着我会更多关注家乡之外的机会。",
+      "keywords": [
+        "enjoy visiting",
+        "opportunities outside"
+      ],
+      "pending": [
+        "是否喜欢回乡为候选；现居与博士目标真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-184",
+      "part": 1,
+      "title": "Hometown",
+      "region": "大陆",
+      "text": "What do you like (most) about your hometown?",
+      "english": "I'd choose the sense of familiarity rather than a particular landmark. In a small place, knowing how daily life works can feel comforting, especially after spending time somewhere unfamiliar.",
+      "chinese": "我会选熟悉感，而不是某个地标。在小地方，熟悉日常生活的方式让人安心，尤其是在陌生地方待过之后。",
+      "keywords": [
+        "a sense of familiarity",
+        "comforting"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-047",
+      "part": 2,
+      "title": "包含动物的故事或书",
+      "region": "大陆",
+      "text": "Describe a story/book with animals in it\nYou should say:\nWhat animals are in it\nWhat the story/book is about\nWhy you read the story/book\nAnd explain what you think of this story/book",
+      "english": "A book with animals in it that I'd like to describe is The Little Prince. It follows a young prince who leaves his small planet and visits different places before arriving on Earth. Two memorable animals in the story are a fox and a snake.\n\nThe fox is especially important because it helps the prince think about friendship and the time we give to someone. The snake appears in a different, more mysterious role. Although the book looks simple at first, the characters encourage readers to consider relationships, responsibility and what makes something meaningful.\n\nI chose to read it because it was short enough to approach without feeling overwhelmed, but had ideas worth returning to. A friend recommended it as more than a children's story, which made me curious to give it a try.\n\nWhat I find attractive is the contrast between the straightforward language and the questions beneath it. The animals are not just decoration; they help express ideas that might sound too abstract in an ordinary explanation. I would see it as a book to read slowly and think about, rather than rush through for the plot alone.",
+      "chinese": "我想描述的有动物的书是《小王子》。故事讲年轻王子离开小星球、访问不同地方，最终来到地球。狐狸和蛇是其中两种令人难忘的动物。\n\n狐狸特别重要，因为它帮助王子思考友谊，以及我们为一个人投入的时间。蛇则扮演更神秘的角色。书起初看似简单，但人物让读者思考关系、责任和什么赋予事物意义。\n\n我选择读它，是因为篇幅短，不让人觉得难以开始，却有值得反复思考的想法。一位朋友推荐，说它不只是儿童故事，让我好奇想试读。\n\n我觉得吸引人的，是直白语言与背后问题的反差。动物不只是装饰，而是帮助表达普通解释中可能过于抽象的想法。我会把它当作值得慢读、思考的书，而非只为情节匆匆读完。",
+      "keywords": [
+        "The Little Prince",
+        "a fox and a snake",
+        "friendship",
+        "responsibility",
+        "simple language, deeper questions"
+      ],
+      "pending": [
+        "用户是否读过《小王子》未确认；读过及朋友推荐的叙述均为用户授权的完整候选，不能登记为真实阅读经历。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-048",
+      "part": 2,
+      "title": "保护环境的法律",
+      "region": "大陆",
+      "text": "Describe a law on environmental protection\nYou should say:\nWhat it is\nHow you first learned about it\nWho benefits from it\nAnd explain how you feel about this law",
+      "english": "A law on environmental protection I'd like to discuss is China's law aimed at preventing and controlling air pollution. In broad terms, it creates responsibilities for controlling emissions and protecting the quality of the air people breathe.\n\nThe first time I paid attention to it was through a news report explaining how pollution affects ordinary life. That made the idea of environmental law feel practical rather than distant. I realised that cleaner air depends not only on individual choices, but also on rules for businesses and public authorities.\n\nThe people who benefit include local residents, workers and anyone spending time outdoors. Children and people who are more sensitive to poor air quality may especially need that protection. Businesses can also benefit from clearer expectations when the rules are applied fairly.\n\nI support the purpose of the law, but I think implementation matters as much as the written words. Requirements need to be understandable, monitoring needs to be reliable, and responsibility should not fall only on individuals. For me, a good environmental law connects a clear public goal with practical steps that people and organisations can actually follow.",
+      "chinese": "我想谈中国旨在防治空气污染的法律。大体而言，它规定了控制排放、保障人们呼吸到的空气质量的责任。\n\n我最初留意它，是通过一篇解释污染如何影响日常生活的新闻。这让我觉得环境法律很实际，而非遥远的概念。我意识到，清洁空气不只依赖个人选择，也需要针对企业和公共部门的规则。\n\n受益者包括居民、劳动者以及在户外活动的人。孩子和对空气质量更敏感的人尤其需要保护。公平实施时，明确要求也有益于企业。\n\n我支持法律目的，但认为法律的落实与写在纸上的规定同样重要。要求要容易理解，监测要可靠，责任不应只落在个人身上。在我看来，好的环境法律把明确的公共目标与个人和组织真正能够执行的具体步骤联系起来。",
+      "keywords": [
+        "air pollution",
+        "controlling emissions",
+        "a news report",
+        "local residents",
+        "implementation"
+      ],
+      "pending": [
+        "首次通过新闻了解该法的个人经历和感受为候选，未确认；不编造条款、日期或处罚数额。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-267",
+      "part": 3,
+      "title": "推荐旅行过的地方",
+      "region": "大陆",
+      "text": "How do people decide when to travel?",
+      "english": "People consider work or study schedules, weather and the cost of transport. Families may also need dates that suit several members. Travelling outside busy periods can be more comfortable, but not everyone has that flexibility. I would choose a time when the practical arrangements work and the destination offers the kind of experience I want.",
+      "chinese": "人们会考虑工作或学习安排、天气和交通价格。家庭还需兼顾多位成员的时间。避开高峰可能更舒适，但不是人人能灵活安排。我会选择实际安排可行、目的地能提供想要体验的时候。",
+      "keywords": [
+        "busy periods",
+        "practical arrangements",
+        "the experience I want"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-268",
+      "part": 3,
+      "title": "喜欢拜访但不想住的家",
+      "region": "大陆",
+      "text": "Do Chinese people like to visit others’ homes?",
+      "english": "Visiting relatives or friends at home can be an important way to maintain relationships in China, especially during family occasions. A home visit may feel more personal than meeting in a public place. However, preferences differ and people can be busy. I think arranging a suitable time and respecting the host's space matters more than assuming everyone enjoys surprise visits.",
+      "chinese": "在中国，到亲友家拜访是维系关系的重要方式，家庭场合尤其如此，也可能比在公共场所见面更亲切。不过，偏好不同，人们也可能忙碌。我认为约好合适时间、尊重主人空间，比假设人人喜欢突然到访更重要。",
+      "keywords": [
+        "maintain relationships",
+        "a suitable time",
+        "respect the host"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-269",
+      "part": 3,
+      "title": "喜欢拜访但不想住的家",
+      "region": "大陆",
+      "text": "What do Chinese people do when they visit others?",
+      "english": "Visitors often talk, share a meal or spend time with the family. Tea and snacks may be offered, but the details depend on the household and the occasion. It is considerate to follow the host's lead and avoid making extra work. Offering a small amount of help can be polite, as long as it does not interfere with their arrangements.",
+      "chinese": "客人常会聊天、共餐或与家人相处。主人可能提供茶和点心，但具体因家庭和场合而异。体贴的做法是顺着主人安排，避免增加负担。适度帮忙可以显得礼貌，但不应干扰他们的安排。",
+      "keywords": [
+        "share a meal",
+        "the host's lead",
+        "avoid extra work"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-270",
+      "part": 3,
+      "title": "喜欢拜访但不想住的家",
+      "region": "大陆",
+      "text": "What kind of place do people in your country like to live in?",
+      "english": "People usually want somewhere safe, comfortable and convenient for their daily lives. In a city, access to work, transport and services may be especially important. Some prefer a quieter place with more space, even if the journey is longer. Budget also limits the choice, so I would describe housing preferences as a balance between comfort, location and affordability.",
+      "chinese": "人们通常想住得安全、舒适，并方便日常生活。在城市，工作、交通和服务的便利性尤其重要。也有人愿意通勤更久，换取安静和更大空间。预算也有限制，因此住房偏好是在舒适、位置和可负担性之间权衡。",
+      "keywords": [
+        "daily convenience",
+        "more space",
+        "affordability"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-271",
+      "part": 3,
+      "title": "喜欢拜访但不想住的家",
+      "region": "大陆",
+      "text": "What's the difference between homes in cities and those in the countryside?",
+      "english": "City homes are often closer to workplaces, public transport and a wide range of services. They may also have less space or more noise. Homes in the countryside can offer a quieter setting and room outdoors, but access to services may be less convenient. These are general differences, though; the actual experience depends on the particular home and location.",
+      "chinese": "城市住宅通常更靠近工作、公共交通和多样服务，但空间可能更小、噪声更多。乡村住宅可能更安静、有户外空间，却未必方便获取服务。不过，这只是一般差别，实际体验仍取决于具体住房和位置。",
+      "keywords": [
+        "public transport",
+        "a quieter setting",
+        "access to services"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-272",
+      "part": 3,
+      "title": "喜欢拜访但不想住的家",
+      "region": "大陆",
+      "text": "What kind of gifts do people usually bring when they visit others?",
+      "english": "People may bring fruit, tea, snacks or a small gift that suits the host. The choice should consider the occasion and what the person likes, rather than focus only on price. Something easy to share can be particularly useful during a family visit. I would also avoid gifts that create storage problems or an obligation to give something expensive back.",
+      "chinese": "人们可能带水果、茶、点心，或适合主人的小礼物。应考虑场合和对方喜好，而非只看价格。家庭拜访时，方便分享的东西尤其有用。我也会避免难存放、或让人觉得必须昂贵回礼的礼物。",
+      "keywords": [
+        "suits the host",
+        "easy to share",
+        "an obligation"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-273",
+      "part": 3,
+      "title": "喜欢拜访但不想住的家",
+      "region": "大陆",
+      "text": "How often do you visit your relatives or friends?",
+      "english": "For me, the frequency would depend on distance, study commitments and whether the other person is available. I would rather arrange a visit when we can talk properly than meet often but feel rushed. Between visits, messages can help maintain the connection. So I would aim for regular, considerate contact rather than a fixed number of meetings every week.",
+      "chinese": "对我而言，频率取决于距离、学习安排和对方是否有空。我更愿意在能好好聊天时拜访，而非频繁见面却匆匆忙忙。两次拜访之间可以通过消息保持联系。因此，我倾向于有规律、体贴的联系，而不是固定每周见几次。",
+      "keywords": [
+        "study commitments",
+        "talk properly",
+        "considerate contact"
+      ],
+      "pending": [
+        "用户实际拜访亲友频率未提供；本稿描述拟定偏好，不声称过去习惯。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-274",
+      "part": 3,
+      "title": "包含动物的故事或书",
+      "region": "大陆",
+      "text": "Should schools teach children about animals?",
+      "english": "Yes, learning about animals can help children understand the natural world and develop respect for living things. Schools can explain habitats, basic needs and responsible treatment without requiring every child to own a pet. Observations, books and suitable visits can support the lessons. The aim should be curiosity and care, rather than treating animals simply as entertainment.",
+      "chinese": "应该。了解动物能帮助孩子理解自然、尊重生命。学校可以讲栖息地、基本需求和负责任的对待方式，不必要求每个孩子养宠物。观察、书籍和合适的参观能支持教学，目标应是好奇和关爱，而非只把动物当娱乐。",
+      "keywords": [
+        "the natural world",
+        "responsible treatment",
+        "curiosity and care"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-275",
+      "part": 3,
+      "title": "包含动物的故事或书",
+      "region": "大陆",
+      "text": "Some people think pets should not be kept in cities. What do you think?",
+      "english": "I would not support a complete ban, but urban pet ownership needs responsibility. Owners should consider space, noise, cleanliness and the animal's needs. Some homes are suitable for certain pets, while others are not. Clear rules can reduce conflict with neighbours, so the issue is how animals are cared for rather than whether a city automatically makes ownership unacceptable.",
+      "chinese": "我不支持全面禁止，但城市养宠物需要责任。主人应考虑空间、噪声、卫生和动物需求。有些家庭适合某些宠物，有些不适合。清晰规则可以减少邻里冲突，因此重点是照料方式，而不是城市本身是否让养宠物不可接受。",
+      "keywords": [
+        "urban pet ownership",
+        "the animal's needs",
+        "reduce conflict"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-276",
+      "part": 3,
+      "title": "包含动物的故事或书",
+      "region": "大陆",
+      "text": "Many people regard pets as members of their family. What do you think?",
+      "english": "I can understand that view because people form routines and emotional connections with animals they care for. A pet may provide companionship and become part of everyday family life. However, treating it as family should also mean respecting its actual needs. Animals should not be expected to behave like people simply because their owners feel close to them.",
+      "chinese": "我理解这种看法，因为人们会与自己照料的动物形成日常习惯和情感联系。宠物提供陪伴，成为家庭日常的一部分。但把它当家人也应尊重它真正的需求，不能因为亲近，就要求动物像人一样行为。",
+      "keywords": [
+        "companionship",
+        "emotional connections",
+        "actual needs"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-277",
+      "part": 3,
+      "title": "包含动物的故事或书",
+      "region": "大陆",
+      "text": "Do many people keep pets in your country?",
+      "english": "Pet ownership is familiar in China, particularly with animals such as cats and dogs, but I would not estimate a national proportion. Whether someone keeps a pet depends on space, time, money and personal preference. Some people enjoy animals without owning one. I think responsible care matters more than whether keeping a pet is seen as fashionable or common.",
+      "chinese": "养宠物在中国很常见，猫狗尤其为人熟悉，但我不会估计全国比例。是否养宠物取决于空间、时间、金钱和偏好。有些人喜欢动物，却不养。我认为负责任地照料，比养宠物是否流行或常见更重要。",
+      "keywords": [
+        "pet ownership",
+        "personal preference",
+        "responsible care"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-278",
+      "part": 3,
+      "title": "包含动物的故事或书",
+      "region": "大陆",
+      "text": "What are the advantages of keeping a pet?",
+      "english": "A pet can offer companionship and encourage a regular routine. Looking after it may also teach someone patience and responsibility. These benefits are not automatic, though, because caring for an animal takes time and money. People should choose a pet whose needs they can meet, rather than expect it to solve loneliness without any effort from them.",
+      "chinese": "宠物能提供陪伴、促进规律作息，照料它也可能培养耐心和责任感。但好处不是自动发生，因为需要时间和金钱。人们应选择自己能满足其需求的宠物，而不是不付出努力就指望它解决孤独。",
+      "keywords": [
+        "a regular routine",
+        "patience",
+        "meet its needs"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

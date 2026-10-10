@@ -1,0 +1,423 @@
+{
+  "schemaVersion": 1,
+  "day": 23,
+  "date": "2026-10-31",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-153",
+    "QB-20261008-01-P1-154",
+    "QB-20261008-01-P1-155",
+    "QB-20261008-01-P1-156",
+    "QB-20261008-01-P1-157",
+    "QB-20261008-01-P1-158",
+    "QB-20261008-01-P1-159",
+    "QB-20261008-01-P1-160",
+    "QB-20261008-01-P2-041",
+    "QB-20261008-01-P2-042",
+    "QB-20261008-01-P3-231",
+    "QB-20261008-01-P3-232",
+    "QB-20261008-01-P3-233",
+    "QB-20261008-01-P3-234",
+    "QB-20261008-01-P3-235",
+    "QB-20261008-01-P3-236",
+    "QB-20261008-01-P3-237",
+    "QB-20261008-01-P3-238",
+    "QB-20261008-01-P3-239",
+    "QB-20261008-01-P3-240",
+    "QB-20261008-01-P3-241",
+    "QB-20261008-01-P3-242"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-153",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "What requirements did you need to meet to get your current job?",
+      "english": "I'm currently a master's student, so I don't have job-entry requirements to describe here. My next planned step is an overseas PhD rather than a specific professional position.",
+      "chinese": "我目前是硕士生，所以这里没有要介绍的入职要求。计划的下一步是海外博士，而不是某个具体职业岗位。",
+      "keywords": [
+        "job entry requirements",
+        "next planned step"
+      ],
+      "pending": [
+        "是否同时工作未知；以暂无具体职业为候选适配。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-154",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you have any plans for your work in the next five years?",
+      "english": "My immediate plan is further study abroad. Beyond that, I want to deepen research on embodied AI and help bring general-purpose intelligent robots into real-world use.",
+      "chinese": "眼前的计划是去海外继续学习。之后，我想深入具身智能研究，帮助推动通用智能机器人实际应用。",
+      "keywords": [
+        "further study",
+        "real world use"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-155",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "What do you think is the most important at the moment?",
+      "english": "Preparing for my next academic step is important to me. I plan to pursue a PhD abroad to broaden my horizons and experience a more diverse education.",
+      "chinese": "准备下一阶段的学术发展对我很重要。我计划海外读博，以拓宽眼界、接受更多元教育。",
+      "keywords": [
+        "academic step",
+        "a diverse education"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-156",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you want to change to another job?",
+      "english": "My focus is on continuing my studies rather than changing jobs. I'm doing a master's in AI and robotics, and my next plan is doctoral study abroad.",
+      "chinese": "我关注继续学习，而不是换工作。我在读AI与机器人硕士，下一步计划海外读博。",
+      "keywords": [
+        "continuing my studies",
+        "doctoral study"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-157",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you miss being a student?",
+      "english": "I'm still a student, so I haven't left that stage yet. I'm doing a master's now, and pursuing a PhD would allow me to continue my academic education.",
+      "chinese": "我还是学生，还没有离开这个阶段。我现在读硕士，读博也会让我继续学术学习。",
+      "keywords": [
+        "that stage",
+        "academic education"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-158",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "What technology do you use at work?",
+      "english": "I'd talk about study, since I'm a master's student. A computer would be central to programming and AI tasks, although the specific software would depend on what I was doing.",
+      "chinese": "我是硕士生，所以会谈学习。电脑会是编程和AI任务的核心工具，但具体软件取决于正在做什么。",
+      "keywords": [
+        "central to",
+        "specific software"
+      ],
+      "pending": [
+        "实际工具使用为候选；不假定已有工作。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-159",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Who helps you the most? And how?",
+      "english": "My supervisor would be a good example. They help me clarify research questions and consider possible approaches, which is useful when a problem initially feels too broad.",
+      "chinese": "导师会是好例子。他们帮助我明确研究问题、考虑可能的方法，这在问题一开始太宽泛时很有用。",
+      "keywords": [
+        "clarify research questions",
+        "possible approaches"
+      ],
+      "pending": [
+        "导师真实；具体研究帮助方式为授权候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-160",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "What kind of house or apartment do you want to live in in the future?",
+      "english": "I'd like a comfortable apartment with a quiet place to study. If I pursue a PhD abroad, being near the university would matter more than having a very large home.",
+      "chinese": "我想住有安静学习空间的舒适公寓。如果海外读博，离大学近比房子很大更重要。",
+      "keywords": [
+        "a quiet place",
+        "near the university"
+      ],
+      "pending": [
+        "未来住房偏好为候选；博士计划真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-041",
+      "part": 2,
+      "title": "特别场合的食物",
+      "region": "大陆",
+      "text": "Describe a food that people eat on special occasions/events\nYou should say:\nWhat it is\nWhat the special event/occasion is\nHow it is cooked/made\nAnd explain why people eat it on that special occasion/event",
+      "english": "I'd like to talk about dumplings, which are associated with the Spring Festival in many families in China, especially in the north. They are small parcels of filling wrapped in thin pieces of dough, and they can be served as part of a family meal.\n\nTo make them, people prepare a filling, often with vegetables and meat, although there are many different versions. A small amount is placed in the centre of a wrapper, and the edges are pressed together carefully so the filling stays inside. The dumplings can then be boiled, steamed or cooked in a pan, depending on the style.\n\nOne reason they suit a special occasion is that making them can be a shared activity. Several people can prepare the wrappers, fill them and talk at the same time. Dumplings are also associated with reunion and good wishes, so their meaning goes beyond their taste.\n\nI think they are a good example of how ordinary ingredients become part of a tradition. The food feels special because of the occasion and the people sharing it, rather than because it is especially expensive.",
+      "chinese": "我想谈饺子。在中国许多家庭，尤其北方家庭，饺子与春节联系紧密。它是用薄面皮包住馅料的小面食，可以成为家庭餐的一部分。\n\n制作时先准备馅料，通常有蔬菜和肉，但也有很多不同版本。把少量馅放在面皮中央，仔细捏合边缘，避免馅漏出来。根据不同做法，之后可以煮、蒸或用平底锅烹制。\n\n它适合特别场合的一个原因，是制作过程可以一起完成。几个人能够做面皮、包馅，同时聊天。饺子还与团聚和祝福关联，所以意义不只在味道。\n\n我认为它很好地说明普通食材如何成为传统的一部分。食物之所以显得特别，是因为享用的场合和一起分享的人，而不是因为它特别昂贵。",
+      "keywords": [
+        "dumplings",
+        "Spring Festival",
+        "filling and wrappers",
+        "a shared activity",
+        "reunion and good wishes"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-042",
+      "part": 2,
+      "title": "擅长学习和说语言的人",
+      "region": "大陆",
+      "text": "Describe a person who is good at learning and speaking new languages\nYou should say:\nHow you got to know him/her\nHow he/she learns a new language\nWhat languages he/she can speak\nAnd explain how you feel about him/her",
+      "english": "The person I'd like to describe is a fellow student from my master's programme. I first got to know him during a discussion after a university seminar, when we discovered that we both enjoyed reading and Japanese animation.\n\nHe speaks Chinese and English, and he can also communicate in Japanese. What impresses me is not simply the number of languages, but the way he keeps improving them. He reads short texts, listens to material he finds interesting and tries to use new expressions in conversation. Instead of memorising a long list and forgetting it, he returns to useful words in different situations.\n\nHe is also comfortable asking someone to correct him. If he cannot remember a word, he explains the idea another way rather than ending the conversation. That makes his speaking feel natural, even when it is not perfect.\n\nI admire his patience and consistency. Learning a language can seem like an enormous task, but he turns it into small activities he can repeat. I would like to take that approach to my own English preparation, because regular use seems more practical than waiting until I feel completely ready.",
+      "chinese": "我想描述硕士项目里的一位同学。大学一次讲座后的讨论中，我们发现都喜欢阅读和日本动漫，于是认识了。\n\n他会中文、英语，也能用日语交流。让我佩服的不是单纯会几种语言，而是持续进步的方式。他读短文、听感兴趣的材料，尝试在交流中使用新表达。他不是背完一长串单词就忘掉，而是在不同情境反复接触有用词语。\n\n他也愿意请别人纠正。如果想不起某个词，会换种方式解释，而不是结束谈话。因此，即使不完美，表达也显得自然。\n\n我欣赏他的耐心和持之以恒。学习一门语言可能看起来是项艰巨的任务，他却把它变成可重复的小活动。我也想把这种方法用于英语备考，因为经常实际使用英语，比等到自己觉得完全准备好更实际。",
+      "keywords": [
+        "a fellow student",
+        "Chinese, English and Japanese",
+        "use new expressions",
+        "explain another way",
+        "patience and consistency"
+      ],
+      "pending": [
+        "该同学、相识经过、语言能力和学习习惯均为候选故事，尚未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-231",
+      "part": 3,
+      "title": "重要决定",
+      "region": "大陆",
+      "text": "Do you think advertisements can influence our decisions when shopping?",
+      "english": "Yes, advertisements can make a product more familiar and highlight benefits we might not have considered. Repeated exposure may also make a brand feel trustworthy even before we try it. That does not mean the product is the best choice. I think shoppers should compare useful information, prices and actual needs rather than rely only on the advert.",
+      "chinese": "会。广告让产品更熟悉，也突出我们未曾考虑的优点。反复接触还可能让品牌在试用前就显得可信，但这不意味着它就是最佳选择。我认为购物者应比较有效信息、价格和实际需要，而非只依赖广告。",
+      "keywords": [
+        "repeated exposure",
+        "feel trustworthy",
+        "actual needs"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-232",
+      "part": 3,
+      "title": "重要决定",
+      "region": "大陆",
+      "text": "Do you think the influence of advertising is good?",
+      "english": "It can be positive when advertising helps people discover a useful product or understand its features. The problem comes when it exaggerates results or creates pressure to buy unnecessary things. Children may be particularly vulnerable to that pressure. So I would support honest, clear advertising, alongside consumer education and reasonable limits on misleading claims.",
+      "chinese": "广告帮助人们发现有用产品、理解功能时，影响可以是积极的。夸大效果、制造购买不必要物品的压力时，就会出问题，孩子尤其容易受影响。因此，我支持诚实清楚的广告，也重视消费教育和对误导宣传的合理限制。",
+      "keywords": [
+        "useful features",
+        "misleading claims",
+        "consumer education"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-233",
+      "part": 3,
+      "title": "重要决定",
+      "region": "大陆",
+      "text": "How do people usually make important decisions?",
+      "english": "People often start by identifying the options and considering possible consequences. They may gather information, discuss the choice with someone they trust and compare short-term and long-term effects. Emotions matter as well, but I would avoid deciding only under pressure. For an important decision, allowing time to check assumptions can prevent a mistake that is difficult to reverse.",
+      "chinese": "人们通常先找出选项、考虑后果，再收集信息，与可信的人讨论，并比较短期和长期影响。情绪也重要，但我会避免只在压力下作决定。面对重要选择，花时间检查假设，可以避免难以挽回的错误。",
+      "keywords": [
+        "possible consequences",
+        "check assumptions",
+        "difficult to reverse"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-234",
+      "part": 3,
+      "title": "喜欢的现场体育赛事",
+      "region": "大陆",
+      "text": "Why do some people like to watch sports events?",
+      "english": "Sports events combine competition, uncertainty and a shared atmosphere. People enjoy seeing skilled athletes perform, and supporting a team gives them something to discuss with others. A close match can also be exciting because the outcome is not predictable. For some viewers, it is a social activity as much as an interest in the sport itself.",
+      "chinese": "体育赛事结合了竞争、不确定性和共同氛围。人们喜欢看优秀运动员表现，支持球队也提供与他人交流的话题。势均力敌的比赛因结果难预测而令人兴奋。对一些观众而言，它既是体育兴趣，也是社交活动。",
+      "keywords": [
+        "competition",
+        "a shared atmosphere",
+        "an unpredictable outcome"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-235",
+      "part": 3,
+      "title": "喜欢的现场体育赛事",
+      "region": "大陆",
+      "text": "Where do people normally watch sports events?",
+      "english": "People can watch at the venue, at home or in a place where friends gather around a screen. Watching at home is convenient and usually easier to fit into a schedule. A stadium offers a stronger atmosphere, but involves travel and tickets. The choice depends on cost, access and whether someone values the live experience.",
+      "chinese": "人们可以到现场、在家，或和朋友聚在屏幕前观看。在家很方便，也通常更容易融入日程。体育场的氛围更强，但需要出行和门票。选择取决于成本、便利程度，以及是否重视现场体验。",
+      "keywords": [
+        "at the venue",
+        "fit into a schedule",
+        "the live experience"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-236",
+      "part": 3,
+      "title": "喜欢的现场体育赛事",
+      "region": "大陆",
+      "text": "What are the advantages of watching sports events online?",
+      "english": "Online viewing allows people to follow a match without travelling to the venue. They may also have access to replays, commentary and different camera angles, which can make the action easier to understand. It is convenient for events in another country. However, the experience depends on a stable connection and does not fully reproduce the atmosphere of a crowd.",
+      "chinese": "网上观看让人不必前往现场，也可能提供回放、解说和不同镜头角度，让赛事更容易理解。对于国外的比赛尤其方便。不过，体验依赖稳定网络，也无法完全再现人群的现场氛围。",
+      "keywords": [
+        "replays",
+        "camera angles",
+        "a stable connection"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-237",
+      "part": 3,
+      "title": "喜欢的现场体育赛事",
+      "region": "大陆",
+      "text": "What sports matches are suitable for children to attend?",
+      "english": "I would choose events with a safe environment, clear rules and a manageable length. A local school competition or a family-friendly professional match could be suitable. Children should be able to see what is happening and leave if they become tired. The behaviour of spectators matters too, because a hostile crowd can spoil the experience.",
+      "chinese": "我会选环境安全、规则清楚、时长适中的比赛。本地学校比赛或适合家庭的职业赛事都可以。孩子应看得清比赛，累了也能离场。观众的行为同样重要，因为充满敌意的人群会破坏体验。",
+      "keywords": [
+        "a safe environment",
+        "manageable length",
+        "spectator behaviour"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-238",
+      "part": 3,
+      "title": "喜欢的现场体育赛事",
+      "region": "大陆",
+      "text": "Why do some people spend a lot going to other countries to watch sports events?",
+      "english": "For dedicated fans, attending a major event can feel like a special experience rather than an ordinary purchase. They may want to see a favourite team, share the atmosphere or combine the match with travel. The cost reflects that emotional value. Still, I think the decision should fit their budget rather than create financial pressure afterwards.",
+      "chinese": "对忠实球迷来说，重大赛事是一种特别体验，而非普通消费。他们可能想看喜欢的球队、感受氛围，或把比赛和旅行结合起来。投入反映了这种情感价值。不过，我认为应量力而行，避免之后产生经济压力。",
+      "keywords": [
+        "dedicated fans",
+        "emotional value",
+        "fit their budget"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-239",
+      "part": 3,
+      "title": "喜欢的现场体育赛事",
+      "region": "大陆",
+      "text": "What sports games are popular in your country?",
+      "english": "Basketball, football and table tennis are examples of sports that attract attention in China. People may enjoy playing a sport themselves or following major competitions. Preferences vary with age, local facilities and personal interests, so I would not give a precise ranking. An accessible place to play can influence popularity as much as famous athletes do.",
+      "chinese": "篮球、足球和乒乓球都是在中国受到关注的运动。人们可能自己参与，也可能关注大型赛事。偏好因年龄、当地设施和兴趣而异，因此我不会给出精确排名。便利的运动场地与知名运动员一样，也能影响受欢迎程度。",
+      "keywords": [
+        "major competitions",
+        "local facilities",
+        "personal interests"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-240",
+      "part": 3,
+      "title": "特别场合的食物",
+      "region": "大陆",
+      "text": "Why are there special foods on special occasions or events?",
+      "english": "Special foods help people recognise an occasion and connect it with shared memories. Some dishes also carry symbolic meanings, such as togetherness or good wishes. Preparing and eating them can bring a family together. The food does not have to be expensive; its value often comes from the tradition and the people who share it.",
+      "chinese": "特别食物帮助人们辨认节日，并连接共同记忆。有些菜还象征团聚或祝福。准备和享用它们可以让家人聚在一起。食物不必昂贵，其价值往往来自传统以及共同分享的人。",
+      "keywords": [
+        "shared memories",
+        "symbolic meanings",
+        "togetherness"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-241",
+      "part": 3,
+      "title": "特别场合的食物",
+      "region": "大陆",
+      "text": "What are the differences between everyday food and festival food?",
+      "english": "Everyday food is usually chosen for convenience, nutrition and cost. Festival food may involve more preparation, a particular tradition or dishes that are shared with a larger group. It can feel special because people do not eat it so often. However, the distinction is not absolute; a familiar simple dish can also become meaningful on a celebration day.",
+      "chinese": "日常食物通常考虑方便、营养和成本。节日食物可能准备更费工、承载传统，或适合更多人分享。因为不常吃，它会显得特别。不过，界限并不绝对，熟悉简单的菜也能在庆祝日具有特别意义。",
+      "keywords": [
+        "convenience and nutrition",
+        "more preparation",
+        "a particular tradition"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-242",
+      "part": 3,
+      "title": "特别场合的食物",
+      "region": "大陆",
+      "text": "Are there any differences between the food people eat today and the food people ate in the past?",
+      "english": "Many people now have access to a wider range of ingredients and meals from different places. Refrigeration, transport and online delivery can also change how food reaches the table. In the past, choices often depended more on local and seasonal supplies. Still, traditional dishes remain important, so change does not mean that older food habits simply disappear.",
+      "chinese": "如今很多人能接触更丰富的食材和各地菜肴。冷藏、运输和线上配送也改变食物上桌的方式。过去的选择往往更依赖本地和季节供应。不过，传统菜仍然重要，变化并不意味着旧饮食习惯直接消失。",
+      "keywords": [
+        "a wider range",
+        "seasonal supplies",
+        "traditional dishes"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

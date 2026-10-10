@@ -1,0 +1,452 @@
+{
+  "schemaVersion": 1,
+  "day": 30,
+  "date": "2026-11-07",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-201",
+    "QB-20261008-01-P1-202",
+    "QB-20261008-01-P1-203",
+    "QB-20261008-01-P1-204",
+    "QB-20261008-01-P1-205",
+    "QB-20261008-01-P1-206",
+    "QB-20261008-01-P1-207",
+    "QB-20261008-01-P1-208",
+    "QB-20261008-01-P1-209",
+    "QB-20261008-01-P2-053",
+    "QB-20261008-01-P2-054",
+    "QB-20261008-01-P3-303",
+    "QB-20261008-01-P3-304",
+    "QB-20261008-01-P3-305",
+    "QB-20261008-01-P3-306",
+    "QB-20261008-01-P3-307",
+    "QB-20261008-01-P3-308",
+    "QB-20261008-01-P3-309",
+    "QB-20261008-01-P3-310",
+    "QB-20261008-01-P3-311",
+    "QB-20261008-01-P3-312",
+    "QB-20261008-01-P3-313",
+    "QB-20261008-01-P3-314"
+  ],
+  "counts": {
+    "p1": 9,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 38.5,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-201",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "How long have you lived in this city?",
+      "english": "I've lived here for a couple of years, so the surroundings feel familiar. I'm originally from northeastern China, but Guangdong is where I'm currently based.",
+      "chinese": "我住这里大约两年了，所以周围已很熟悉。我来自中国东北，但广东是我目前居住的地方。",
+      "keywords": [
+        "a couple of years",
+        "currently based"
+      ],
+      "pending": [
+        "两年为候选居住时长，与165一致；真实时长未提供。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-202",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "Are there big changes in this city?",
+      "english": "Some changes are noticeable, especially new buildings and businesses. I'd be more interested in whether daily life becomes easier than in how impressive the city looks.",
+      "chinese": "有些变化很明显，尤其是新楼和商家。比起城市看起来多壮观，我更关心日常生活是否更方便。",
+      "keywords": [
+        "noticeable changes",
+        "daily life"
+      ],
+      "pending": [
+        "新建筑与商业变化为候选城市观察，未核实实际现居城市。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-203",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "Is this city your permanent residence?",
+      "english": "It's my current home, but I wouldn't assume I'll always live here. I plan to pursue a PhD abroad, so the next stage of my life may involve moving.",
+      "chinese": "这里是目前的家，但我不会假设永远住在这儿。我计划海外读博，所以下个人生阶段可能涉及搬家。",
+      "keywords": [
+        "my current home",
+        "the next stage"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-204",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "Are there people of different ages living in this city?",
+      "english": "Yes, cities generally include children, students, working adults and older people. Different groups need different services, so public spaces should be useful beyond just one age group.",
+      "chinese": "有的，城市通常有儿童、学生、在职成人和老人。不同群体需要不同服务，所以公共空间不该只对一个年龄段有用。",
+      "keywords": [
+        "different groups",
+        "public spaces"
+      ],
+      "pending": [
+        "个人立场待确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-205",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "Are the people friendly in the city?",
+      "english": "I'd say everyday politeness matters more than everyone being talkative. A helpful response when someone asks a question can make a city feel friendly even if people seem reserved.",
+      "chinese": "我觉得日常礼貌比人人都健谈更重要。有人提问时，友善回应能让城市显得友好，即使人们看起来比较内敛。",
+      "keywords": [
+        "everyday politeness",
+        "seem reserved"
+      ],
+      "pending": [
+        "当前城市友好程度未提供，以个人判断标准作完整候选答法。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-206",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "Is the city friendly to children and old people?",
+      "english": "It depends on the neighbourhood. Safe paths, accessible transport and places to rest would make a city easier for both children and older people to use.",
+      "chinese": "取决于社区。安全道路、方便使用的交通和休息场所，能让儿童和老人都更方便地生活在城市里。",
+      "keywords": [
+        "accessible transport",
+        "places to rest"
+      ],
+      "pending": [
+        "实际城市设施未核实；回答为评判标准候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-207",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "Do you often see your neighbors?",
+      "english": "I'd see familiar neighbours occasionally and say hello, but I wouldn't have long conversations every time. I'm more talkative once I know people well, rather than immediately with everyone.",
+      "chinese": "我会偶尔见到熟悉的邻居并打招呼，但不会每次都长聊。我熟悉别人后会更健谈，而不是一开始就对谁都这样。",
+      "keywords": [
+        "familiar neighbours",
+        "more talkative"
+      ],
+      "pending": [
+        "性格真实；见邻居频率与习惯为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-208",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "What's the weather like where you live?",
+      "english": "Guangdong is generally warm and humid, with milder winters than northeastern China. I'd pay attention to the weather before going out, especially when rain could affect my plans.",
+      "chinese": "广东总体温暖湿润，冬季比中国东北温和。我会在出门前留意天气，尤其是雨可能影响安排时。",
+      "keywords": [
+        "warm and humid",
+        "milder winters"
+      ],
+      "pending": [
+        "区域气候为一般地理描述；个人看天气习惯为候选，无具体城市数据。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-209",
+      "part": 1,
+      "title": "The city you live in",
+      "region": "大陆",
+      "text": "Would you recommend your city to others?",
+      "english": "I'd recommend it to someone who values convenient city life. Whether they'd enjoy it would depend on their preferences, so I'd explain the practical advantages rather than promise they'd love everything.",
+      "chinese": "我会推荐给看重城市便利生活的人。他们是否喜欢取决于偏好，所以我会解释实用优势，而不是保证他们喜欢一切。",
+      "keywords": [
+        "convenient city life",
+        "practical advantages"
+      ],
+      "pending": [
+        "当前城市推荐态度和便利程度为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-053",
+      "part": 2,
+      "title": "当地新闻",
+      "region": "大陆",
+      "text": "Describe a piece of local news that people are interested in\nYou should say:\nWhat it was about\nWhere you saw/heard it\nWho was involved\nAnd explain why people were interested in it",
+      "english": "A piece of local news that could attract a lot of interest was an announcement that a public library would extend its evening opening hours. The report explained that a study area would stay available later, giving residents more flexibility after work or classes.\n\nI saw the announcement in a local online news article. It involved the library staff, the local authorities supporting the service and residents who wanted a quiet place to read or study. The report also described practical details, such as which area would be open and how visitors could use it.\n\nI think people were interested because the change affected ordinary life directly. Not everyone has a quiet home environment, and some people finish work too late to use a library during normal daytime hours. A relatively small change in a public service could therefore create a useful opportunity.\n\nWhat made the story appealing to me was its practical scale. It was not about a dramatic event or a famous person. It was about making an existing resource more accessible. As a student, I can understand why a reliable, calm place to study would matter to people.",
+      "chinese": "可能吸引许多人关注的一则本地新闻，是公共图书馆宣布延长晚间开放时间。报道解释部分学习区域会开放更晚，让居民下班或下课后更灵活使用。\n\n我在一篇本地网络新闻报道中看到了这则公告，涉及图书馆工作人员、支持服务的地方部门，以及想找安静地方阅读学习的居民。报道也有具体信息，比如开放哪一区、如何使用。\n\n我认为人们关注，是因为变化直接影响日常。不是人人家里安静，有些人下班太晚，无法在白天正常时段去图书馆。所以公共服务的小变化也能带来有用机会。\n\n吸引我的是，这则新闻着眼于日常生活中的具体问题：不是戏剧事件或名人，而是让已有资源更易获得。作为学生，我理解可靠安静的学习空间为什么重要。",
+      "keywords": [
+        "a public library",
+        "evening opening hours",
+        "local residents",
+        "accessible services",
+        "a quiet place to study"
+      ],
+      "pending": [
+        "图书馆公告、网络文章及具体服务变化均为未确认候选新闻，不声称已联网核验或已在用户城市发生。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-054",
+      "part": 2,
+      "title": "近期改变",
+      "region": "大陆",
+      "text": "Describe a change that you made recently\nYou should say:\nWhat the change was\nWhat caused the change\nWhat you did for the change\nAnd explain how you feel about the change",
+      "english": "A recent change I'd describe is keeping my phone out of reach during a focused study session. Previously, I would leave it beside my laptop, so even a small notification could interrupt what I was doing.\n\nThe reason for changing was that I wanted my English preparation to be more deliberate. Simply sitting at the desk for a long time did not guarantee useful work. If I checked messages repeatedly, it became harder to follow a difficult sentence or stay with a task that needed concentration.\n\nI started by switching off unnecessary notifications and leaving the phone away from the desk. I also gave each study session a small, clear goal and checked the phone during a planned break. At first, the habit felt slightly uncomfortable because reaching for it was almost automatic.\n\nWhat I like about the change is that it is simple. It does not require a complicated application or a perfect timetable. It just removes one source of distraction. I would describe the feeling as calmer and more purposeful: I can judge a session by what I understood or completed, rather than only by how long I was sitting there.",
+      "chinese": "我想描述的近期变化，是专注学习时把手机放到够不到的位置。原先放在笔记本旁，小通知也会打断。\n\n改变是为了让英语备考更有目的。在书桌前坐很久，并不保证学习有效；反复查消息会让理解难句、专注任务更困难。\n\n我先关掉不必要通知，把手机放离桌面；再给每段学习设小而清晰的目标，在计划好的休息时看手机。最初略不习惯，因为伸手拿手机几乎成了下意识的动作。\n\n我喜欢它的简单：无需复杂软件或完美时间表，只减少一个干扰来源。我会把感觉描述为更平静、更有目标；可以用真正理解或完成了什么评价学习，而不只计算坐了多久。",
+      "keywords": [
+        "out of reach",
+        "unnecessary notifications",
+        "a clear goal",
+        "a planned break",
+        "more purposeful"
+      ],
+      "pending": [
+        "手机原习惯、实际改变、执行步骤和效果均为完整候选，不视为用户已实施学习改进。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-303",
+      "part": 3,
+      "title": "想要颁布的环保法律",
+      "region": "大陆",
+      "text": "What kinds of rules do schools in China have?",
+      "english": "Schools in China commonly have rules about attendance, classroom behaviour, safety and academic honesty. Some also set expectations for uniforms or the use of phones. The details differ between schools. I think the strongest rules are those with a clear purpose, such as preventing bullying, and students should understand the reason rather than follow them only because punishment is possible.",
+      "chinese": "中国学校通常有出勤、课堂行为、安全和学术诚信方面的规则，也有学校要求制服或规范手机使用。细节因学校而异。我认为最有力的规则都有明确目的，比如防止欺凌；学生应理解理由，而非仅因为可能受罚才遵守。",
+      "keywords": [
+        "attendance",
+        "academic honesty",
+        "a clear purpose"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-304",
+      "part": 3,
+      "title": "想要颁布的环保法律",
+      "region": "大陆",
+      "text": "Will there be a law that is universally accepted?",
+      "english": "A broad principle, such as protecting people from serious harm, might receive very wide support. However, agreeing on the exact wording and enforcement is much harder. Countries differ in legal traditions, resources and priorities. I think common ground is possible, but a law accepted without disagreement by absolutely everyone would be difficult to achieve in practice.",
+      "chinese": "保护人们免受严重伤害这样的广泛原则，可能得到很大支持，但具体措辞和执法更难达成一致。各国法律传统、资源和重点不同。我认为可以找到共同点，但实际中很难有一部所有人都毫无异议接受的法律。",
+      "keywords": [
+        "a broad principle",
+        "enforcement",
+        "common ground"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-305",
+      "part": 3,
+      "title": "想要颁布的环保法律",
+      "region": "大陆",
+      "text": "What environmental laws does your country already have?",
+      "english": "China has environmental laws covering issues such as air pollution, water pollution and the protection of natural resources. Waste management also involves legal responsibilities and local rules. I would not claim to know every detailed provision. What matters to ordinary people is understanding the requirements relevant to their lives and seeing that businesses and individuals follow them fairly.",
+      "chinese": "中国的环境法律涉及空气污染、水污染、自然资源保护等问题。废物管理也包括法律责任和地方规则。我不会说自己知道每项具体条文。对普通人而言，重要的是理解与生活有关的要求，并看到企业和个人公平遵守。",
+      "keywords": [
+        "air and water pollution",
+        "legal responsibilities",
+        "relevant requirements"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-306",
+      "part": 3,
+      "title": "当地新闻",
+      "region": "大陆",
+      "text": "Do people read the newspaper where you live?",
+      "english": "I would expect some people still to read printed newspapers, while others prefer news on their phones. Print can offer a regular reading routine, but digital news is easier to access and update. Age and personal habits probably influence the choice. I would not describe everyone in my area the same way, because news habits vary considerably.",
+      "chinese": "我想仍有人读纸报，也有人偏好手机新闻。纸报能提供规律阅读习惯，数字新闻则更易获取和更新。年龄和个人习惯可能影响选择。我不会把居住地区所有人都说成一样，因为新闻习惯差异很大。",
+      "keywords": [
+        "printed newspapers",
+        "digital news",
+        "personal habits"
+      ],
+      "pending": [
+        "居住地区实际读报情况未提供；此稿使用预期表达，未声称调查结果。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-307",
+      "part": 3,
+      "title": "当地新闻",
+      "region": "大陆",
+      "text": "Do people prefer local or international news?",
+      "english": "Local news is useful when it concerns transport, services or decisions affecting daily life. International news helps people understand events with wider consequences. I think many readers need a mixture rather than one category only. Their priorities may change with the situation: a local weather warning can be urgent even for someone who usually follows global affairs.",
+      "chinese": "地方新闻涉及交通、服务或日常决策时很有用；国际新闻帮助理解影响更广的事件。我认为许多人需要两者结合，而非只选一类。重点随情境变化：即使平时关注全球事务，地方天气预警也可能更紧急。",
+      "keywords": [
+        "daily life",
+        "wider consequences",
+        "a mixture"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-308",
+      "part": 3,
+      "title": "当地新闻",
+      "region": "大陆",
+      "text": "Do you think it's important to have a national identity?",
+      "english": "A national identity can give people a sense of belonging and a connection with shared history or culture. It may also encourage responsibility towards the community. However, it should not require looking down on other countries. I think a healthy identity allows pride and criticism together, while respecting people whose backgrounds or opinions are different.",
+      "chinese": "民族或国家认同能带来归属感，让人连接共同历史和文化，也可能促进社区责任。但不应要求轻视别国。我认为健康认同应允许自豪与批评并存，同时尊重背景或观点不同的人。",
+      "keywords": [
+        "a sense of belonging",
+        "shared history",
+        "respect differences"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-309",
+      "part": 3,
+      "title": "当地新闻",
+      "region": "大陆",
+      "text": "How can people develop their national identity?",
+      "english": "People can learn about their country's history, languages, arts and everyday traditions. Taking part in community activities can also make identity feel connected with real people rather than only symbols. Education should show both achievements and difficult experiences honestly. I think an informed understanding creates a stronger identity than repeating slogans without knowing what they mean.",
+      "chinese": "人们可以了解本国历史、语言、艺术和日常传统，参加社区活动也能让认同连接真实的人，而非只有符号。教育应诚实呈现成就与艰难经历。我认为有知识基础的理解，比不懂意思地重复口号更能建立稳固认同。",
+      "keywords": [
+        "everyday traditions",
+        "community activities",
+        "an informed understanding"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-310",
+      "part": 3,
+      "title": "近期改变",
+      "region": "大陆",
+      "text": "Do you think it is good to change one’s daily routine?",
+      "english": "Changing a routine can be useful if the current one no longer fits someone's needs. It may create time for exercise, study or proper rest. However, frequent changes without a reason can make healthy habits harder to maintain. I would try a small adjustment, observe whether it helps and keep the parts that already work well.",
+      "chinese": "现有作息不再适合需求时，改变可能有用，能为运动、学习或充分休息腾时间。但无理由地频繁改变，会让好习惯难维持。我会小幅调整，观察效果，并保留已有效的部分。",
+      "keywords": [
+        "a small adjustment",
+        "proper rest",
+        "what works well"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-311",
+      "part": 3,
+      "title": "近期改变",
+      "region": "大陆",
+      "text": "Do you think it is good to change jobs?",
+      "english": "Changing jobs can be a good decision when it offers better learning, fairer conditions or work that fits someone's goals. It can also involve uncertainty and the cost of starting again. I would compare the reasons carefully rather than move only because of a temporary frustration. Staying or leaving should depend on the long-term situation, not one difficult day.",
+      "chinese": "换工作能带来更好的学习机会、更公平的条件，或更符合目标的工作时，可以是好决定，但也有不确定性和重新开始的成本。我会认真比较原因，不只因短暂挫败离开。去留应看长期情况，而非某个困难日子。",
+      "keywords": [
+        "fairer conditions",
+        "starting again",
+        "the long-term situation"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-312",
+      "part": 3,
+      "title": "近期改变",
+      "region": "大陆",
+      "text": "Is it good for people to get a job promotion?",
+      "english": "A promotion can recognise good work and give someone more influence, responsibility or income. Those benefits can be valuable, but the new role may also bring stress or less time for technical work. I think a promotion is positive when the person understands the role and genuinely wants it, rather than accepts it only because a higher title looks impressive.",
+      "chinese": "晋升能认可工作，带来更多影响力、责任或收入，这些很有价值，但也可能增加压力、减少技术工作时间。我认为在理解岗位、真正想承担时，晋升才积极，而非只因更高头衔好看就接受。",
+      "keywords": [
+        "recognise good work",
+        "a new role",
+        "genuinely wants it"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-313",
+      "part": 3,
+      "title": "近期改变",
+      "region": "大陆",
+      "text": "Do people often make plans around their regular routines?",
+      "english": "Yes, regular routines often provide the starting point for a plan. People arrange errands, meetings or study around fixed commitments such as work and meals. That makes time easier to estimate. However, a routine should not prevent useful changes. If the same schedule repeatedly leaves something important unfinished, it may be better to adjust the routine itself.",
+      "chinese": "会，固定作息常是计划的起点。人们围绕工作、吃饭等固定安排组织办事、会面或学习，让时间更易估算。但作息不应阻止有用改变。如果同样日程反复让重要事项未完成，可能应调整作息本身。",
+      "keywords": [
+        "fixed commitments",
+        "estimate time",
+        "adjust the routine"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-314",
+      "part": 3,
+      "title": "近期改变",
+      "region": "大陆",
+      "text": "Who tend to change their daily routine more, young people or old people?",
+      "english": "Young people may experience more changes because education, work and living arrangements are still developing. Older people may have more established habits, but health, retirement or family needs can also change their routines. I would not make age the only explanation. The amount of control someone has over their time can matter just as much.",
+      "chinese": "年轻人可能变化更多，因为学业、工作和居住安排仍在发展。年长者习惯可能更稳定，但健康、退休或家庭需要也会改变作息。我不会只用年龄解释，个人对时间有多少控制权，同样重要。",
+      "keywords": [
+        "established habits",
+        "life stages",
+        "control over time"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

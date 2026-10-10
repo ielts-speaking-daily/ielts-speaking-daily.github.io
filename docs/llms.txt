@@ -1,0 +1,29 @@
+# IELTS 每日口语静态资料
+
+> Public bilingual IELTS speaking question bank and user-authorized public text records. Read-only over HTTP; writes require authorized GitHub commits. No backend MCP, no automatic dot connection, no hosted audio assessment.
+
+## Start here
+
+- [Static dot index](/dot/index.html): No JavaScript required. Links to all 30 days, all 650 questions and confirmed profile.
+- [Dot practice and JSON write-back instructions](/dot-instructions.md): Two modes, provenance, record schema and append-only merge rules.
+- [Machine-readable index](/dot/index.json): Day HTML/JSON and Part links.
+
+## Current source data
+
+- [Questions and plan](/data/corpus.json): 577 mainland + 73 overseas questions, full cue cards, English reference answers, Chinese translations, pending details and sourceIssue flags.
+- [Confirmed profile](/data/profile.json): Confirmed facts and boundaries. Candidate stories are not facts.
+- [Published records](/data/records.json): Fetch fresh at each session. Browser-local records are invisible here until exported, merged, committed and deployed.
+
+## Full static question pages
+
+- [Part 1](/dot/part-1.html)
+- [Part 2](/dot/part-2.html)
+- [Part 3](/dot/part-3.html)
+- [Overseas supplement](/dot/overseas.html): Separate from mainland completion.
+- [Day 01](/dot/day-01.html): The index links all 30 days and their corresponding JSON files.
+
+## Evidence and write boundaries
+
+Reference answers are not user utterances. Keep transcript, assistant feedback and revised answers separate. If verbatim speech is unavailable, transcript is empty and feedback is explicitly a coaching summary. Audio stays local and is not automatically exported from dot calls. Do not infer pronunciation from text/ASR; do not award independent LR/GRA for reading a supplied script; single answers do not yield a whole-test IELTS Band. Preserve source issue QB-20261008-01-P3-055 and every pending candidate detail.
+
+Read all existing records before any authorized GitHub write. Append unique IDs; identical IDs with different content are conflicts, never silent overwrite. Revisions point to old entry IDs via revisionOf. Only actual spoken practice advances spoken status; viewed is not spoken. Review selection is not completion. A returned JSON file is pending publication, not a completed website update. No static cloud push: daily 20:00 Asia/Shanghai reminders require user import of the provided ICS into a calendar.

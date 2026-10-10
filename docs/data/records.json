@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "repository": "ielts-speaking-daily/ielts-speaking-daily.github.io",
+  "updatedAt": "2026-10-10T01:28:11.084Z",
+  "events": [
+    {
+      "id": "1310f32c-c748-42ee-98c2-0a5174d70d9c",
+      "questionId": "QB-20261008-01-P1-001",
+      "type": "viewed",
+      "occurredAt": "2026-10-09T14:18:52.099Z",
+      "day": 1,
+      "answerVersion": "v01-full"
+    },
+    {
+      "id": "6a2a3b09-a34a-40dd-87db-855e19da5e0a",
+      "questionId": "QB-20261008-01-P1-002",
+      "type": "viewed",
+      "occurredAt": "2026-10-09T14:29:08.060Z",
+      "day": 1,
+      "answerVersion": "v01-full"
+    },
+    {
+      "id": "a11d53c1-dc15-474e-8780-66cd0e8c14c5",
+      "questionId": "QB-20261008-01-P1-009",
+      "type": "viewed",
+      "occurredAt": "2026-10-10T01:27:21.117Z",
+      "day": 2,
+      "answerVersion": "v01-full"
+    },
+    {
+      "id": "b158c4aa-b993-4e53-b460-388fc22a1c17",
+      "questionId": "QB-20261008-01-P1-010",
+      "type": "viewed",
+      "occurredAt": "2026-10-10T01:27:45.624Z",
+      "day": 2,
+      "answerVersion": "v01-full"
+    },
+    {
+      "id": "62db0440-1e48-4a82-9f94-7f94bd2cc439",
+      "questionId": "QB-20261008-01-P1-011",
+      "type": "viewed",
+      "occurredAt": "2026-10-10T01:28:11.084Z",
+      "day": 2,
+      "answerVersion": "v01-full"
+    }
+  ],
+  "entries": [],
+  "reviewSessions": []
+}

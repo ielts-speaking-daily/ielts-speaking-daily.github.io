@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 4,
+  "date": "2026-10-12",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-025",
+    "QB-20261008-01-P1-026",
+    "QB-20261008-01-P1-027",
+    "QB-20261008-01-P1-028",
+    "QB-20261008-01-P1-029",
+    "QB-20261008-01-P1-030",
+    "QB-20261008-01-P1-031",
+    "QB-20261008-01-P1-032",
+    "QB-20261008-01-P2-007",
+    "QB-20261008-01-P2-008",
+    "QB-20261008-01-P3-037",
+    "QB-20261008-01-P3-038",
+    "QB-20261008-01-P3-039",
+    "QB-20261008-01-P3-040",
+    "QB-20261008-01-P3-041",
+    "QB-20261008-01-P3-042",
+    "QB-20261008-01-P3-043",
+    "QB-20261008-01-P3-044",
+    "QB-20261008-01-P3-045",
+    "QB-20261008-01-P3-046",
+    "QB-20261008-01-P3-047",
+    "QB-20261008-01-P3-048"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-025",
+      "part": 1,
+      "title": "Fruit and vegetables",
+      "region": "大陆",
+      "text": "How often do you eat fruit and vegetables?",
+      "english": "I'd try to include vegetables in my meals every day and have fruit when I feel like a snack. The exact amount would depend on what's available.",
+      "chinese": "我会尽量每天吃饭时都吃蔬菜，想吃零食时吃些水果。具体吃多少取决于能买到什么。",
+      "keywords": [
+        "include vegetables",
+        "feel like a snack"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-026",
+      "part": 1,
+      "title": "Advertisement",
+      "region": "大陆",
+      "text": "Do you often see advertisements when you are on your phone or computer?",
+      "english": "Yes, especially when I'm browsing online rather than programming. Ads can appear between posts or before videos, and the repeated ones are the easiest to notice.",
+      "chinese": "会，尤其是我在网上浏览，而不是编程的时候。广告可能出现在帖子之间或视频之前，重复出现的最容易注意到。",
+      "keywords": [
+        "browsing online",
+        "repeated ads"
+      ],
+      "pending": [
+        "爱用电脑和编程已确认；浏览内容及广告出现习惯未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-027",
+      "part": 1,
+      "title": "Advertisement",
+      "region": "大陆",
+      "text": "What kind of advertising do you like?",
+      "english": "I prefer advertisements that explain a product clearly and honestly. A short demonstration is more useful to me than dramatic promises, especially for technology products.",
+      "chinese": "我喜欢清楚、诚实地介绍产品的广告。比起夸张的承诺，简短演示对我更有用，尤其是技术产品。",
+      "keywords": [
+        "a short demonstration",
+        "dramatic promises"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-028",
+      "part": 1,
+      "title": "Advertisement",
+      "region": "大陆",
+      "text": "Do you like advertisements?",
+      "english": "Some are useful, but I dislike ones that interrupt what I'm watching. I prefer being able to skip an advertisement rather than having the same message forced on me repeatedly.",
+      "chinese": "有些广告有用，但我不喜欢打断观看的广告。我更希望能够跳过广告，而不是被迫反复看同一条信息。",
+      "keywords": [
+        "interrupt",
+        "skip an advertisement"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-029",
+      "part": 1,
+      "title": "Advertisement",
+      "region": "大陆",
+      "text": "Do you see a lot of advertising on trains or other transport?",
+      "english": "I tend to notice posters at stations more than advertisements inside vehicles. They're often placed where people are waiting, so there's plenty of time to look at them.",
+      "chinese": "相比车内广告，我更容易注意到车站的海报。它们通常放在人们等候的地方，所以有足够的时间看。",
+      "keywords": [
+        "posters at stations",
+        "time to look"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-030",
+      "part": 1,
+      "title": "Advertisement",
+      "region": "大陆",
+      "text": "Is there an advertisement that made an impression on you when you were a child?",
+      "english": "I remember a colourful cartoon advertisement for a snack. I can't recall the exact wording, but the cheerful characters made it stand out to me as a child.",
+      "chinese": "我记得一则色彩鲜艳的零食卡通广告。我不记得具体措辞，但那些欢快的角色让我小时候觉得它很显眼。",
+      "keywords": [
+        "cartoon advertisement",
+        "stand out"
+      ],
+      "pending": [
+        "假设童年看过某零食卡通广告，非用户已确认记忆。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-031",
+      "part": 1,
+      "title": "Advertisement",
+      "region": "大陆",
+      "text": "Have you ever bought something because of an advertisement?",
+      "english": "Yes, I once tried a snack after seeing it advertised online. It wasn't a major purchase, but the advertisement made me curious enough to give it a try.",
+      "chinese": "买过，我曾看过网上广告后尝试一种零食。这不算大额购买，但广告让我产生了好奇，愿意试一试。",
+      "keywords": [
+        "a major purchase",
+        "give it a try"
+      ],
+      "pending": [
+        "假设广告促成购买零食，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-032",
+      "part": 1,
+      "title": "Paper",
+      "region": "大陆",
+      "text": "Do you carry paper and pens with you when you go out?",
+      "english": "I'd carry a pen when I expect to need one, but I wouldn't always take paper. My phone is convenient for short notes, especially when I'm travelling light.",
+      "chinese": "预计会用到时，我会带一支笔，但不会总带纸。手机记简短笔记很方便，尤其是轻装出行时。",
+      "keywords": [
+        "short notes",
+        "travelling light"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-007",
+      "part": 2,
+      "title": "喜欢的城市自然之地",
+      "region": "大陆",
+      "text": "Describe a natural place in your city that you enjoy visiting\nYou should say:\nWhere it is\nWhat it is like\nHow often you go there\nWho you often go there with\nAnd explain why you enjoy visiting there",
+      "english": "A natural place I'd like to describe is a small public park near the apartment where I live in Guangdong. It has trees, a walking path and a few benches, so it's somewhere I can go without making a big plan.\n\nI usually visit it once or twice a week, often on my own and sometimes with my mother. We live together, so a short walk is an easy way to spend time together. I don't go there for a serious workout; the main purpose is to take a break.\n\nWhat I enjoy is the change of atmosphere. I spend a lot of time around computers and enjoy programming, so being somewhere with trees and fewer screens would help me slow down. I could walk at my own pace and let my thoughts settle.\n\nThe park wouldn't need to be famous or especially large. For me, an accessible green space is valuable because I could use it regularly. I'd like it because it offers a simple, comfortable break from indoor study.",
+      "chinese": "我想描述的自然场所，是广东住所附近的一座小公园。公园有树木、步道和几张长椅，因此不用特别计划就能去。\n\n我通常每周去一两次，经常独自去，有时与母亲一起去。我们同住，所以短途散步是一起相处的方便方式。我不会把去公园当成正式锻炼，主要目的是休息。\n\n我喜欢的是环境的变化。我经常接触电脑，也喜欢编程，因此去一个有树木、较少屏幕的地方，可以让自己慢下来。我能按自己的节奏行走，让思绪平静。\n\n这座公园不必出名，也不必特别大。对我而言，方便到达的绿地很有价值，因为可以经常使用。我会喜欢它，因为它能提供一种简单、舒适的方式，暂时从室内学习中休息。",
+      "keywords": [
+        "nearby park",
+        "trees and path",
+        "alone or mother",
+        "screen break",
+        "easy access"
+      ],
+      "pending": [
+        "公园是否存在、访问频率、同行者和感受均为候选；广东公寓与同住母亲已确认"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-008",
+      "part": 2,
+      "title": "攒钱买特别物品",
+      "region": "大陆",
+      "text": "Describe a time when you saved money to buy something special\nYou should say:\nWhat the special thing was\nWhy you wanted to buy it\nHow you saved money for it\nAnd explain how you felt after buying it",
+      "english": "Something special I saved money for was a better computer. Last year, I wanted to buy one while studying AI because I enjoyed programming and wanted my coding work to run more smoothly.\n\nI didn't buy the first model I saw. I compared a few options and tried to work out which features I actually needed. A computer can be expensive, so I wanted to spend the money on something useful rather than simply choosing the newest one.\n\nTo save for it, I put aside a little money regularly and reduced a few optional purchases. I also kept a simple record of how much I'd saved. That made the goal feel more manageable than thinking about the total price all the time.\n\nAfter buying it, I felt pleased because it was connected with both my studies and my interests. I would use it for programming, reading and other everyday activities. The satisfaction wasn't just about owning a new device. It came from planning the purchase carefully and finally getting something that would serve a clear purpose.",
+      "chinese": "我曾为之攒钱的一件特别物品，是一台更好的电脑。去年，我在学习人工智能时想买电脑，因为喜欢编程，也想让编程工作更顺畅。\n\n我没有买第一眼看到的型号，而是比较几个选择，弄清楚真正需要哪些功能。电脑可能很贵，因此我希望把钱花在有用的东西上，而不只是选择最新款。\n\n为了攒钱，我定期留出一点钱，减少一些可有可无的购买，也简单记录已经存了多少。相比一直想着总价，这样会让目标更容易实现。\n\n买到后，我很高兴，因为它与专业和爱好都有联系。我会用它编程、阅读和完成日常活动。满足感不只是来自拥有新设备，也来自认真规划购买，最终得到一个有明确用途的东西。",
+      "keywords": [
+        "better computer",
+        "compare options",
+        "regular savings",
+        "clear purpose",
+        "satisfaction"
+      ],
+      "pending": [
+        "去年攒钱购买电脑、具体存钱方式和感受均为候选；可与P2-012同一次购机统一，未指定价格/型号"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-037",
+      "part": 3,
+      "title": "喜欢的城市自然之地",
+      "region": "大陆",
+      "text": "Which is more important, protecting the environment or developing the economy?",
+      "english": "I don't think a country can safely ignore either one. Economic development provides jobs and funds for public services, while environmental protection supports health and long-term living conditions. The better question is how to develop without causing unnecessary damage. Cleaner transport and energy-saving production are examples of investment that can serve both goals at the same time.",
+      "chinese": "我认为国家不能安全地忽视任何一方。经济发展提供就业和公共服务资金，环境保护支持健康与长期生活条件。更好的问题是如何发展而不造成不必要破坏。更清洁的交通和节能生产，是能同时服务两个目标的投资例子。",
+      "keywords": [
+        "jobs",
+        "health",
+        "long term",
+        "cleaner investment"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-038",
+      "part": 3,
+      "title": "喜欢的城市自然之地",
+      "region": "大陆",
+      "text": "Do you think staying in a natural place would help change people’s mood?",
+      "english": "Yes, a natural setting can give people a break from screens, traffic, and constant demands. Walking among trees may help someone slow down and pay attention to simple things. It won't solve every personal problem, of course. But having a quiet place to breathe and move can make a stressful day feel more manageable.",
+      "chinese": "是的，自然环境能让人暂离屏幕、交通和持续的要求。在树木间走路可能帮助放慢节奏、关注简单事物。当然，这不会解决所有个人问题。但有个安静地方呼吸和活动，能让紧张的一天更容易应对。",
+      "keywords": [
+        "screen break",
+        "trees",
+        "slow down",
+        "stress"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-039",
+      "part": 3,
+      "title": "喜欢的城市自然之地",
+      "region": "大陆",
+      "text": "Do you think there should be many natural places in cities?",
+      "english": "Cities should have enough accessible parks and green areas for ordinary residents, not just a few famous attractions. These places provide room for walking, exercise, and family activities. They can also make crowded neighbourhoods feel more pleasant. The quality and location matter as well: a well-maintained small park nearby may be more useful than a distant large one.",
+      "chinese": "城市应给普通居民足够方便到达的公园和绿地，而不只是几个著名景点。这些地方提供散步、锻炼和家庭活动空间，也让拥挤社区更宜人。质量和位置同样重要：附近维护好的小公园，可能比远处的大公园更实用。",
+      "keywords": [
+        "accessible parks",
+        "exercise",
+        "neighbourhood",
+        "maintenance"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-040",
+      "part": 3,
+      "title": "喜欢的城市自然之地",
+      "region": "大陆",
+      "text": "What can governments do to encourage people to spend more time in nature?",
+      "english": "Governments can make parks easy to reach by public transport and keep entrance costs low. Safe paths, clear signs, and clean facilities also encourage people to visit. Schools could organize outdoor learning activities with local support. However, promoting nature should include protecting it, so popular areas need sensible visitor management rather than simply attracting the largest possible crowds.",
+      "chinese": "政府可以让公园方便公共交通到达，并降低入场费用。安全步道、清晰标识和干净设施也鼓励参观。学校可在当地支持下组织户外学习。但推广自然也应包含保护，因此热门地区需要合理管理访客，而非只吸引尽可能多的人。",
+      "keywords": [
+        "transport",
+        "low cost",
+        "safe paths",
+        "protection"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-041",
+      "part": 3,
+      "title": "喜欢的城市自然之地",
+      "region": "大陆",
+      "text": "Do you think people should spend more time in nature?",
+      "english": "Spending some regular time in nature is a good idea, particularly for people who study or work indoors. It offers a chance to move, rest their eyes, and step away from daily pressure. It doesn't have to mean a long trip. A short walk in a nearby park can be a realistic way to fit it into everyday life.",
+      "chinese": "定期在自然中待一会儿是好主意，尤其适合室内学习或工作的人。它给人活动、让眼睛休息和暂离日常压力的机会，不必意味着长途旅行。在附近公园短暂散步，是融入日常生活的实际方式。",
+      "keywords": [
+        "indoors",
+        "movement",
+        "rest",
+        "nearby park"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-042",
+      "part": 3,
+      "title": "喜欢的城市自然之地",
+      "region": "大陆",
+      "text": "What kind of people do you think enjoy being in nature?",
+      "english": "People who enjoy walking, photography, or outdoor sports are obvious examples. Families may also enjoy nature because children have room to explore. Someone with a demanding office job might value it mainly for peace and quiet. So I wouldn't connect this preference to one personality type. Different people can enjoy natural places for very different reasons.",
+      "chinese": "喜欢散步、摄影或户外运动的人是明显例子。家庭也可能喜欢自然，因为孩子有探索空间。工作繁忙的办公室职员可能主要重视宁静。因此，我不会把这种偏好归于单一性格类型。不同的人能出于很不同的理由享受自然场所。",
+      "keywords": [
+        "outdoors",
+        "families",
+        "quiet",
+        "different reasons"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-043",
+      "part": 3,
+      "title": "攒钱买特别物品",
+      "region": "大陆",
+      "text": "Should people spend time on charity, or just money?",
+      "english": "Both can be valuable, and the better choice depends on what a charity actually needs. Money can pay for equipment and professional services, while volunteers can offer practical help or companionship. Someone with limited time may contribute financially. Another person may have useful skills to share. The important thing is that the support is effective and responsibly organized.",
+      "chinese": "两者都有价值，更合适的选择取决于慈善机构实际需要。资金能购买设备和专业服务，志愿者能提供实际帮助或陪伴。时间有限的人可以捐钱，另一些人有技能可分享。关键是支持有效、组织负责。",
+      "keywords": [
+        "money",
+        "volunteers",
+        "skills",
+        "effective support"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-044",
+      "part": 3,
+      "title": "攒钱买特别物品",
+      "region": "大陆",
+      "text": "What kind of things do people usually save money for?",
+      "english": "People often save for expensive purchases such as a home, a car, or a computer. Education and travel can also be important goals. Some savings aren't for buying anything specific; they are kept for emergencies or future security. Having a clear purpose can make saving easier, because people can see why postponing a smaller purchase is worthwhile.",
+      "chinese": "人们常为房子、汽车或电脑等昂贵物品储蓄，教育和旅行也可能是重要目标。有些储蓄不是为购买具体东西，而是留给紧急情况或未来保障。明确目的能让储蓄更容易，因为人们能理解推迟小额购买为何值得。",
+      "keywords": [
+        "major purchase",
+        "education",
+        "emergencies",
+        "clear goal"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-045",
+      "part": 3,
+      "title": "攒钱买特别物品",
+      "region": "大陆",
+      "text": "Is it easier to spend money or save money?",
+      "english": "Spending is usually easier because buying something gives an immediate reward. Saving asks people to delay that reward and resist tempting offers. Online shopping can make spending almost effortless. Still, saving becomes more manageable with a realistic budget and an automatic transfer. That way, people don't have to make the same difficult choice every time they receive money.",
+      "chinese": "花钱通常更容易，因为购买带来即时奖励。储蓄要求推迟奖励、抵抗诱人优惠。网购几乎让花钱毫不费力。不过，现实预算和自动转账能让储蓄更好管理。这样，每次收到钱时不必反复做同样困难的选择。",
+      "keywords": [
+        "immediate reward",
+        "temptation",
+        "budget",
+        "automatic transfer"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-046",
+      "part": 3,
+      "title": "攒钱买特别物品",
+      "region": "大陆",
+      "text": "Do you think it is easier to teach teenagers how to manage money when they are around 16 or 17 years old?",
+      "english": "That can be a useful age because teenagers are beginning to make more independent purchases and understand future goals. They can practise with a small budget rather than only hearing abstract advice. However, basic money habits can start earlier. I would treat sixteen or seventeen as a chance to deepen the lessons, not the first possible time to learn.",
+      "chinese": "这个年龄可以很合适，因为青少年开始更独立地购买，也能理解未来目标。他们可以用小预算实践，而非只听抽象建议。但基本金钱习惯能更早开始。我会把十六七岁看作深化学习的机会，而非最早能学习的时点。",
+      "keywords": [
+        "independence",
+        "small budget",
+        "practice",
+        "earlier habits"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-047",
+      "part": 3,
+      "title": "攒钱买特别物品",
+      "region": "大陆",
+      "text": "Should parents teach their children to spend money freely or to save money?",
+      "english": "Parents should teach children to balance spending and saving rather than encourage either extreme. Children need to enjoy some of their money, but also understand needs, wants, and future goals. A simple allowance can provide practice. If they save for something they genuinely want, the lesson becomes more concrete than being told that every purchase is wrong.",
+      "chinese": "家长应教孩子平衡消费和储蓄，而非鼓励任何极端。孩子需要享受部分钱，也理解需要、想要和未来目标。简单的零花钱制度能提供练习。如果为真正想要的东西存钱，比告诉他们每次购买都不对更具体。",
+      "keywords": [
+        "balance",
+        "needs and wants",
+        "allowance",
+        "saving goal"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-048",
+      "part": 3,
+      "title": "攒钱买特别物品",
+      "region": "大陆",
+      "text": "Should schools teach children how to manage money from a young age?",
+      "english": "Yes, schools can teach useful basics such as making a budget and comparing prices. Younger children could practise through simple shopping games, while older students learn about borrowing and financial risks. These are practical life skills rather than specialist business knowledge. Lessons should remain age-appropriate and shouldn't make children feel anxious about their family's financial situation.",
+      "chinese": "是的，学校可以教制定预算、比较价格等有用基础。小孩子可通过购物游戏练习，年龄更大的学生可学习借贷和财务风险。这些是生活实用技能，而非专业商业知识。课程应适龄，也不应让孩子对家庭经济状况焦虑。",
+      "keywords": [
+        "budget",
+        "compare prices",
+        "borrowing",
+        "age appropriate"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

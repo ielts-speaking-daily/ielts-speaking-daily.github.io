@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 3,
+  "date": "2026-10-11",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-017",
+    "QB-20261008-01-P1-018",
+    "QB-20261008-01-P1-019",
+    "QB-20261008-01-P1-020",
+    "QB-20261008-01-P1-021",
+    "QB-20261008-01-P1-022",
+    "QB-20261008-01-P1-023",
+    "QB-20261008-01-P1-024",
+    "QB-20261008-01-P2-005",
+    "QB-20261008-01-P2-006",
+    "QB-20261008-01-P3-025",
+    "QB-20261008-01-P3-026",
+    "QB-20261008-01-P3-027",
+    "QB-20261008-01-P3-028",
+    "QB-20261008-01-P3-029",
+    "QB-20261008-01-P3-030",
+    "QB-20261008-01-P3-031",
+    "QB-20261008-01-P3-032",
+    "QB-20261008-01-P3-033",
+    "QB-20261008-01-P3-034",
+    "QB-20261008-01-P3-035",
+    "QB-20261008-01-P3-036"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-017",
+      "part": 1,
+      "title": "Politeness",
+      "region": "大陆",
+      "text": "What did you do to show your politeness as a child?",
+      "english": "I used to greet adults and say thank you when someone helped me. Those were simple habits, but they were an easy way to show respect.",
+      "chinese": "我以前会向长辈问好，也会在别人帮我时说谢谢。这些习惯很简单，却是表达尊重的容易方式。",
+      "keywords": [
+        "greet adults",
+        "show respect"
+      ],
+      "pending": [
+        "假设童年的问好与道谢习惯，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-018",
+      "part": 1,
+      "title": "Politeness",
+      "region": "大陆",
+      "text": "On what occasions should we be polite?",
+      "english": "We should be polite in most situations, especially when asking for help or disagreeing with someone. A respectful tone makes it easier to communicate without creating unnecessary tension.",
+      "chinese": "大多数场合都应该礼貌，尤其是求助或与别人意见不同时。尊重的语气能让交流更容易，也能避免不必要的紧张。",
+      "keywords": [
+        "a respectful tone",
+        "unnecessary tension"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-019",
+      "part": 1,
+      "title": "Politeness",
+      "region": "大陆",
+      "text": "Do you think being polite is very important?",
+      "english": "Yes, because politeness shows that you respect other people's time and feelings. It doesn't mean agreeing with everything; you can still express a different opinion calmly.",
+      "chinese": "很重要，因为礼貌表明你尊重别人的时间和感受。这并不意味着凡事都同意，你仍然可以平静地表达不同观点。",
+      "keywords": [
+        "express an opinion",
+        "respect feelings"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-020",
+      "part": 1,
+      "title": "Politeness",
+      "region": "大陆",
+      "text": "How did you learn to be polite as a child?",
+      "english": "I mainly learned from the adults around me. They reminded me to greet people and say please, and I gradually picked up those habits by watching them.",
+      "chinese": "我主要是向身边的大人学习的。他们提醒我要向人问好、说请字，我也通过观察他们逐渐学会了这些习惯。",
+      "keywords": [
+        "pick up habits",
+        "watching others"
+      ],
+      "pending": [
+        "假设童年成人示范和提醒，未确认具体人物及经历。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-021",
+      "part": 1,
+      "title": "Fruit and vegetables",
+      "region": "大陆",
+      "text": "Do people in your country like planting vegetables?",
+      "english": "Some do, particularly people who have access to a garden or a small plot of land. Others grow herbs on balconies, mainly because they enjoy the process.",
+      "chinese": "有些人喜欢，尤其是有花园或一小块土地的人。也有人在阳台种香草，主要是因为喜欢这个过程。",
+      "keywords": [
+        "a plot of land",
+        "grow herbs"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-022",
+      "part": 1,
+      "title": "Fruit and vegetables",
+      "region": "大陆",
+      "text": "Were there any kind of fruits and vegetables you disliked as a child?",
+      "english": "I wasn't keen on bitter vegetables when I was little. The taste was quite strong for me, although I became more willing to try different foods as I grew older.",
+      "chinese": "我小时候不太喜欢苦味蔬菜。那种味道对我来说很重，不过长大后，我更愿意尝试不同食物了。",
+      "keywords": [
+        "wasn't keen on",
+        "try different foods"
+      ],
+      "pending": [
+        "假设童年不喜欢苦味蔬菜及后来变化，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-023",
+      "part": 1,
+      "title": "Fruit and vegetables",
+      "region": "大陆",
+      "text": "What kind of fruits and vegetables do you dislike?",
+      "english": "I'm not especially fond of very bitter vegetables. I'd still eat a small amount if they were cooked well, but they wouldn't be my first choice.",
+      "chinese": "我不特别喜欢很苦的蔬菜。如果烹调得好，我仍会吃一点，但它们不会是我的首选。",
+      "keywords": [
+        "not fond of",
+        "my first choice"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-024",
+      "part": 1,
+      "title": "Fruit and vegetables",
+      "region": "大陆",
+      "text": "Where do you usually buy fruit and vegetables?",
+      "english": "I'd usually choose a nearby supermarket or food market. It's convenient to compare what looks fresh, and I wouldn't want to travel far just for everyday groceries.",
+      "chinese": "我通常会选附近的超市或菜市场。这样方便比较哪些东西新鲜，我也不想只为日常买菜跑很远。",
+      "keywords": [
+        "everyday groceries",
+        "looks fresh"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-005",
+      "part": 2,
+      "title": "有条理的人",
+      "region": "大陆",
+      "text": "Describe a person you know who is very organized\nYou should say:\nWho this person is\nWhat this person usually does to stay organized\nIn what situations you have noticed this quality\nAnd explain why you think being organized is important to him/her",
+      "english": "A very organized person I'd like to talk about is my supervisor. They are a good person, and what stands out to me is how they manage research work, rather than just how tidy their desk looks.\n\nThey keep a short list of priorities and arrange regular discussions with students. Before a meeting, they ask us to write down the main problem, what we've tried and what kind of help we need. That stops the conversation from becoming too vague.\n\nI noticed this quality while preparing a robotics project. There were several things to check, and it was easy to jump between them without making progress. My supervisor helped us put the tasks in a sensible order and keep track of the results.\n\nBeing organized matters to them because research involves uncertainty. A good plan can't guarantee success, but it can prevent unnecessary confusion. I admire this approach because I'm quite rational myself, and I prefer to understand what I'm doing and why. It's a habit I'd like to develop further.",
+      "chinese": "我想讲的一位很有条理的人是我的导师。导师人很好。让我印象深刻的是导师安排研究工作的方式，而不只是桌面是否整洁。\n\n导师会保留一份简短的优先事项清单，并定期与学生讨论。开会前，导师会让我们写下主要问题、尝试过什么，以及需要什么帮助。这样，讨论就不会太笼统。\n\n我在准备机器人项目时注意到了这种特质。当时有几件事需要检查，很容易在它们之间来回切换，却没有进展。导师帮助我们把任务按合理顺序排列，并记录结果。\n\n有条理对导师很重要，因为研究包含不确定性。好的计划不能保证成功，但能避免不必要的混乱。我欣赏这种方式，因为我自己也比较理性，喜欢理解正在做什么以及为什么做。这也是我想进一步培养的习惯。",
+      "keywords": [
+        "supervisor",
+        "priorities",
+        "regular meetings",
+        "task order",
+        "research uncertainty"
+      ],
+      "pending": [
+        "导师安排会议、要求准备清单和指导项目等细节是候选"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-006",
+      "part": 2,
+      "title": "嘈杂地",
+      "region": "大陆",
+      "text": "Describe a noisy place you have been to\nYou should say:\nWhere it is\nWhen you went there\nWhat you did there\nAnd explain why you feel it’s a noisy place",
+      "english": "A noisy place I can describe is a railway station during my European trip in June. I travelled to Europe on my own to attend an academic conference, and I also visited Vienna and Budapest.\n\nI was waiting for a train and trying to keep track of the departure information. There were announcements over the speakers, people talking and the sound of luggage being pulled across the floor. Trains arriving and leaving added another layer of noise.\n\nThe place felt noisy because several different sounds were happening at the same time. It was harder to concentrate than it would have been in a quiet room. I would occasionally look at the display again to make sure I hadn't missed anything important.\n\nI don't think the noise was completely avoidable, because a station is a busy public place. Still, clear announcements and a quieter waiting area would make it more comfortable. As someone who is usually fairly quiet, I'd prefer to have a place where I could sit and think without so many distractions.",
+      "chinese": "我可以描述一个嘈杂的地方，是六月欧洲旅行中的火车站。我独自赴欧洲参加学术会议，也参观了维也纳和布达佩斯。\n\n我当时等火车，并试图留意发车信息。有广播、交谈声，以及行李箱在地面拖动的声音。列车到站和离站又增加了一层噪声。\n\n这里显得嘈杂，是因为几种不同声音同时发生。相比安静的房间，我更难集中注意力。我会时不时再看显示屏，确认没有漏掉重要信息。\n\n我认为这些声音不可能完全避免，因为车站是繁忙的公共场所。不过，清晰的广播和更安静的候车区会让体验更舒适。我通常比较安静，因此更希望有一个能坐下来思考、少受干扰的地方。",
+      "keywords": [
+        "European trip",
+        "railway station",
+        "announcements",
+        "several sounds",
+        "quiet waiting area"
+      ],
+      "pending": [
+        "等火车事实已确认；具体车站、嘈杂程度及查看屏幕等活动是候选，不指定聊天城市"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-025",
+      "part": 3,
+      "title": "有条理的人",
+      "region": "大陆",
+      "text": "Do you think it is important for managers to be well organized?",
+      "english": "Yes, because a manager's decisions affect other people's work. If priorities and deadlines are unclear, the whole team may waste time or repeat tasks. An organized manager can assign responsibilities and notice problems early. Still, organization shouldn't mean controlling every detail. Team members need enough freedom to handle their own work and suggest better approaches.",
+      "chinese": "是的，因为经理的决定影响其他人的工作。优先事项和截止时间不明确时，团队可能浪费时间或重复任务。有条理的经理能分配责任、及早发现问题。但有条理不等于控制每个细节。团队成员需要足够自由来处理工作、提出更好方法。",
+      "keywords": [
+        "priorities",
+        "deadlines",
+        "responsibilities",
+        "freedom"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-026",
+      "part": 3,
+      "title": "有条理的人",
+      "region": "大陆",
+      "text": "Should parents teach their children to be organized?",
+      "english": "Parents can start with simple habits, such as putting toys away and preparing a schoolbag before bed. Showing children what to do usually works better than only giving instructions. The aim should be to make daily life easier, not to demand perfect tidiness. Children also need opportunities to make mistakes and gradually take responsibility themselves.",
+      "chinese": "家长可以从简单习惯开始，比如收好玩具、睡前准备书包。向孩子示范通常比只发指令更有效。目标应是让日常生活更方便，而不是要求完美整洁。孩子也需要犯错的机会，逐步自己承担责任。",
+      "keywords": [
+        "simple habits",
+        "show",
+        "responsibility",
+        "no perfection"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-027",
+      "part": 3,
+      "title": "有条理的人",
+      "region": "大陆",
+      "text": "What can people do to become more organized?",
+      "english": "A useful first step is to write down tasks instead of trying to remember everything. People can then choose their main priorities and set realistic deadlines. Keeping important files in clear folders also helps. I would start with a small system that is easy to maintain, because a complicated planning tool can become another source of work.",
+      "chinese": "有用的第一步是写下任务，而不是努力记住一切。然后选择主要优先事项、设定现实的截止时间。把重要文件放在清晰的文件夹里也有帮助。我会从容易维护的小系统开始，因为复杂的规划工具可能变成另一项工作。",
+      "keywords": [
+        "task list",
+        "priorities",
+        "folders",
+        "simple system"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-028",
+      "part": 3,
+      "title": "有条理的人",
+      "region": "大陆",
+      "text": "Are organized people more likely to be successful at work or in their studies?",
+      "english": "They often have an advantage because they can manage deadlines and avoid forgetting important tasks. That leaves more time for careful work or study. However, being organized doesn't replace knowledge, creativity, or effort. A neat timetable is useful only if someone actually follows it and adjusts it when necessary. Organization supports success rather than guaranteeing it.",
+      "chinese": "他们通常有优势，因为能管理截止时间、避免忘记重要任务。这留下更多时间认真工作或学习。但有条理不能代替知识、创造力或努力。整洁的时间表只有在真正执行并必要时调整的情况下才有用。组织能力支持成功，而非保证成功。",
+      "keywords": [
+        "deadlines",
+        "time",
+        "effort",
+        "follow through"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-029",
+      "part": 3,
+      "title": "有条理的人",
+      "region": "大陆",
+      "text": "Do you think children should learn to be organized from a young age?",
+      "english": "Yes, but the lessons should match their age. A young child can learn to return a book to its place or get dressed in a simple order. Those small routines make independence easier later. There is no need for strict schedules at that stage. Play and curiosity should still have plenty of space in a child's day.",
+      "chinese": "是的，但内容应符合年龄。小孩子可以学把书放回原处，或按简单顺序穿衣。这些小习惯有助于日后独立。在这个阶段不需要严格时间表。孩子的一天仍应给玩耍和好奇心留下充足空间。",
+      "keywords": [
+        "age appropriate",
+        "small routines",
+        "independence",
+        "play"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-030",
+      "part": 3,
+      "title": "有条理的人",
+      "region": "大陆",
+      "text": "Why is it important for people to be organized?",
+      "english": "Being organized reduces the effort spent searching for things or deciding what to do next. It also helps people keep promises, because they are less likely to miss a deadline or appointment. That can lower stress and build trust. For me, the value is having more attention available for meaningful work, rather than simply making everything look tidy.",
+      "chinese": "有条理能减少找东西或决定下一步所花的精力，也帮助守约，因为不容易错过截止时间或预约。这能减轻压力、建立信任。对我而言，价值在于有更多注意力投入有意义的工作，而不仅是让一切看起来整齐。",
+      "keywords": [
+        "save effort",
+        "promises",
+        "stress",
+        "attention"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-031",
+      "part": 3,
+      "title": "嘈杂地",
+      "region": "大陆",
+      "text": "How can people consider others' feelings when chatting in public?",
+      "english": "They can lower their voices and notice what kind of place they are in. A lively restaurant is different from a library or a quiet train carriage. It also helps to avoid discussing sensitive personal matters where strangers can hear. If a conversation is becoming loud or private, moving somewhere more suitable is a considerate choice.",
+      "chinese": "人们可以降低音量，并留意所处场所。热闹餐馆不同于图书馆或安静车厢，也应避免在陌生人能听见的地方谈敏感私事。如果交谈变得很响或很私密，移到更合适的地方是体贴的选择。",
+      "keywords": [
+        "lower voices",
+        "setting",
+        "privacy",
+        "move"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-032",
+      "part": 3,
+      "title": "嘈杂地",
+      "region": "大陆",
+      "text": "How would people usually respond to noises in your country?",
+      "english": "In China, I think reactions vary with the setting. People may accept noise in markets or busy restaurants, but feel annoyed by loud phone calls on public transport. Some ignore it, while others politely ask for quiet. Repeated noise near someone's home may lead to a complaint. So context and duration make a big difference.",
+      "chinese": "在中国，我认为反应随场景不同。人们可能接受市场或繁忙餐馆里的噪声，却对公共交通上大声打电话感到烦。有些人忽略，有些礼貌地请求安静。住所附近反复的噪声可能导致投诉。因此，场景与持续时间影响很大。",
+      "keywords": [
+        "context",
+        "public transport",
+        "ask politely",
+        "duration"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-033",
+      "part": 3,
+      "title": "嘈杂地",
+      "region": "大陆",
+      "text": "Which area is exposed to noise more, the city or the countryside?",
+      "english": "Cities generally have more continuous noise because traffic, construction, and businesses are close together. In the countryside, there are usually fewer sources operating at the same time. However, rural places aren't always silent. Farm machinery or a local celebration can be quite loud. The main difference is often the frequency and concentration of noise rather than its existence.",
+      "chinese": "城市通常有更多持续噪声，因为交通、施工和商家集中在一起。乡村同时运转的噪声源通常较少，但乡村并非总是安静。农业机械或当地庆祝活动也能很响。主要差别往往是噪声的频率和集中程度，而非有没有噪声。",
+      "keywords": [
+        "traffic",
+        "construction",
+        "machinery",
+        "frequency"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-034",
+      "part": 3,
+      "title": "嘈杂地",
+      "region": "大陆",
+      "text": "What kinds of noises are there in our life?",
+      "english": "There are transport noises, such as car engines and train announcements, and household sounds like appliances or renovation work. People also create noise through conversations and music. Some sounds are useful warnings, while others are simply distracting. I think whether a sound becomes a problem depends on its volume, timing, and whether people can avoid it.",
+      "chinese": "生活中有汽车发动机和火车广播等交通声，也有家电或装修等家居声音。谈话和音乐也产生噪声。有些声音是有用警示，另一些只会干扰。我认为声音是否成为问题，取决于音量、时间，以及人们能否避开。",
+      "keywords": [
+        "transport",
+        "household",
+        "music",
+        "timing"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-035",
+      "part": 3,
+      "title": "嘈杂地",
+      "region": "大陆",
+      "text": "Should children not be allowed to make noise under any circumstances?",
+      "english": "No, a complete ban would be unreasonable. Children make noise when they play, learn, or express excitement, and that is a normal part of growing up. They should learn to be quiet in places like libraries, though. Adults can explain the difference between settings and provide spaces where energetic play is welcome, instead of expecting silence everywhere.",
+      "chinese": "不，完全禁止不合理。孩子玩耍、学习或表达兴奋时会发出声音，这是成长的正常部分。但应学会在图书馆等地方保持安静。成年人可以解释不同场景，并提供欢迎活跃玩耍的空间，而非要求处处无声。",
+      "keywords": [
+        "normal play",
+        "libraries",
+        "explain",
+        "play spaces"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-036",
+      "part": 3,
+      "title": "嘈杂地",
+      "region": "大陆",
+      "text": "Do you think it is good for children to make noise?",
+      "english": "Making some noise can be positive when children are playing together or asking questions. It can show confidence and involvement rather than bad behaviour. But volume still matters, especially when other people need rest. I would encourage children to express themselves while teaching them to notice their surroundings and respect situations that call for quiet.",
+      "chinese": "孩子一起玩或提问时发出一些声音可以是积极的，体现自信与参与，而非行为不好。但音量仍然重要，尤其当其他人需要休息。我会鼓励孩子表达，同时教他们留意周围环境、尊重需要安静的场合。",
+      "keywords": [
+        "expression",
+        "confidence",
+        "volume",
+        "respect"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

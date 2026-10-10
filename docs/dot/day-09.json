@@ -1,0 +1,491 @@
+{
+  "schemaVersion": 1,
+  "day": 9,
+  "date": "2026-10-17",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-057",
+    "QB-20261008-01-P1-058",
+    "QB-20261008-01-P1-059",
+    "QB-20261008-01-P1-060",
+    "QB-20261008-01-P1-061",
+    "QB-20261008-01-P1-062",
+    "QB-20261008-01-P1-063",
+    "QB-20261008-01-P1-064",
+    "QB-20261008-01-P2-015",
+    "QB-20261008-01-P2-016",
+    "QB-20261008-01-P2-017",
+    "QB-20261008-01-P3-086",
+    "QB-20261008-01-P3-087",
+    "QB-20261008-01-P3-088",
+    "QB-20261008-01-P3-089",
+    "QB-20261008-01-P3-090",
+    "QB-20261008-01-P3-091",
+    "QB-20261008-01-P3-092",
+    "QB-20261008-01-P3-093",
+    "QB-20261008-01-P3-094",
+    "QB-20261008-01-P3-095",
+    "QB-20261008-01-P3-096",
+    "QB-20261008-01-P3-097"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 3,
+    "p3": 12
+  },
+  "minutes": 39.3,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-057",
+      "part": 1,
+      "title": "Teachers",
+      "region": "大陆",
+      "text": "In what way has your favourite teacher helped you?",
+      "english": "My supervisor has helped me think more clearly about research problems. For example, they encouraged me to break a difficult question into smaller parts instead of tackling everything at once.",
+      "chinese": "导师帮助我更清晰地思考研究问题。比如，他们鼓励我把困难的问题分成小部分，而不是一次处理所有内容。",
+      "keywords": [
+        "break into smaller parts",
+        "research problems"
+      ],
+      "pending": [
+        "导师身份真实；拆解问题的具体帮助为假设，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-058",
+      "part": 1,
+      "title": "Teachers",
+      "region": "大陆",
+      "text": "Do you like your primary school teachers more than your high school teachers?",
+      "english": "I wouldn't make a simple comparison. Primary-school teachers helped with basic habits, while high-school teachers dealt with more demanding subjects, so I appreciate different things about them.",
+      "chinese": "我不会简单比较。小学老师帮助建立基本习惯，高中老师负责更难的学科，所以我欣赏他们不同的地方。",
+      "keywords": [
+        "a simple comparison",
+        "appreciate different things"
+      ],
+      "pending": [
+        "对两阶段老师的个人评价未确认，未指定真实老师。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-059",
+      "part": 1,
+      "title": "Social media",
+      "region": "大陆",
+      "text": "Have you ever posted anything on social media?",
+      "english": "Yes, I once shared a few photos from a trip. I didn't write a long account; I just wanted to give people a quick idea of what I'd seen.",
+      "chinese": "发过，我曾分享过几张旅行照片。我没写很长的游记，只是想让大家简单了解我看到了什么。",
+      "keywords": [
+        "share photos",
+        "a quick idea"
+      ],
+      "pending": [
+        "假设发过旅行照片；实际旅行真实但社交发帖未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-060",
+      "part": 1,
+      "title": "Social media",
+      "region": "大陆",
+      "text": "When did you start using social media?",
+      "english": "I started when I was a teenager, mainly because it was an easy way to stay in touch with classmates. Later, I used it for a wider range of information.",
+      "chinese": "我十几岁时开始使用，主要因为它方便与同学保持联系。后来，我也用它了解更广泛的信息。",
+      "keywords": [
+        "stay in touch",
+        "a wider range"
+      ],
+      "pending": [
+        "假设青少年开始使用社交媒体及同学联系情境，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-061",
+      "part": 1,
+      "title": "Social media",
+      "region": "大陆",
+      "text": "Do you think you spend too much time on social media?",
+      "english": "It can happen if I keep scrolling without a clear purpose. I'd rather check a few useful updates and stop than spend a long time looking at similar posts.",
+      "chinese": "如果没有明确目的却一直刷，就可能花太多时间。我宁愿看看几条有用的更新就停下，也不愿长时间看相似帖子。",
+      "keywords": [
+        "keep scrolling",
+        "a clear purpose"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-062",
+      "part": 1,
+      "title": "Social media",
+      "region": "大陆",
+      "text": "Do your friends use social media?",
+      "english": "I'd say most of them use it for messages and updates, but not necessarily to post often. Some people prefer following others while sharing very little themselves.",
+      "chinese": "我会说大多数朋友用它发消息、看动态，但未必经常发帖。有些人更喜欢关注别人，自己却很少分享。",
+      "keywords": [
+        "messages and updates",
+        "sharing little"
+      ],
+      "pending": [
+        "朋友社交媒体使用情况未提供；整段为社交观察备选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-063",
+      "part": 1,
+      "title": "Social media",
+      "region": "大陆",
+      "text": "What do people often do on social media?",
+      "english": "People often keep in touch, share photos and follow news or interests. Some also use social media to find recommendations, although it's sensible to check important information elsewhere.",
+      "chinese": "人们常用它联系彼此、分享照片、关注新闻或兴趣。也有人找推荐，不过重要信息最好再到其他地方核查。",
+      "keywords": [
+        "find recommendations",
+        "check information"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-064",
+      "part": 1,
+      "title": "Tidiness",
+      "region": "大陆",
+      "text": "Do you like to keep things tidy?",
+      "english": "Yes, I prefer a reasonably tidy space rather than everything being perfectly arranged. Being able to find what I need quickly matters more to me than appearance.",
+      "chinese": "喜欢，我更喜欢比较整洁的空间，而不是所有东西都排列得完美。能快速找到需要的东西，比外观更重要。",
+      "keywords": [
+        "reasonably tidy",
+        "find what I need"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-015",
+      "part": 2,
+      "title": "浪费时间的活动",
+      "region": "大陆",
+      "text": "Describe an activity you do regularly that you think is a waste of time\nYou should say:\nWhat it is\nWhen you usually do it\nWhy you do it\nAnd explain why you think it is a waste of time",
+      "english": "An activity I'd describe as a waste of time is scrolling through short videos without choosing what I actually want to watch. It would usually happen when I felt tired after studying and wanted a quick break.\n\nI might open an app intending to watch for a few minutes. The problem is that each video is short, so it's easy to keep going without noticing how much time has passed. Afterwards, I may not remember much of what I watched.\n\nI would do it because it doesn't require much effort. Compared with reading a book or working on a program, it's a very easy way to fill a quiet moment. But that doesn't always mean it helps me rest properly.\n\nI think it wastes time when I lose control of the length of the break. I don't mean that all entertainment is pointless; I enjoy reading and anime when I choose them deliberately. The difference is whether I'm spending time on something I value or simply following the next suggestion. I'd like to set a limit and choose my breaks more consciously.",
+      "chinese": "我会把没有明确想看什么、一直刷短视频描述为浪费时间的活动。它通常发生在学习后疲倦、想短暂休息时。\n\n我可能原本只打算打开应用看几分钟。问题是每段视频都很短，因此很容易一直看，不察觉时间过了多久。看完后，可能记不住太多内容。\n\n我会这么做，是因为它不太费力。与读书或编程相比，刷视频是很容易打发空闲时间的一种方式，但这不代表能真正休息好。\n\n当我无法控制休息长度时，就觉得浪费了时间。我不是说所有娱乐都没有意义；主动选择读书和看动漫时，我会享受它们。区别在于，我是否把时间用于自己重视的东西，还是只追随下一个推荐。我希望设置限制，更有意识地选择休息方式。",
+      "keywords": [
+        "short videos",
+        "quick break",
+        "lose track of time",
+        "deliberate leisure",
+        "set a limit"
+      ],
+      "pending": [
+        "刷短视频的习惯、频率和失控体验为候选，不把动漫兴趣自动归为浪费时间"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-016",
+      "part": 2,
+      "title": "拥挤地方",
+      "region": "大陆",
+      "text": "Describe a crowded place you went to\nYou should say:\nWhere it was\nWhen you went there\nWho you went there with\nWhat you did there",
+      "english": "A crowded place I'd like to describe is a railway station in Vienna during my European trip in June. I was travelling on my own, so I went there alone and needed to find the right place to wait for my train.\n\nThe station was particularly busy because several trains were due to leave around the same time. People were checking the displays, moving with suitcases and waiting near the platforms. It took a little more attention than usual to get through the crowd.\n\nI checked the departure information, found somewhere to stand and made sure my luggage stayed close to me. I wasn't doing anything very unusual, but a simple task felt more demanding when so many people were moving around.\n\nThe experience was memorable because it was part of travelling abroad independently. I'm generally quiet, so I wouldn't choose a crowded place just for the excitement. Still, I understood that a station serves lots of people. Once I knew where I needed to go, I felt more comfortable. It showed me the value of allowing extra time rather than trying to arrive at the last minute.",
+      "chinese": "我想描述的一处拥挤地方，是六月欧洲旅行中的维也纳火车站。我独自旅行，因此也是一个人去车站，需要找到正确的候车位置。\n\n车站特别忙，因为几趟列车差不多同时发车。人们查看显示屏、拖着行李移动、在站台附近等待。穿过人群比平常需要更多注意力。\n\n我检查发车信息，找到候车的位置，并确保行李靠近自己。我没有做特别的事情，但当很多人移动时，简单任务也更费心。\n\n这次经历让我印象深刻，因为它是独立出国旅行的一部分。我通常安静，不会专门为热闹而选择拥挤场所，不过我理解车站要服务很多人。知道该去哪后，我就更自在。这让我意识到，留出额外时间比最后一刻才赶到更有价值。",
+      "keywords": [
+        "Vienna station",
+        "solo traveller",
+        "departure display",
+        "luggage",
+        "extra time"
+      ],
+      "pending": [
+        "火车站城市、拥挤场面、具体行动和感受均是欧洲行候选扩展；真实等车聊天的城市仍未知"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-017",
+      "part": 2,
+      "title": "学习并喜欢历史的人",
+      "region": "大陆",
+      "text": "Describe a person who learns history and loves history\nYou should say:\nWho this person is\nHow he/she learns history\nWhy he/she loves history\nAnd explain how you feel about him/her",
+      "english": "A person who learns history and really enjoys it is a friend I met through my studies. We became close partly because we both liked reading, although we were interested in different kinds of books.\n\nThey learn history by reading books, visiting museums and watching carefully chosen documentaries. What I find interesting is that they compare different accounts instead of accepting the first version they hear. They also like asking what daily life was like for ordinary people, not just remembering famous dates.\n\nThey enjoy history because it helps them understand why places and societies became the way they are. A building or a painting means more to them when they know something about the period in which it was made.\n\nI respect this interest because it requires curiosity and patience. During my own European trip, I visited museums in Vienna, so I can see how learning some background could make a visit more meaningful. I'm more focused on AI and robotics, but I like talking to someone whose interests encourage me to look beyond my own subject.",
+      "chinese": "一位学习并喜欢历史的人，是我通过学习认识的朋友。我们变得熟悉，部分因为都喜欢阅读，虽然喜欢的书种类不同。\n\n这位朋友通过读书、参观博物馆和观看经过挑选的纪录片学习历史。有趣的是，对方会比较不同叙述，而不是听到第一个版本就接受。也喜欢了解普通人的日常生活，而不只是记住著名日期。\n\n对方喜欢历史，因为它帮助理解地方和社会为什么变成现在的样子。了解建筑或绘画创作的时代后，它们会更有意义。\n\n我尊重这种兴趣，因为它需要好奇心和耐心。我自己欧洲旅行时参观了维也纳的博物馆，因此能理解一些背景知识会让参观更有意义。我更关注人工智能和机器人，但也喜欢和能让我超越本专业看问题的人交谈。",
+      "keywords": [
+        "reading friend",
+        "books and museums",
+        "compare accounts",
+        "ordinary lives",
+        "broader interests"
+      ],
+      "pending": [
+        "历史朋友、学习方式和交谈关系为候选；本人维也纳博物馆访问已确认"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-086",
+      "part": 3,
+      "title": "浪费时间的活动",
+      "region": "大陆",
+      "text": "What kinds of things make people feel pressured?",
+      "english": "Deadlines, financial worries, and uncertainty about the future can all create pressure. People may also feel stressed when expectations from family or work seem higher than what they can manage. Too many tasks at once make things worse. Identifying the specific source helps, because a practical workload problem needs a different response from worrying about something that hasn't happened.",
+      "chinese": "截止时间、经济担忧和未来不确定都能造成压力。家庭或工作期待超出能力时，人也可能紧张。任务太多会加重情况。找具体来源有帮助，因为实际工作量问题，与担心尚未发生的事，需要不同回应。",
+      "keywords": [
+        "deadlines",
+        "money",
+        "uncertainty",
+        "identify source"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-087",
+      "part": 3,
+      "title": "浪费时间的活动",
+      "region": "大陆",
+      "text": "Will you continue doing something when you are aware that it’s a waste of time?",
+      "english": "If I realized an activity was wasting time, I'd first ask whether it still gave me useful rest or enjoyment. Not every unproductive activity is pointless. But if it left me frustrated and kept me from important tasks, I'd stop or set a limit. The aim would be to use time deliberately, rather than make every minute look productive.",
+      "chinese": "如果意识到活动浪费时间，我会先问它是否仍带来有用休息或乐趣。不是每个不产出的活动都无意义。但若让我沮丧、妨碍重要任务，我会停止或限时。目标是有意识地用时间，而非让每一分钟显得有产出。",
+      "keywords": [
+        "rest",
+        "enjoyment",
+        "set a limit",
+        "deliberate use"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-088",
+      "part": 3,
+      "title": "浪费时间的活动",
+      "region": "大陆",
+      "text": "How do you balance life and work?",
+      "english": "As a student, I'd think about balancing study with the rest of life. A practical approach would be to choose a few main tasks, set a reasonable stopping time, and leave space for reading or other interests. I'd also review the plan when deadlines become busy. Balance means protecting recovery time while still meeting responsibilities, rather than dividing every day equally.",
+      "chinese": "作为学生，我会考虑平衡学习与生活其他部分。实际方法是选几个主要任务、设合理结束时间，并为阅读或其他兴趣留空间。截止任务繁忙时也会重新审视计划。平衡是履责同时保护恢复时间，而非每天平均分配。",
+      "keywords": [
+        "study",
+        "priorities",
+        "stopping time",
+        "recovery"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-089",
+      "part": 3,
+      "title": "浪费时间的活动",
+      "region": "大陆",
+      "text": "Is it good to have a daily routine?",
+      "english": "A daily routine can reduce small decisions and make useful habits easier to maintain. Regular times for sleep or study may provide structure, especially during a busy period. However, a routine shouldn't become so rigid that an unexpected event ruins the whole day. I prefer the idea of a flexible framework, with a few stable habits and room for adjustment.",
+      "chinese": "日常规律能减少小决定，让有用习惯更易保持。固定睡眠或学习时间能提供结构，尤其忙碌时。但规律不应僵硬到突发情况破坏整天。我更喜欢灵活框架：几个稳定习惯，加上调整空间。",
+      "keywords": [
+        "structure",
+        "habits",
+        "sleep",
+        "flexibility"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-090",
+      "part": 3,
+      "title": "浪费时间的活动",
+      "region": "大陆",
+      "text": "Do you think stress is important in people's lives?",
+      "english": "A small amount of pressure can encourage people to prepare and take a task seriously. For example, a deadline may help someone focus. But constant or extreme stress can affect sleep and concentration. So I wouldn't call stress essential in itself. Clear goals and manageable challenges can provide motivation without making people feel overwhelmed all the time.",
+      "chinese": "少量压力能促使人准备、认真对待任务。例如截止时间可能帮助专注。但持续或极端压力影响睡眠和注意力。所以我不会说压力本身必不可少。清楚目标、可管理挑战也能提供动力，而不使人一直不堪重负。",
+      "keywords": [
+        "small pressure",
+        "deadlines",
+        "sleep",
+        "manageable goals"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-091",
+      "part": 3,
+      "title": "拥挤地方",
+      "region": "大陆",
+      "text": "Do you think it is a good trend to have more big cities?",
+      "english": "More big cities can create jobs and make education or services easier to reach. However, growth brings problems if housing, transport, and green space don't keep up. A city isn't successful simply because it is large. I would rather see balanced development, including stronger smaller towns, so people don't feel they must move to one crowded centre for every opportunity.",
+      "chinese": "更多大城市能创造就业，让教育服务更易获取。但若住房、交通、绿地跟不上，增长就有问题。城市并非仅因大而成功。我更希望平衡发展，包括更强的小城镇，让人不必为每种机会都移去一个拥挤中心。",
+      "keywords": [
+        "jobs",
+        "services",
+        "infrastructure",
+        "balanced development"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-092",
+      "part": 3,
+      "title": "拥挤地方",
+      "region": "大陆",
+      "text": "Do you think there are some people who enjoy crowded places?",
+      "english": "Yes, some people enjoy the energy of a busy market, concert, or festival. Being surrounded by others can make an event feel exciting and shared. Others find the same setting tiring or uncomfortable. Even someone who likes crowds may dislike them during a commute. Enjoyment often comes from choosing the situation, rather than being forced into it.",
+      "chinese": "是的，有些人享受繁忙市场、音乐会或节日的活力。被人群包围能让活动令人兴奋、有共同参与感。另一些却感到疲倦或不适。喜欢人群者也可能讨厌通勤拥挤。乐趣常来自自愿选择场景，而非被迫进入。",
+      "keywords": [
+        "energy",
+        "shared event",
+        "comfort",
+        "choice"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-093",
+      "part": 3,
+      "title": "拥挤地方",
+      "region": "大陆",
+      "text": "Why do people go to crowded places?",
+      "english": "Crowded places often offer something people want, such as popular food, shopping, or entertainment. Some people also follow recommendations online and expect a lively atmosphere. In other cases, there is little choice: transport stations become crowded because many people need to travel. So crowds can reflect attraction, limited space, or both, rather than everyone actively enjoying being surrounded by people.",
+      "chinese": "拥挤地方常有想要的食物、购物或娱乐。有些人跟网络推荐，期待热闹。其他时候没多少选择：交通站点拥挤，因为很多人需要出行。因此人群可反映吸引力、空间有限或两者，而非人人主动享受被包围。",
+      "keywords": [
+        "attractions",
+        "recommendations",
+        "transport",
+        "limited space"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-094",
+      "part": 3,
+      "title": "拥挤地方",
+      "region": "大陆",
+      "text": "Will people use bikes more or less in cities in the future?",
+      "english": "I think cycling could become more common for short urban journeys if cities provide safe lanes and convenient parking. Shared bikes already show how useful a bicycle can be for reaching a station. But safety, weather, and distance still affect people's choices. Better infrastructure would encourage cycling more effectively than simply telling residents that they should ride instead of drive.",
+      "chinese": "我认为若城市有安全车道和方便停车，短途骑行会更普遍。共享单车已体现到车站时的用途。但安全、天气、距离仍影响选择。改善设施比仅告诉居民应骑车而非开车，更有效鼓励骑行。",
+      "keywords": [
+        "short journeys",
+        "safe lanes",
+        "shared bikes",
+        "infrastructure"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-095",
+      "part": 3,
+      "title": "拥挤地方",
+      "region": "大陆",
+      "text": "Will there be more or less green space in cities in the future?",
+      "english": "I hope cities will have more usable green space, because residents need places to exercise and relax. Whether that happens will depend on planning decisions and pressure for housing. New parks are valuable, but protecting existing trees and connecting small green areas matters too. A greener city should be judged by residents' access, rather than only the total area on a map.",
+      "chinese": "我希望城市有更多可使用绿地，因为居民需要锻炼休息场所。能否实现取决于规划和住房压力。新公园有价值，但保护现有树木、连接小绿地也重要。应按居民可达性评价绿色城市，而非只看地图总面积。",
+      "keywords": [
+        "green space",
+        "planning",
+        "existing trees",
+        "access"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-096",
+      "part": 3,
+      "title": "拥挤地方",
+      "region": "大陆",
+      "text": "Which cities are overcrowded in your country?",
+      "english": "Large cities such as Beijing, Shanghai, and Shenzhen can feel crowded, especially on public transport during rush hour. Popular shopping areas and tourist sites may also be busy at certain times. However, I wouldn't describe every part of those cities as overcrowded. The experience changes with the neighbourhood, time of day, and how well local transport and public space are managed.",
+      "chinese": "北京、上海、深圳等大城市可能感觉拥挤，尤其高峰期公共交通。热门购物区和景点某些时候也繁忙。但我不会把这些城市每个部分都说成过度拥挤。体验随社区、时间及交通和公共空间管理程度变化。",
+      "keywords": [
+        "large cities",
+        "rush hour",
+        "neighbourhood",
+        "management"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-097",
+      "part": 3,
+      "title": "学习并喜欢历史的人",
+      "region": "大陆",
+      "text": "Besides big historical events, what else is important when learning history?",
+      "english": "Everyday life is important too: how people worked, ate, learned, and raised families. It helps us understand what major events meant for ordinary people. We should also ask where historical information comes from and whose viewpoint it represents. Dates provide a framework, but understanding causes, consequences, and different experiences makes history much more meaningful than memorizing a list of events.",
+      "chinese": "日常生活也重要：人们怎样工作、吃饭、学习、养育家庭。这帮助理解重大事件对普通人意味着什么。也应问历史信息来自哪里、代表谁的视角。日期提供框架，但理解原因、后果与不同经历，比背事件清单更有意义。",
+      "keywords": [
+        "daily life",
+        "sources",
+        "viewpoints",
+        "causes"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

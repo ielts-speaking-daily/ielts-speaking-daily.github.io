@@ -1,0 +1,467 @@
+{
+  "schemaVersion": 1,
+  "day": 15,
+  "date": "2026-10-23",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-097",
+    "QB-20261008-01-P1-098",
+    "QB-20261008-01-P1-099",
+    "QB-20261008-01-P1-100",
+    "QB-20261008-01-P1-101",
+    "QB-20261008-01-P1-102",
+    "QB-20261008-01-P1-103",
+    "QB-20261008-01-P1-104",
+    "QB-20261008-01-P2-026",
+    "QB-20261008-01-P2-027",
+    "QB-20261008-01-P3-146",
+    "QB-20261008-01-P3-147",
+    "QB-20261008-01-P3-148",
+    "QB-20261008-01-P3-149",
+    "QB-20261008-01-P3-150",
+    "QB-20261008-01-P3-151",
+    "QB-20261008-01-P3-152",
+    "QB-20261008-01-P3-153",
+    "QB-20261008-01-P3-154",
+    "QB-20261008-01-P3-155",
+    "QB-20261008-01-P3-156",
+    "QB-20261008-01-P3-157"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-097",
+      "part": 1,
+      "title": "Science",
+      "region": "大陆",
+      "text": "Do you like science?",
+      "english": "Yes, especially the areas connected with artificial intelligence and robotics. I like thinking about how ideas can become useful tools, rather than treating science as facts to memorise.",
+      "chinese": "喜欢，尤其是与人工智能和机器人相关的领域。我喜欢思考如何把想法变成有用工具，而不是只把科学当作要背的知识。",
+      "keywords": [
+        "useful tools",
+        "facts to memorise"
+      ],
+      "pending": [
+        "专业与机器人应用目标真实；广义科学喜好为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-098",
+      "part": 1,
+      "title": "Science",
+      "region": "大陆",
+      "text": "When did you start to learn about science?",
+      "english": "I started with basic science lessons at school, but my interest became more focused later. Studying artificial intelligence gave me a clearer idea of the questions I wanted to explore.",
+      "chinese": "我从学校的基础科学课开始学习，但后来兴趣更集中。学习人工智能，让我更清楚自己想探索哪些问题。",
+      "keywords": [
+        "basic science lessons",
+        "more focused"
+      ],
+      "pending": [
+        "候选科学启蒙时间和兴趣变化；AI专业真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-099",
+      "part": 1,
+      "title": "Science",
+      "region": "大陆",
+      "text": "Which science subject is interesting to you?",
+      "english": "Computer science interests me most, particularly artificial intelligence and robotics. I'm doing a master's in this area, and my longer-term goal involves bringing intelligent robots into real-world use.",
+      "chinese": "我最感兴趣的是计算机科学，尤其是人工智能与机器人。我正在这方面读硕士，长期目标涉及推动智能机器人实际应用。",
+      "keywords": [
+        "computer science",
+        "real-world use"
+      ],
+      "pending": [
+        "专业、研究方向及应用目标真实；‘最感兴趣’为待确认偏好。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-100",
+      "part": 1,
+      "title": "Science",
+      "region": "大陆",
+      "text": "What kinds of interesting things have you done with science?",
+      "english": "One interesting experience was attending an academic conference in Europe in June. I'm a master's student in AI and robotics, so the trip combined my academic interests with travelling.",
+      "chinese": "一件有趣的经历是六月在欧洲参加学术会议。我是AI与机器人方向的硕士生，所以这次行程结合了学术兴趣和旅行。",
+      "keywords": [
+        "an academic conference",
+        "combined with"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-101",
+      "part": 1,
+      "title": "Science",
+      "region": "大陆",
+      "text": "Do you like watching science TV programs?",
+      "english": "I'd watch one if it explained ideas clearly without oversimplifying them. Programmes about robots or computing would probably appeal to me more than general science quizzes.",
+      "chinese": "如果节目讲解清楚，又不过度简化，我会看。机器人或计算机节目可能比普通科学问答更吸引我。",
+      "keywords": [
+        "oversimplifying",
+        "appeal to"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-102",
+      "part": 1,
+      "title": "Science",
+      "region": "大陆",
+      "text": "Do Chinese people often visit science museums?",
+      "english": "Some do, particularly families and school groups. Interactive displays can make science easier to understand, although visiting habits vary between cities and different age groups.",
+      "chinese": "有些人会，尤其是家庭和学校团体。互动展品能让科学更易理解，但参观习惯因城市和年龄群体而异。",
+      "keywords": [
+        "interactive displays",
+        "school groups"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-103",
+      "part": 1,
+      "title": "Mirrors",
+      "region": "大陆",
+      "text": "Do you like looking at yourself in the mirror? How often?",
+      "english": "Not especially. I'd mainly use a mirror to check that I look tidy before going out, rather than spend much time studying my reflection.",
+      "chinese": "不特别喜欢。我主要会在出门前照镜子，看看自己是否整洁，而不会花很多时间端详镜中的自己。",
+      "keywords": [
+        "look tidy",
+        "my reflection"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-104",
+      "part": 1,
+      "title": "Mirrors",
+      "region": "大陆",
+      "text": "Have you ever bought mirrors?",
+      "english": "Yes, I once bought a small mirror for a room. I chose a plain one because I wanted something useful rather than a decorative object.",
+      "chinese": "买过，我曾给房间买过一面小镜子。我选了朴素的款式，因为想要实用的东西，而不是装饰品。",
+      "keywords": [
+        "a plain mirror",
+        "a decorative object"
+      ],
+      "pending": [
+        "候选购买小镜子的经历及用途。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-026",
+      "part": 2,
+      "title": "读起来开心的书",
+      "region": "大陆",
+      "text": "Describe a book you enjoyed reading and that made you happy\nYou should say:\nWhat kind of book it was\nWhat it was about\nWhy you read it\nAnd explain why it made you happy",
+      "english": "A book I enjoyed reading is The Little Prince. It is a short imaginative story that looks simple at first, but raises questions about friendship, responsibility, and how adults see the world.\n\nThe story follows a young prince who leaves his small home and visits different places. Along the way, he meets characters whose lives are shaped by things such as power or numbers. His relationships with a rose and a fox give the story a more personal and emotional side.\n\nI chose it because I wanted something different from technical reading. As an AI student, I spend time thinking about systems and practical problems, so a gentle story offered a change of pace. I could read a little without feeling that I had to memorize every detail.\n\nIt made me happy because it encouraged me to pay attention to simple relationships rather than only measurable achievements. I also liked the contrast between the child's questions and the adults' complicated habits. The book didn't solve a particular problem, but it left me calmer and reminded me that curiosity and care are valuable. That's the kind of feeling I want from leisure reading.",
+      "chinese": "我喜欢读的一本书是《小王子》。这是一部充满想象力的短篇故事，乍看很简单，却提出了关于友谊、责任以及成年人如何看待世界的问题。\n\n故事围绕一位离开自己小小家园、前往不同地方的年轻王子展开。一路上，他遇见了生活被权力、数字等事物主导的人物。他与玫瑰和狐狸之间的关系，也让故事更有个人情感色彩。\n\n我选择这本书，是因为想读一些与技术材料不同的内容。作为人工智能专业的学生，我会花时间思考系统和实际问题，因此这样一个温和的故事能让我换一种节奏。我可以读上一小段，而不用觉得自己必须记住每一个细节。\n\n它让我开心，因为它鼓励我关注简单的人际关系，而不只是可以衡量的成就。我也喜欢孩子的提问与成年人复杂习惯之间的对比。这本书没有解决某个具体问题，但它让我更平静，也提醒我好奇心和关怀很有价值。这正是我希望从休闲阅读中获得的感受。",
+      "keywords": [
+        "The Little Prince",
+        "friendship",
+        "rose and fox",
+        "technical reading",
+        "curiosity"
+      ],
+      "pending": [
+        "《小王子》为用户授权的书籍候选；真实读过、阅读动机和幸福感尚待确认。情节为作品一般背景，不登记为用户阅读完成。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-027",
+      "part": 2,
+      "title": "帮助他人",
+      "region": "大陆",
+      "text": "Describe a time when you helped someone\nYou should say：\nWhere you helped him/her\nWhy you helped\nHow you helped\nAnd explain how you felt about it",
+      "english": "A time I helped someone was when a classmate was struggling with a small programming task at university. We were in a study area, and they had a program that seemed to run but didn't produce the expected result.\n\nI offered to help because I knew how frustrating that situation could be. At first, I didn't change the code. I asked them to explain what they wanted it to do and what they had already checked. Then we reduced the task to a simpler example and looked at the output step by step.\n\nEventually, we noticed that one part of the program was using the wrong input. After fixing that, we tested it again and checked that the result matched the goal. I also explained why the smaller example had made the problem easier to locate.\n\nI felt pleased, mainly because my classmate could continue independently afterwards. I enjoy programming, but helping someone understand a process is different from solving everything for them. It was a fairly ordinary event, yet it showed how useful patient questions can be. I also learned to explain my own thinking more clearly instead of assuming that the other person saw the problem in the same way.",
+      "chinese": "我帮助别人的一次经历，是大学里一位同学做小型编程任务时遇到了困难。当时我们在一个学习区，对方的程序似乎可以运行，却没有产生预期的结果。\n\n我主动提出帮忙，因为我知道这种情况会有多令人沮丧。一开始，我没有改代码，而是请对方解释希望程序完成什么，以及已经检查过哪些地方。然后，我们把任务简化成一个更小的例子，一步步查看输出结果。\n\n最后，我们发现程序中的一个部分使用了错误的输入。修正后，我们重新测试，确认结果符合目标。我也解释了为什么这个更小的例子能让问题更容易定位。\n\n我感到很高兴，主要是因为之后同学可以独立继续做下去。我喜欢编程，但帮助别人理解一个过程，与替对方解决所有问题是不同的。虽然这是一次很普通的经历，却让我看到耐心提问有多有用。我也学会了更清楚地解释自己的思路，而不是假定别人看待问题的方式与我相同。",
+      "keywords": [
+        "classmate",
+        "programming",
+        "simple example",
+        "wrong input",
+        "patient questions"
+      ],
+      "pending": [
+        "同学、地点、编程帮助事件、错误原因和感受全部为授权候选；不可作为已发生助人证据。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-146",
+      "part": 3,
+      "title": "有健康习惯和作息的人",
+      "region": "大陆",
+      "text": "Do you think it is important to live in a community where people have healthy lifestyles?",
+      "english": "It can help because people often follow habits they see around them. If neighbours walk, use shared exercise spaces, or organize healthy activities, joining in becomes easier. The community can provide encouragement without pressure. Still, individual needs differ. A supportive neighbourhood should offer options and accessible facilities, rather than judge residents whose health or schedules limit what they can do.",
+      "chinese": "有帮助，因为人们常跟随周围习惯。邻居散步、用公共运动空间或组织健康活动时，加入更容易。社区能提供无压力鼓励。但个人需求不同。支持性社区应提供选择和可达设施，而非评判因健康时间限制活动的居民。",
+      "keywords": [
+        "shared habits",
+        "encouragement",
+        "facilities",
+        "inclusion"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-147",
+      "part": 3,
+      "title": "有健康习惯和作息的人",
+      "region": "大陆",
+      "text": "How can people relieve stress in daily life?",
+      "english": "People can take short breaks, move their bodies, and talk to someone they trust. Reducing an overloaded task list can also address the source of stress instead of only distracting from it. Rest and enjoyable hobbies are useful, but everyone needs a realistic approach. If pressure keeps affecting daily life, seeking appropriate support is better than simply trying to ignore it.",
+      "chinese": "人们可短休、活动、与信任的人交谈。减轻超载任务清单，也能处理压力源，而非仅分心。休息与爱好有用，但需要现实做法。如果压力持续影响日常，寻合适支持比忽视更好。",
+      "keywords": [
+        "breaks",
+        "movement",
+        "talk",
+        "reduce workload"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-148",
+      "part": 3,
+      "title": "有健康习惯和作息的人",
+      "region": "大陆",
+      "text": "What effect does stress have on health?",
+      "english": "Short periods of stress may make people more alert, but ongoing stress can interfere with sleep, concentration, and healthy routines. Someone may exercise less or rely on quick, irregular meals when under pressure. Those changes can add to the problem. I think managing demands and getting enough recovery time matters, rather than treating stress as something people should simply tolerate indefinitely.",
+      "chinese": "短期压力可能提高警觉，但长期压力干扰睡眠、注意力和健康规律。压力下可能少运动，或靠快捷、不规律饮食，这些变化加重问题。我认为管理要求、得到足够恢复重要，而非把压力当应无限忍受的事。",
+      "keywords": [
+        "sleep",
+        "concentration",
+        "routines",
+        "recovery"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-149",
+      "part": 3,
+      "title": "有健康习惯和作息的人",
+      "region": "大陆",
+      "text": "Which group pays more attention to health, young people or old people?",
+      "english": "Older people may pay closer attention because health problems become more noticeable or affect daily independence. Young people may feel less urgency, although many care about exercise, food, and mental wellbeing. I wouldn't rank an entire age group as more responsible. Personal experience, information, and available resources influence attention to health, so the differences within each group can be large.",
+      "chinese": "老人可能更关注，因为健康问题更明显或影响日常独立。年轻人可能不那么迫切，但许多人关心运动、饮食、心理健康。我不会把整个年龄群排成更负责。个人经历、信息与资源影响关注，因此各群内部差异也很大。",
+      "keywords": [
+        "health concerns",
+        "exercise",
+        "wellbeing",
+        "individual differences"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-150",
+      "part": 3,
+      "title": "读起来开心的书",
+      "region": "大陆",
+      "text": "What kinds of books are popular in China?",
+      "english": "Fiction, books for study, and practical self-development books are all common choices in China. Readers interested in technology may choose science or computing books, while others prefer history or personal stories. Formats vary too, including printed books and digital reading. I wouldn't claim one category represents everyone, because age, purpose, and personal interests shape what people choose to read.",
+      "chinese": "小说、学习用书和实用自我提升书在中国都常见。技术兴趣读者可能选科学或计算机书，其他人偏历史或人物故事。形式也不同，包括纸书和数字阅读。我不会说一类代表所有人，因为年龄、目的和兴趣塑造阅读选择。",
+      "keywords": [
+        "fiction",
+        "study",
+        "technology",
+        "digital reading"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-151",
+      "part": 3,
+      "title": "读起来开心的书",
+      "region": "大陆",
+      "text": "Do you think people should read the original book before watching the movie?",
+      "english": "Reading first can help people imagine the characters independently and understand details a film may leave out. But it isn't a requirement. A movie might introduce someone to a story and encourage them to read afterwards. I think either order is fine, as long as people recognize that an adaptation makes different choices and isn't simply a replacement for the book.",
+      "chinese": "先读书帮助独立想象角色、理解电影可能省略的细节，但不是要求。电影可能让人接触故事、促使之后阅读。我觉得两种顺序都可，只要认识改编有不同选择，不只是书的替代品。",
+      "keywords": [
+        "imagination",
+        "details",
+        "adaptation",
+        "either order"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-152",
+      "part": 3,
+      "title": "读起来开心的书",
+      "region": "大陆",
+      "text": "Are success books useful to everyone?",
+      "english": "Some success books offer useful ideas about habits, communication, or planning. But advice that worked for one author may not fit every reader's resources and circumstances. Simple promises can also hide the role of luck and opportunity. I would read critically, test a small useful idea, and avoid treating a book as a guaranteed recipe for achievement.",
+      "chinese": "有些成功学书给习惯、沟通、规划的有用想法。但适合作者的建议未必适合每位读者资源处境。简单承诺也掩盖运气机会作用。我会批判阅读、试一个有用小点，避免把书当保证成就的配方。",
+      "keywords": [
+        "useful ideas",
+        "circumstances",
+        "critical reading",
+        "test"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-153",
+      "part": 3,
+      "title": "读起来开心的书",
+      "region": "大陆",
+      "text": "Do you think people today read less than before? Why?",
+      "english": "People may spend less uninterrupted time on long books because phones offer constant short entertainment. However, they also read digital articles, messages, and online material throughout the day. So the type of reading may be changing, not simply disappearing. I would be more concerned about depth and attention than assume that fewer printed books automatically means people read nothing.",
+      "chinese": "手机提供持续短娱乐，所以人们可能较少不间断读长书。但他们全天也读数字文章、消息和网络材料。因此阅读类型可能变化，而非简单消失。我更关心深度注意力，不会因纸书少就认定完全不阅读。",
+      "keywords": [
+        "short entertainment",
+        "digital reading",
+        "depth",
+        "attention"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-154",
+      "part": 3,
+      "title": "读起来开心的书",
+      "region": "大陆",
+      "text": "Why do some people prefer watching movies to reading books?",
+      "english": "Movies present the images and sounds directly, so they can feel easier to enjoy after a tiring day. A complete story may also take less time than reading a long novel. Some people like sharing the experience with others. Books require a different kind of attention, but offer more room for personal imagination and reflection. The preference isn't necessarily about intelligence.",
+      "chinese": "电影直接呈现图像声音，疲惫一天后可能更易享受。完整故事也可能比读长小说用时少。有些人喜欢共享体验。书需不同注意，却给个人想象反思更多空间。偏好不一定关乎智力。",
+      "keywords": [
+        "images and sound",
+        "time",
+        "shared experience",
+        "imagination"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-155",
+      "part": 3,
+      "title": "读起来开心的书",
+      "region": "大陆",
+      "text": "How can parents help children develop a love of reading?",
+      "english": "Parents can read with children and let them choose books that match their interests. Keeping books within easy reach makes reading a normal option. Talking about a story is often more encouraging than testing every detail. Adults should show their own enjoyment too. The aim is a pleasant habit, rather than turning every book into extra homework or a competition.",
+      "chinese": "家长可共读，并让孩子选符合兴趣的书。书放在容易拿到的地方，让阅读成为普通选择。谈故事常比考每个细节更鼓励。成年人也应展示阅读乐趣。目标是愉快习惯，而非把每本书变额外作业或竞赛。",
+      "keywords": [
+        "read together",
+        "choice",
+        "access",
+        "enjoyment"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-156",
+      "part": 3,
+      "title": "帮助他人",
+      "region": "大陆",
+      "text": "Should children be taught to be kind to others?",
+      "english": "Yes, kindness helps children build relationships and notice how their actions affect others. Parents and teachers can model it through listening, sharing, and respectful language. Specific examples are more useful than simply saying, 'Be nice.' Children should also understand that kindness doesn't mean accepting harmful behaviour or giving up every personal boundary. Respect should apply to themselves as well as other people.",
+      "chinese": "是的，友善帮助孩子建立关系、注意行为如何影响别人。家长老师可通过倾听、分享、尊重语言示范。具体例子比只说“友好点”有用。孩子也应理解友善不等于接受伤害行为或放弃所有边界。尊重同时适用于自己和他人。",
+      "keywords": [
+        "relationships",
+        "model kindness",
+        "examples",
+        "boundaries"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-157",
+      "part": 3,
+      "title": "帮助他人",
+      "region": "大陆",
+      "text": "Should people be very kind when they help others?",
+      "english": "Help is more valuable when it is offered respectfully, because the person receiving it may already feel vulnerable. A patient explanation can make practical assistance easier to accept. However, kindness doesn't mean agreeing to every request or promising things we can't do. Honest limits and attention to what the person actually needs are part of helping well.",
+      "chinese": "尊重地帮助更有价值，因为接受者可能已脆弱。耐心解释使实际帮助更易接受。但友善不等于答应所有请求或承诺做不到的事。诚实边界、关注真实需要，也是好帮助的一部分。",
+      "keywords": [
+        "respect",
+        "patience",
+        "honest limits",
+        "actual needs"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

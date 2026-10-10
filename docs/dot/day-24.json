@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "day": 24,
+  "date": "2026-11-01",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-161",
+    "QB-20261008-01-P1-162",
+    "QB-20261008-01-P1-163",
+    "QB-20261008-01-P1-164",
+    "QB-20261008-01-P1-165",
+    "QB-20261008-01-P1-166",
+    "QB-20261008-01-P1-167",
+    "QB-20261008-01-P1-168",
+    "QB-20261008-01-P2-043",
+    "QB-20261008-01-P2-044",
+    "QB-20261008-01-P3-243",
+    "QB-20261008-01-P3-244",
+    "QB-20261008-01-P3-245",
+    "QB-20261008-01-P3-246",
+    "QB-20261008-01-P3-247",
+    "QB-20261008-01-P3-248",
+    "QB-20261008-01-P3-249",
+    "QB-20261008-01-P3-250",
+    "QB-20261008-01-P3-251",
+    "QB-20261008-01-P3-252",
+    "QB-20261008-01-P3-253",
+    "QB-20261008-01-P3-254"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-161",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "Are the transport facilities to your home very good?",
+      "english": "Yes, there are bus stops within walking distance, so everyday journeys are fairly convenient. I wouldn't call the transport perfect, but I can get to the places I usually need.",
+      "chinese": "是的，步行范围内有公交站，所以日常出行相当方便。我不会说交通完美，但能到达平时需要去的地方。",
+      "keywords": [
+        "within walking distance",
+        "fairly convenient"
+      ],
+      "pending": [
+        "住所附近公交站及日常出行情况为候选，实际交通信息未提供。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-162",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "Do you prefer living in a house or an apartment?",
+      "english": "I'd prefer an apartment because it seems more manageable. I already live in one with my mother, but my preference would depend on the location, noise and available space.",
+      "chinese": "我会更喜欢公寓，因为似乎更容易打理。我现在已和母亲住公寓，但偏好也会取决于地点、噪声和空间。",
+      "keywords": [
+        "more manageable",
+        "available space"
+      ],
+      "pending": [
+        "当前公寓和同住者真实；公寓偏好及理由为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-163",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "Please describe the room you live in.",
+      "english": "My room is fairly simple, with a bed, a desk and space for books. The desk is the most useful part because it gives me somewhere to study or use my computer.",
+      "chinese": "我的房间比较简单，有床、书桌和放书的空间。书桌最有用，因为让我有地方学习或用电脑。",
+      "keywords": [
+        "fairly simple",
+        "space for books"
+      ],
+      "pending": [
+        "卧室床、桌及摆放为完整候选布置，真实室内情况未提供。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-164",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "What part of your home do you like the most?",
+      "english": "I'd choose the area where I can sit quietly and read. I enjoy reading and programming, so having a comfortable place for those activities would make a home appealing to me.",
+      "chinese": "我会选能安静坐着看书的地方。我喜欢阅读和编程，所以有舒服的空间做这些事会让家很吸引我。",
+      "keywords": [
+        "sit quietly",
+        "a comfortable place"
+      ],
+      "pending": [
+        "爱好真实；最喜欢的区域为候选，不新增实体房间事实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-165",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "How long have you lived there?",
+      "english": "I've lived here for a couple of years, so the place feels familiar now. I wouldn't say every detail is perfect, but I've become comfortable with the surroundings.",
+      "chinese": "我住在这里大约两年了，所以现在已经很熟悉。我不会说一切都完美，但已适应周边环境。",
+      "keywords": [
+        "a couple of years",
+        "the surroundings"
+      ],
+      "pending": [
+        "约两年为完整候选居住时长，非用户事实；实际时长待确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-166",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "Do you plan to live there for a long time?",
+      "english": "Not necessarily, because I plan to pursue a PhD abroad. This apartment is my current home, but my next stage of education could involve living somewhere very different.",
+      "chinese": "不一定，因为我计划海外读博。这个公寓是目前的家，但下一阶段教育可能需要住到很不同的地方。",
+      "keywords": [
+        "my current home",
+        "the next stage"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-167",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "What’s the difference between where you are living now and where you have lived in the past?",
+      "english": "The main difference is the region: my hometown is in northeastern China, while I now live in Guangdong. My current home is an apartment that I share with my mother.",
+      "chinese": "主要差别是地区：家乡在中国东北，现在住广东。目前的家是与母亲同住的公寓。",
+      "keywords": [
+        "the main difference",
+        "share with"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-168",
+      "part": 1,
+      "title": "Home/accommodation",
+      "region": "大陆",
+      "text": "Can you describe the place where you live?",
+      "english": "I live in an apartment in a city in Guangdong, in southern China. I share it with my mother, and I'm originally from a small county town in the northeast.",
+      "chinese": "我住在中国南方广东一个城市的公寓，与母亲同住。我原本来自东北的小县城。",
+      "keywords": [
+        "an apartment",
+        "originally from"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-043",
+      "part": 2,
+      "title": "遇到的科技问题",
+      "region": "大陆",
+      "text": "Describe a challenging technological problem you faced\nYou should say:\nWhat the problem was\nWhen and where you faced it\nHow challenging it was\nAnd explain how you solved it",
+      "english": "A technological problem I'd describe involved a programme that suddenly stopped working on my laptop. It was related to a small robotics project, and I noticed the problem while working at home one afternoon.\n\nThe programme had worked before, but after a software update it produced an error as soon as I started it. At first, I did not know whether the problem was in my own code or in one of the packages it depended on. That uncertainty made it frustrating, because changing several things at once could make the situation even harder to understand.\n\nI decided to work through it systematically. I read the error message carefully, checked what had changed and tested a much smaller piece of code. That helped me identify a mismatch between package versions. I created a separate environment, installed compatible versions and ran the small test again before returning to the whole programme.\n\nThe programme finally worked, and I felt relieved. More importantly, the experience showed me why it helps to keep clear notes and isolate a problem instead of guessing. It was challenging, but it became manageable once I broke it into steps.",
+      "chinese": "我想描述一次笔记本上程序突然不能运行的问题。它与小型机器人项目有关，是某天下午在家工作时发现的。\n\n程序原先正常，软件更新后，一启动就报错。开始不清楚是自己的代码，还是依赖的软件包出了问题。这种不确定令人烦躁，因为同时改很多地方可能让问题更难理解。\n\n我决定按步骤检查：认真阅读错误信息、检查哪些地方发生了变化，并测试一段更小的代码。这帮助找到软件包版本不匹配。我创建独立环境，安装兼容版本，先运行小测试，再回到完整程序。\n\n程序终于正常，我松了口气。更重要的是，这让我认识到记录清楚、隔离问题比猜测更有帮助。虽然困难，但拆成步骤后就能处理。",
+      "keywords": [
+        "a software update",
+        "an error message",
+        "package versions",
+        "a separate environment",
+        "systematic testing"
+      ],
+      "pending": [
+        "项目、报错、更新、排查步骤及发生时间地点均为候选事件，未登记为用户真实经历。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-044",
+      "part": 2,
+      "title": "名人出演的广告",
+      "region": "大陆",
+      "text": "Describe an advertisement with a famous person in it\nYou should say:\nWho the person is\nWhere you can see it\nWhat the advertisement is about\nAnd explain how you feel about the advertisement",
+      "english": "An advertisement I'd like to describe features Yao Ming, the former Chinese basketball player. It is a public-awareness advertisement about protecting sharks rather than selling a normal consumer product. The message is that demand for shark-fin products can lead to harm to these animals.\n\nYou can see this kind of campaign material online, including short videos and shared images. The version I have in mind uses a familiar public figure to encourage people to think about what their purchases support. Because Yao Ming is widely recognised, his presence makes the message easier to notice and remember.\n\nWhat I like is that the advertisement connects an everyday consumer choice with a consequence that may be far away and normally invisible. It does not need a complicated story to make the basic point. However, I think a famous face should draw attention to the issue, not replace evidence or a proper explanation.\n\nOverall, I find it more worthwhile than an advertisement that only encourages unnecessary spending. It tries to change behaviour for a wider purpose, and that makes the celebrity's involvement feel relevant rather than simply decorative.",
+      "chinese": "我想描述一则由前中国篮球运动员姚明出演的广告。它宣传保护鲨鱼，而非销售普通消费品，传达的是对鱼翅产品的需求可能伤害这些动物。\n\n这类宣传材料能在网上见到，包括短视频和分享图片。我想到的版本借助熟悉的公众人物，让人思考购买行为在支持什么。姚明广为人知，因此信息更易被注意和记住。\n\n我喜欢它把日常消费选择，与通常看不见、距离很远的后果连接起来，不需要复杂故事就能说明基本道理。不过，我认为名人应吸引关注，而不应取代证据或充分解释。\n\n总体而言，我认为它比只鼓励不必要消费的广告更值得关注。它希望为更广的目的改变行为，因此，名人的参与显得与主题相关，而不只是起装饰作用。",
+      "keywords": [
+        "Yao Ming",
+        "a public-awareness advertisement",
+        "protecting sharks",
+        "consumer choices",
+        "a wider purpose"
+      ],
+      "pending": [
+        "姚明保护鲨鱼宣传是公共题材；用户实际观看渠道、具体广告版本和态度尚未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-243",
+      "part": 3,
+      "title": "特别场合的食物",
+      "region": "大陆",
+      "text": "Do people today prefer eating at home or in a restaurant?",
+      "english": "It depends on time, budget and the occasion. Eating at home gives people more control over ingredients and may be cheaper, while a restaurant is convenient and can feel special. Some people use both options during the same week. I would avoid claiming a single preference for everyone, because a busy weekday and a family celebration create different needs.",
+      "chinese": "取决于时间、预算和场合。在家吃更能控制食材，也可能更便宜；餐馆则方便，还能带来特别体验。有些人一周内两种方式都会用。我不会概括所有人的偏好，因为忙碌工作日和家庭庆祝需要不同。",
+      "keywords": [
+        "control over ingredients",
+        "time and budget",
+        "different needs"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-244",
+      "part": 3,
+      "title": "擅长学习和说语言的人",
+      "region": "大陆",
+      "text": "Are there many people who can speak foreign languages in your country?",
+      "english": "English is taught widely in China, so many people have some knowledge of it. However, studying a language and communicating confidently are not the same thing. Opportunities to practise vary considerably. Other foreign languages are studied too, particularly when people have academic, work or personal interests connected with them, so I would avoid treating language ability as uniform.",
+      "chinese": "中国广泛教授英语，因此许多人有一定英语知识。但学过语言与能自信交流不是一回事，练习机会差异很大。也有人学习其他外语，尤其是出于相关的学术、工作或个人兴趣。因此，我不会把语言能力看作完全一致。",
+      "keywords": [
+        "some knowledge",
+        "communicate confidently",
+        "opportunities to practise"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-245",
+      "part": 3,
+      "title": "擅长学习和说语言的人",
+      "region": "大陆",
+      "text": "Does speaking other languages help at work?",
+      "english": "Yes, another language can help someone communicate with colleagues, clients or researchers from different countries. It may also provide access to information that has not been translated. However, language skill alone does not guarantee career success. It works best alongside professional knowledge and the ability to explain ideas clearly, rather than being treated as a substitute for expertise.",
+      "chinese": "有帮助。另一种语言让人能与不同国家的同事、客户或研究者交流，也能获取尚未翻译的信息。但语言能力本身不保证职业成功。它应结合专业知识和清楚表达的能力，而不是代替专业技能。",
+      "keywords": [
+        "access to information",
+        "professional knowledge",
+        "explain ideas clearly"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-246",
+      "part": 3,
+      "title": "擅长学习和说语言的人",
+      "region": "大陆",
+      "text": "Do people learn any languages other than English?",
+      "english": "Yes, people may study Japanese, Korean, French or other languages for different reasons. Some enjoy films, books or music, while others need a language for study or work. English is useful internationally, but it is not the only valuable choice. Motivation and regular practice often matter more than simply choosing the language with the largest number of learners.",
+      "chinese": "会，人们可能因不同理由学习日语、韩语、法语等。有些喜欢电影、书或音乐，另一些因学习或工作需要而学。英语在国际上有用，但并非唯一有价值的选择。动机和规律练习往往比单纯选最多人学的语言更重要。",
+      "keywords": [
+        "study or work",
+        "motivation",
+        "regular practice"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-247",
+      "part": 3,
+      "title": "擅长学习和说语言的人",
+      "region": "大陆",
+      "text": "Why is it easier for children to learn new things than for adults?",
+      "english": "Children often have fewer responsibilities and more opportunities to practise through play. They may also worry less about making mistakes. However, I would not say adults are always slower; adults can use prior knowledge and effective strategies. The difference depends on the skill, the teaching method and how much time each person can spend practising.",
+      "chinese": "孩子通常责任较少，也有更多通过玩耍练习的机会，可能更不怕犯错。不过，我不会说成人总学得慢，成人可以利用已有知识和有效策略。差异取决于技能、教学方法，以及能投入多少练习时间。",
+      "keywords": [
+        "through play",
+        "prior knowledge",
+        "effective strategies"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-248",
+      "part": 3,
+      "title": "擅长学习和说语言的人",
+      "region": "大陆",
+      "text": "How do people learn new things?",
+      "english": "People usually combine instruction, observation and practice. A clear explanation provides a starting point, but trying the task reveals what they do not yet understand. Feedback then helps them improve. For example, learning to programme requires actually writing and testing code. I think small, repeated attempts are often more effective than consuming large amounts of information without using it.",
+      "chinese": "人们通常结合讲解、观察和练习。清楚的说明提供起点，实际尝试则暴露尚未理解的部分，反馈帮助继续改进。例如，学编程需要真正写代码并测试。我认为小规模重复尝试，往往比大量接收却不使用信息更有效。",
+      "keywords": [
+        "instruction and practice",
+        "feedback",
+        "repeated attempts"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-249",
+      "part": 3,
+      "title": "擅长学习和说语言的人",
+      "region": "大陆",
+      "text": "What is the most important thing for learning a language well?",
+      "english": "I think the most important thing is using the language regularly in meaningful situations. Memorising words helps, but learners also need to listen, speak, read and write with a purpose. Feedback is useful because repeated mistakes can become habits. A routine that is realistic and sustainable usually matters more than studying intensely for a few days and then stopping.",
+      "chinese": "我认为最重要的是在有意义的情境中规律使用语言。背词有帮助，但也需有目的地听、说、读、写。反馈很有用，因为重复错误可能形成习惯。现实、能持续的规律，通常比猛学几天后停止更重要。",
+      "keywords": [
+        "meaningful situations",
+        "feedback",
+        "a sustainable routine"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-250",
+      "part": 3,
+      "title": "遇到的科技问题",
+      "region": "大陆",
+      "text": "What are the advantages and disadvantages of AI?",
+      "english": "AI can process information quickly and help with repetitive tasks, which gives people more time for complex work. It can also support learning and accessibility. However, its output may be inaccurate or biased, and collecting data can raise privacy concerns. I think the benefits depend on careful design, human checking and clear responsibility when the system makes mistakes.",
+      "chinese": "AI能快速处理信息、帮助完成重复任务，为复杂工作留出时间，也能支持学习和无障碍使用。但输出可能不准确或有偏见，数据收集也可能引发隐私问题。我认为收益取决于谨慎设计、人工检查，以及系统出错时明确的责任。",
+      "keywords": [
+        "repetitive tasks",
+        "inaccurate or biased",
+        "human checking"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-251",
+      "part": 3,
+      "title": "遇到的科技问题",
+      "region": "大陆",
+      "text": "Do you think people today should learn about AI technology?",
+      "english": "Yes, people should understand the basic capabilities and limits of AI, even if they do not become specialists. They need to know that a confident answer can still be wrong and that personal information deserves care. Basic knowledge helps them decide when a tool is useful, when to check its output and when a human should remain responsible.",
+      "chinese": "应该，即使不成为专家，也应了解AI的基本能力和局限。人们需要知道，自信的回答仍可能出错，个人信息也应谨慎处理。基础知识帮助判断何时工具有用、何时核查输出，以及何时应由人继续承担责任。",
+      "keywords": [
+        "capabilities and limits",
+        "check the output",
+        "personal information"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-252",
+      "part": 3,
+      "title": "遇到的科技问题",
+      "region": "大陆",
+      "text": "Should children learn to use AI?",
+      "english": "Children can learn to use suitable AI tools with guidance, but they should first develop their own thinking and basic skills. A tool might explain a difficult idea or suggest practice, rather than complete every assignment for them. Teachers and parents need to discuss accuracy and privacy. The goal should be learning with assistance, not avoiding the effort of learning.",
+      "chinese": "孩子可以在指导下使用合适的AI工具，但首先应发展独立思考和基础技能。工具可以解释难点、建议练习，而不是包办全部作业。老师和家长需要讨论准确性与隐私。目标应是辅助学习，而不是绕过学习本身的努力。",
+      "keywords": [
+        "with guidance",
+        "basic skills",
+        "learning with assistance"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-253",
+      "part": 3,
+      "title": "遇到的科技问题",
+      "region": "大陆",
+      "text": "How can AI help in our lives?",
+      "english": "AI can help people organise information, translate text and handle some routine tasks. It may also make services easier to use, for example by turning speech into written text. However, a useful assistant should not be trusted automatically. I would check important information and keep people involved when an error could affect someone's health, money or opportunities.",
+      "chinese": "AI可以帮助整理信息、翻译文本和处理部分常规任务，也能让服务更容易使用，比如把语音转成文字。不过，有用的助手不应被自动信任。我会核查重要信息，在错误可能影响健康、金钱或机会时，保持人的参与。",
+      "keywords": [
+        "routine tasks",
+        "speech into text",
+        "check important information"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-254",
+      "part": 3,
+      "title": "遇到的科技问题",
+      "region": "大陆",
+      "text": "Do you think students are overly reliant on AI?",
+      "english": "Some students may become overly dependent on AI if they use it to produce answers without understanding them. That makes an assignment look complete while the actual learning remains weak. However, dependence is not inevitable. Asking for feedback after making an independent attempt can be useful. The key is whether the student is still doing the thinking.",
+      "chinese": "有些学生只让AI生成答案、不理解内容，就可能过度依赖。作业看似完成，实际学习却薄弱。但依赖并非必然：独立尝试后寻求反馈可能很有用。关键在于学生是否仍在自己思考。",
+      "keywords": [
+        "overly dependent",
+        "an independent attempt",
+        "actual learning"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

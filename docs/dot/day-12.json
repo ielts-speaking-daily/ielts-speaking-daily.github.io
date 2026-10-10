@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 12,
+  "date": "2026-10-20",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-081",
+    "QB-20261008-01-P1-082",
+    "QB-20261008-01-P1-083",
+    "QB-20261008-01-P1-084",
+    "QB-20261008-01-P1-085",
+    "QB-20261008-01-P1-086",
+    "QB-20261008-01-P1-087",
+    "QB-20261008-01-P1-088",
+    "QB-20261008-01-P2-022",
+    "QB-20261008-01-P2-023",
+    "QB-20261008-01-P3-122",
+    "QB-20261008-01-P3-123",
+    "QB-20261008-01-P3-124",
+    "QB-20261008-01-P3-125",
+    "QB-20261008-01-P3-126",
+    "QB-20261008-01-P3-127",
+    "QB-20261008-01-P3-128",
+    "QB-20261008-01-P3-129",
+    "QB-20261008-01-P3-130",
+    "QB-20261008-01-P3-131",
+    "QB-20261008-01-P3-132",
+    "QB-20261008-01-P3-133"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-081",
+      "part": 1,
+      "title": "Shopping",
+      "region": "大陆",
+      "text": "Do you prefer online shopping or in-store shopping?",
+      "english": "I'd choose online shopping for familiar items because it's easy to compare prices. For clothes or shoes, I'd prefer a shop where I can check the fit first.",
+      "chinese": "熟悉的商品我会选网购，因为容易比较价格。衣服或鞋子则更喜欢去实体店，先看看是否合身。",
+      "keywords": [
+        "compare prices",
+        "check the fit"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-082",
+      "part": 1,
+      "title": "Shopping",
+      "region": "大陆",
+      "text": "Have you ever returned anything you bought online?",
+      "english": "Yes, I once returned a shirt because the size wasn't right. The process was fairly simple, but it reminded me to check measurements more carefully next time.",
+      "chinese": "退过，我曾因为尺码不合适退过一件衬衫。过程相当简单，但也提醒我下次要更仔细看尺寸。",
+      "keywords": [
+        "the size wasn't right",
+        "check measurements"
+      ],
+      "pending": [
+        "候选购物经历：网购衬衫尺码不合适并退货。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-083",
+      "part": 1,
+      "title": "Cars",
+      "region": "大陆",
+      "text": "Did you enjoy traveling by car when you were a kid?",
+      "english": "Yes, especially when I could look out of the window. I wasn't interested in the car itself; seeing unfamiliar places made the journey feel like an adventure.",
+      "chinese": "喜欢，尤其是能看窗外时。我对车本身没那么感兴趣；看到陌生地方让旅途像一次探险。",
+      "keywords": [
+        "look out of the window",
+        "an adventure"
+      ],
+      "pending": [
+        "候选童年乘车经历及喜欢看沿途景色的感受。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-084",
+      "part": 1,
+      "title": "Cars",
+      "region": "大陆",
+      "text": "What types of cars do you like?",
+      "english": "I'd prefer a practical car with reliable safety features rather than something flashy. Good visibility and a comfortable interior would matter more to me than a powerful engine.",
+      "chinese": "我会喜欢安全配置可靠的实用车，而不是很炫的车。良好的视野和舒适内饰，比强劲发动机对我更重要。",
+      "keywords": [
+        "safety features",
+        "a comfortable interior"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-085",
+      "part": 1,
+      "title": "Cars",
+      "region": "大陆",
+      "text": "Do you prefer to be a driver or a passenger?",
+      "english": "I would rather be a passenger because I could relax and enjoy the view. It would also give me time to read on a longer journey.",
+      "chinese": "我更愿意当乘客，因为可以放松、欣赏风景。长途旅程中也能有时间阅读。",
+      "keywords": [
+        "be a passenger",
+        "enjoy the view"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-086",
+      "part": 1,
+      "title": "Cars",
+      "region": "大陆",
+      "text": "What do you usually do when there is a traffic jam?",
+      "english": "As a passenger, I'd read something short or check messages while waiting. If I were driving, I'd focus on the road instead of looking at my phone.",
+      "chinese": "作为乘客，我会在等候时读点短内容或看消息。如果在开车，我会专注路况，而不是看手机。",
+      "keywords": [
+        "focus on the road",
+        "while waiting"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-087",
+      "part": 1,
+      "title": "Cars",
+      "region": "大陆",
+      "text": "Do you think car colours are important?",
+      "english": "They matter to some extent because people have different tastes. I'd choose a simple colour, but I wouldn't let colour outweigh safety, reliability or price.",
+      "chinese": "有一定重要性，因为人们审美不同。我会选简单的颜色，但不会让颜色比安全、可靠性或价格更重要。",
+      "keywords": [
+        "to some extent",
+        "outweigh"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-088",
+      "part": 1,
+      "title": "Cars",
+      "region": "大陆",
+      "text": "Will you buy an expensive car in the future?",
+      "english": "Probably not just for the sake of having an expensive car. I'd rather choose something useful and spend money on priorities like education or meaningful travel.",
+      "chinese": "大概不会只为拥有贵车而买。我宁愿选实用的，把钱花在教育或有意义的旅行等更重要的事情上。",
+      "keywords": [
+        "for the sake of",
+        "priorities"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-022",
+      "part": 2,
+      "title": "钦佩的运动员",
+      "region": "大陆",
+      "text": "Describe a successful sportsperson you admire\nYou should say:\nWho he/she is\nWhat you know about him/her\nWhat he/she is like in real life\nWhat achievement he/she has made",
+      "english": "A successful sportsperson I admire is Ma Long, the Chinese table tennis player. I know him mainly through sports news and videos of international competitions.\n\nHe has won Olympic gold medals and major international titles, so his achievements are impressive even to someone who doesn't follow every match. What interests me most is that success in table tennis depends on quick reactions and careful decisions, not just physical strength.\n\nI don't know him personally, so my impression of his life outside competition comes from interviews and other public appearances. He seems calm, disciplined, and serious about improving. On the court, he can change his approach when an opponent creates a new problem, which makes his matches interesting to watch.\n\nThe quality I admire is his ability to stay focused under pressure. A strong player still makes mistakes, but has to move on immediately rather than let one point affect the next. That is relevant to study and research too. I wouldn't compare my work directly with elite sport, but his patience and consistency offer a useful example of how progress requires more than a brief period of enthusiasm.",
+      "chinese": "我钦佩的一位成功运动员是中国乒乓球选手马龙。我主要通过体育新闻和国际比赛的视频了解他。\n\n他赢得过奥运金牌和重要国际赛事的冠军，所以即使是不关注每一场比赛的人，也会对他的成就印象深刻。我最感兴趣的是，乒乓球比赛中的成功依靠快速反应和谨慎决策，而不仅仅是体力。\n\n我并不认识他本人，所以我对他赛场外生活的印象来自采访和其他公开活动。他看起来冷静、自律，也很认真地追求进步。在场上，当对手带来新的难题时，他能够调整打法，这使他的比赛很有看头。\n\n我钦佩的是他在压力下保持专注的能力。实力很强的选手同样会犯错，但必须马上调整，不能让上一分影响下一分。这一点对学习和研究也有启发。我不会把自己的工作直接与顶尖竞技运动相比，但他的耐心和坚持提供了一个有用的例子：进步需要的不只是短暂的热情。",
+      "keywords": [
+        "Ma Long",
+        "table tennis",
+        "Olympic medals",
+        "calm",
+        "consistency"
+      ],
+      "pending": [
+        "马龙的冠军成就是笼统公开背景；用户是否关注、看过采访、钦佩及具体感受均为候选；不写私人认识关系。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-023",
+      "part": 2,
+      "title": "喜欢的公共建筑",
+      "region": "大陆",
+      "text": "Describe a public building you enjoy visiting (e.g. a library, a shopping mall, a sports\nhall, etc.)\nYou should say:\nWhere it is\nHow you knew it\nWhat it looks like\nAnd explain why you enjoy visiting it",
+      "english": "A public building I enjoyed visiting is the Musikverein in Vienna, which is especially famous for its Golden Hall. I visited the Golden Hall during my solo trip to Europe in June, when I also attended an academic conference.\n\nBefore the trip, I came across it in an online guide to Vienna. I learned it was one of the city's famous cultural landmarks and wanted to include it while exploring the city. The building has an elegant, traditional appearance, with a sense of symmetry and decorative detail that feels quite different from a modern office block.\n\nWhat appeals to me is the atmosphere. The warm colours and careful design make it feel like a place created for people to pay attention and appreciate something together. Even focusing on the building itself gives me a connection to the city's musical culture.\n\nI stayed in Vienna longer than in Budapest, so Vienna became the main place I would recommend from that trip. The Golden Hall is part of the reason: it represents the cultural side of the city in a very concrete way. I study technology, but I still enjoy seeing how architecture and the arts shape a place's identity.",
+      "chinese": "我喜欢参观的公共建筑是维也纳音乐协会大楼，尤其以金色大厅闻名。今年六月，我独自去欧洲参加学术会议，旅行期间参观了金色大厅。\n\n旅行前，我在一篇维也纳的网上旅游攻略里看到了它。我了解到它是这座城市著名的文化地标之一，便想在游览城市时去看看。建筑外观优雅而传统，对称的布局和装饰细节与现代办公楼很不一样。\n\n吸引我的是那里的氛围。温暖的色彩和精心的设计，让人感觉这是一个可以专注欣赏、与他人共同感受艺术的地方。即使只是观察建筑本身，也能让我感受到这座城市的音乐文化。\n\n我在维也纳停留的时间比布达佩斯更长，所以这次旅行中，我最想推荐的地方是维也纳。金色大厅也是原因之一：它让这座城市的文化特色变得具体可感。虽然我研究的是技术，但我也喜欢观察建筑与艺术如何塑造一个地方独有的风貌。",
+      "keywords": [
+        "Vienna",
+        "Musikverein",
+        "Golden Hall",
+        "architecture",
+        "cultural identity"
+      ],
+      "pending": [
+        "真实金色大厅参观、六月欧洲独行和维也纳停留较久已确认；旅行前通过网上攻略得知、建筑细节及喜爱感受为授权候选。没有在此听音乐会的事实，不加写音乐会。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-122",
+      "part": 3,
+      "title": "受欢迎的人",
+      "region": "大陆",
+      "text": "Is it easier to become popular nowadays?",
+      "english": "It is easier to reach a large audience now because social media allows people to share content quickly. A useful or entertaining post can spread beyond someone's usual circle. But lasting popularity is still difficult, since attention moves fast and competition is strong. Getting noticed once is different from building a reputation that people continue to trust and value.",
+      "chinese": "如今更易接触大受众，因为社交媒体迅速分享内容。有用或有趣帖子可传出惯常圈子。但持久受欢迎仍难，因为注意转移快、竞争强。被注意一次，不同于建立人们持续信任重视的声誉。",
+      "keywords": [
+        "social media",
+        "reach",
+        "competition",
+        "lasting reputation"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-123",
+      "part": 3,
+      "title": "受欢迎的人",
+      "region": "大陆",
+      "text": "What are the qualities of being a good teacher?",
+      "english": "A good teacher understands the subject and can explain it clearly at different levels. Patience matters because students won't all understand at the same speed. They should also listen, give useful feedback, and encourage questions. Being supportive doesn't mean avoiding standards; a strong teacher helps students meet those standards without making them afraid to admit confusion or mistakes.",
+      "chinese": "好老师理解学科，能面向不同水平清楚解释。耐心重要，因为学生理解速度不一。还应倾听、给有效反馈、鼓励提问。支持不代表回避标准；好老师帮助达到标准，同时不让学生害怕承认困惑或错误。",
+      "keywords": [
+        "clear explanation",
+        "patience",
+        "feedback",
+        "standards"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-124",
+      "part": 3,
+      "title": "受欢迎的人",
+      "region": "大陆",
+      "text": "Do you think good teachers are always popular among students?",
+      "english": "Not always. A teacher who gives demanding work may be less immediately popular than one who makes every lesson easy. Students may only appreciate that effort later. On the other hand, a warm and fair teacher often earns respect even with high expectations. Popularity can be a useful sign of connection, but it isn't a complete measure of teaching quality.",
+      "chinese": "不总是。布置要求高任务的老师，可能不如总让课轻松的老师立刻受欢迎。学生或许以后才理解用心。另一方面，温暖公平的老师即使期待高，也常获尊重。受欢迎能体现连接，但不能完整衡量教学质量。",
+      "keywords": [
+        "demanding work",
+        "later appreciation",
+        "fairness",
+        "quality"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-125",
+      "part": 3,
+      "title": "受欢迎的人",
+      "region": "大陆",
+      "text": "Is it important for a teacher to be popular?",
+      "english": "It helps if students feel comfortable approaching a teacher, because they are more likely to ask questions. But being popular shouldn't be the main goal. A teacher still needs to be fair, knowledgeable, and willing to give honest feedback. I would value trust and respect more than entertainment alone, since a friendly relationship should support learning rather than replace it.",
+      "chinese": "学生愿意接近老师有帮助，因为更可能提问。但受欢迎不应是主要目标。老师仍需公平、有知识、愿给诚实反馈。我更重视信任尊重，而非只重娱乐，因为友好关系应支持学习，而非替代。",
+      "keywords": [
+        "approachable",
+        "questions",
+        "honest feedback",
+        "trust"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-126",
+      "part": 3,
+      "title": "受欢迎的人",
+      "region": "大陆",
+      "text": "Why are some students popular in school?",
+      "english": "Some students are popular because they are friendly, helpful, or good at bringing others into conversations. Shared interests and a sense of humour can help too. Talent may attract attention, but how someone treats classmates often determines whether that attention lasts. I think genuine popularity is different from simply being visible or having a large group around you.",
+      "chinese": "有些学生受欢迎，是因为友好、乐于助人，或擅长让别人加入谈话。共同兴趣和幽默也有帮助。才能吸引注意，但如何对待同学常决定关注能否持续。我认为真正受欢迎不同于仅显眼或身边人多。",
+      "keywords": [
+        "friendliness",
+        "helpfulness",
+        "shared interests",
+        "lasting respect"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-127",
+      "part": 3,
+      "title": "钦佩的运动员",
+      "region": "大陆",
+      "text": "Why are there so few top athletes?",
+      "english": "Reaching the highest level requires an unusual combination of ability, training, support, and opportunity. Many people are talented, but injuries or limited resources can interrupt their progress. Elite competition is also demanding because the differences between athletes can be tiny. That is why enjoying a sport and becoming one of its best performers are very different goals.",
+      "chinese": "达到最高水平需要能力、训练、支持和机会的少见组合。许多人有天赋，但受伤或资源有限会中断进步。顶尖竞争要求高，因为运动员间差距可能极小。这就是享受运动和成为最好选手是非常不同目标的原因。",
+      "keywords": [
+        "ability",
+        "training",
+        "support",
+        "opportunity"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-128",
+      "part": 3,
+      "title": "钦佩的运动员",
+      "region": "大陆",
+      "text": "What is the most popular sport in your country?",
+      "english": "I'd choose basketball as one of the most visible popular sports in China, especially among young people. It can be played on school or community courts and encourages social interaction. Table tennis and badminton are also familiar choices. I wouldn't claim a precise national ranking, though, because watching a sport and regularly playing it are different kinds of popularity.",
+      "chinese": "我会选篮球作为中国最显眼的热门运动之一，尤其在年轻人中。它能在学校或社区球场进行，促进社交。乒乓球和羽毛球也常见。但我不会声称精确全国排名，因为看某项运动与经常参与，是不同的流行方式。",
+      "keywords": [
+        "basketball",
+        "courts",
+        "social interaction",
+        "participation"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-129",
+      "part": 3,
+      "title": "钦佩的运动员",
+      "region": "大陆",
+      "text": "Is it easy to identify children’s talents?",
+      "english": "A child's strengths may become visible when they try different activities, but judging talent too early can be misleading. Confidence, previous practice, and support affect performance as well. Adults should observe progress over time rather than label a child after one attempt. Giving children varied opportunities is probably more useful than searching for a single special talent immediately.",
+      "chinese": "孩子尝试不同活动时优势可能显现，但过早判断天赋会误导。信心、既有练习和支持也影响表现。成年人应长期看进展，而非试一次便贴标签。给多种机会可能比立刻寻找唯一特殊天赋更有用。",
+      "keywords": [
+        "varied activities",
+        "practice",
+        "progress",
+        "avoid labels"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-130",
+      "part": 3,
+      "title": "钦佩的运动员",
+      "region": "大陆",
+      "text": "Is talent important in sports?",
+      "english": "Talent can make certain movements or techniques easier to learn, particularly at a competitive level. But it doesn't remove the need for practice, discipline, and good coaching. A talented athlete who rarely trains may be overtaken by someone more consistent. For ordinary people, the main value of sport is participation and health, so exceptional natural ability shouldn't be a requirement.",
+      "chinese": "天赋能让某些动作技术更易学，尤其竞技层面。但不消除练习、自律、教练的需要。不常训练的天赋运动员可能被更坚持的人超过。对普通人，运动主要价值是参与和健康，因此不应要求突出天生能力。",
+      "keywords": [
+        "talent",
+        "practice",
+        "discipline",
+        "participation"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-131",
+      "part": 3,
+      "title": "钦佩的运动员",
+      "region": "大陆",
+      "text": "What qualities should an athlete have?",
+      "english": "An athlete needs discipline, resilience, and the ability to respond calmly under pressure. Team sports also require communication and respect for others. Physical ability is important, but training intelligently and recovering properly matter too. I would add honesty and good sportsmanship, because how someone behaves when they lose can say as much about them as winning does.",
+      "chinese": "运动员需要自律、韧性、压力下冷静回应的能力。团队运动还需沟通尊重。身体能力重要，但聪明训练、适当恢复也重要。我还会加诚实和体育精神，因为输时的行为与赢一样能体现一个人。",
+      "keywords": [
+        "discipline",
+        "resilience",
+        "communication",
+        "sportsmanship"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-132",
+      "part": 3,
+      "title": "钦佩的运动员",
+      "region": "大陆",
+      "text": "Should students have physical education and do sports at school?",
+      "english": "Yes, physical education gives students a chance to move and learn skills they may not discover at home. Sport can also teach cooperation and help break up long periods of sitting. Classes should include different activities and suit different abilities. The aim should be healthy participation, not making students feel embarrassed because they aren't the fastest or strongest.",
+      "chinese": "是的，体育课让学生活动、学习在家未必发现的技能。运动还能教合作、打断久坐。课程应有不同活动、适配不同能力。目标应是健康参与，而非让学生因不是最快最强而尴尬。",
+      "keywords": [
+        "movement",
+        "cooperation",
+        "variety",
+        "inclusion"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-133",
+      "part": 3,
+      "title": "喜欢的公共建筑",
+      "region": "大陆",
+      "text": "Why do people visit historic buildings?",
+      "english": "Historic buildings give people a physical connection to the past. Their design and materials can reveal how earlier generations lived or what they valued. Some visitors also enjoy the beauty and atmosphere. Reading about a place is useful, but standing in the actual space can make its history feel more concrete and encourage questions that a textbook might not raise.",
+      "chinese": "历史建筑让人与过去产生实物联系。设计材料能透露前人如何生活、重视什么。有些访客也享受美与氛围。阅读地点资料有用，但站在真实空间，让历史更具体，也引出教科书未必提出的问题。",
+      "keywords": [
+        "past",
+        "design",
+        "atmosphere",
+        "physical connection"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

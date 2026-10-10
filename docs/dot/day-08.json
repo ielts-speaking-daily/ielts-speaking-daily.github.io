@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 8,
+  "date": "2026-10-16",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-049",
+    "QB-20261008-01-P1-050",
+    "QB-20261008-01-P1-051",
+    "QB-20261008-01-P1-052",
+    "QB-20261008-01-P1-053",
+    "QB-20261008-01-P1-054",
+    "QB-20261008-01-P1-055",
+    "QB-20261008-01-P1-056",
+    "QB-20261008-01-P2-013",
+    "QB-20261008-01-P2-014",
+    "QB-20261008-01-P3-074",
+    "QB-20261008-01-P3-075",
+    "QB-20261008-01-P3-076",
+    "QB-20261008-01-P3-077",
+    "QB-20261008-01-P3-078",
+    "QB-20261008-01-P3-079",
+    "QB-20261008-01-P3-080",
+    "QB-20261008-01-P3-081",
+    "QB-20261008-01-P3-082",
+    "QB-20261008-01-P3-083",
+    "QB-20261008-01-P3-084",
+    "QB-20261008-01-P3-085"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-049",
+      "part": 1,
+      "title": "Music",
+      "region": "大陆",
+      "text": "Do you prefer sad or happy music?",
+      "english": "I tend to prefer cheerful music, although it depends on my mood. A lively tune can make an ordinary break feel more enjoyable without needing much attention.",
+      "chinese": "我倾向于喜欢欢快的音乐，不过也取决于心情。轻快的旋律能让普通的休息更愉快，也不需要太专注。",
+      "keywords": [
+        "cheerful music",
+        "depends on my mood"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-050",
+      "part": 1,
+      "title": "Music",
+      "region": "大陆",
+      "text": "Does happy music make you feel more excited?",
+      "english": "Yes, it can give me a little boost, especially if the rhythm is lively. I wouldn't say it completely changes my mood, but it can make me feel more energetic.",
+      "chinese": "会，尤其是节奏轻快时，它能给我一点鼓舞。我不会说它能彻底改变心情，但它能让我更有精神。",
+      "keywords": [
+        "give me a boost",
+        "feel energetic"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-051",
+      "part": 1,
+      "title": "Music",
+      "region": "大陆",
+      "text": "Have you taken any music classes?",
+      "english": "Only ordinary music lessons at school. I learned some basic songs, but I never trained seriously, so I'd describe myself as a listener rather than a musician.",
+      "chinese": "只上过学校里普通的音乐课。我学过一些简单歌曲，但从没认真训练，所以我更像听众，而不是音乐人。",
+      "keywords": [
+        "music lessons",
+        "trained seriously"
+      ],
+      "pending": [
+        "假设学校音乐课、没有专业训练；音乐教育经历未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-052",
+      "part": 1,
+      "title": "Music",
+      "region": "大陆",
+      "text": "Do you listen to music while doing other things?",
+      "english": "I'd listen while doing something simple, like tidying up. When programming requires serious concentration, though, I'd prefer silence or music without words.",
+      "chinese": "做整理之类简单事情时，我会听音乐。不过编程需要高度专注时，我更喜欢安静，或者没有歌词的音乐。",
+      "keywords": [
+        "serious concentration",
+        "music without words"
+      ],
+      "pending": [
+        "编程爱好真实；听音乐情境及纯音乐偏好为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-053",
+      "part": 1,
+      "title": "Teachers",
+      "region": "大陆",
+      "text": "Do you have a favorite teacher?",
+      "english": "My supervisor would be my choice. I'm a master's student working in artificial intelligence and robotics, and I think of my supervisor as a very good person.",
+      "chinese": "我会选我的导师。我是一名学习人工智能与机器人方向的硕士生，我觉得导师是一个很好的人。",
+      "keywords": [
+        "my supervisor",
+        "a master's student"
+      ],
+      "pending": [
+        "导师很好已确认；是否是最喜欢的老师为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-054",
+      "part": 1,
+      "title": "Teachers",
+      "region": "大陆",
+      "text": "Do you want to be a teacher in the future?",
+      "english": "Possibly, especially in a university setting, but my immediate goal is a PhD abroad. I'd like to deepen my research before deciding exactly what career to pursue.",
+      "chinese": "可能会，尤其是大学教师，但我眼下的目标是海外博士。我想先深入研究，再决定具体从事什么职业。",
+      "keywords": [
+        "my immediate goal",
+        "deepen my research"
+      ],
+      "pending": [
+        "海外博士和深入研究目标真实；愿做大学教师为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-055",
+      "part": 1,
+      "title": "Teachers",
+      "region": "大陆",
+      "text": "Do you have a teacher from your past that you still remember?",
+      "english": "I still remember a secondary-school teacher who explained difficult ideas patiently. That made asking questions feel less embarrassing, which mattered a lot when I was struggling.",
+      "chinese": "我仍记得一位耐心讲解难点的中学老师。这让我提问时不那么尴尬，而在学习遇到困难时，这很重要。",
+      "keywords": [
+        "explain patiently",
+        "asking questions"
+      ],
+      "pending": [
+        "假设中学老师耐心讲解、用户曾求助，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-056",
+      "part": 1,
+      "title": "Teachers",
+      "region": "大陆",
+      "text": "Are you still in touch with your primary school teachers?",
+      "english": "Not regularly. I haven't kept an active connection with them, but I'd be happy to say hello if I met one again and thank them for teaching me.",
+      "chinese": "不经常。我没有与他们持续联系，但如果再次遇到，我会很愿意打招呼，感谢他们教过我。",
+      "keywords": [
+        "an active connection",
+        "say hello"
+      ],
+      "pending": [
+        "假设与小学老师没有持续联系，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-013",
+      "part": 2,
+      "title": "擅长做手工的人",
+      "region": "大陆",
+      "text": "Describe a person who is good at making things by hand\nYou should say:\nWho this person is\nWhat he/she makes\nWhat materials or technologies he/she uses\nAnd why you think this person is good at making things by hand",
+      "english": "A person who is good at making things by hand is a friend from a robotics project. We met through our studies, and I noticed their practical skills while we were working on a small prototype together.\n\nThey make simple robot models and useful little parts for experiments. They use materials such as plastic pieces, wires and small electronic boards, together with basic hand tools. Sometimes they also use computer design software before assembling everything.\n\nWhat impressed me was the way they checked how each part fitted. They didn't simply put the pieces together and hope for the best. If something didn't line up, they adjusted the design and tested it again. The finished object looked simple, but a lot of careful work went into it.\n\nI think they're good at this because they are patient and understand both the design and the practical limits of the materials. I enjoy programming, so it's interesting to see someone turn an idea into a physical object. It reminds me that robotics needs practical skills as well as good software.",
+      "chinese": "一位擅长手工制作的人，是机器人项目中的一位朋友。我们通过学习认识，我在一起制作小原型时注意到了对方的动手能力。\n\n这位朋友制作简单机器人模型，以及实验中实用的小零件。材料包括塑料部件、电线和小电路板，也会用基本手工工具。有时会先用电脑设计软件，再进行组装。\n\n让我印象深刻的是，对方会检查每个部件如何配合，而不是把东西拼起来后碰运气。如果某处对不齐，就调整设计并重新测试。成品看起来简单，但背后有很多细致工作。\n\n我认为这位朋友擅长制作，是因为有耐心，也同时理解设计和材料的实际限制。我喜欢编程，因此很有兴趣看别人把想法变成实物。它提醒我，机器人除了好的软件，还需要动手能力。",
+      "keywords": [
+        "robotics friend",
+        "small prototype",
+        "materials and tools",
+        "check the fit",
+        "ideas into objects"
+      ],
+      "pending": [
+        "机器人项目朋友、原型、材料和合作活动全部为候选"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-014",
+      "part": 2,
+      "title": "和朋友度过的愉快夜晚",
+      "region": "大陆",
+      "text": "Describe an enjoyable evening you had with your friends\nYou should say:\nWhen and where it was\nWhat you did\nWho you spent the evening with\nAnd explain why it was enjoyable",
+      "english": "An enjoyable evening I'd describe was a quiet dinner with two close friends. We met at a small restaurant one weekend, after a period when we'd all been busy with our studies. The plan was simple: have a meal and catch up properly.\n\nWe talked about everyday things rather than trying to discuss serious work the whole time. I mentioned some anime I'd been interested in, and we also shared stories about things that had happened recently. The conversation moved naturally from one topic to another.\n\nAfter dinner, we took a short walk instead of leaving immediately. There wasn't a particular attraction we needed to see. We just continued chatting and enjoyed having time together without a deadline.\n\nIt was enjoyable because I felt relaxed with people who knew me well. I'm usually quiet, but I'm more talkative with close friends, so a small gathering suits me better than a very loud party. I remember the evening for the comfortable conversation, rather than for anything expensive or dramatic. It was a useful reminder that spending time with friends can be simple.",
+      "chinese": "我想描述的一个愉快的夜晚，是和两位好友安静地吃晚饭。那是一个周末，我们在一家小餐馆见面，之前大家都忙于学习。计划很简单：吃顿饭，好好聊聊近况。\n\n我们谈日常话题，而不是一直讨论严肃的工作。我提到一些感兴趣的动漫，也彼此分享最近发生的事情。话题自然地从一个转向另一个。\n\n饭后，我们没有马上离开，而是短暂散步。没有必须看的景点，只是继续聊天，享受不用赶时间的相处。\n\n这个夜晚愉快，是因为与熟悉的人在一起，我感到放松。我通常安静，但在好友面前比较健谈，因此小聚会比很吵的派对更适合我。我记住的是自在的交谈，而不是昂贵的消费或令人惊奇的事情。它提醒我，与朋友相处可以很简单。",
+      "keywords": [
+        "two close friends",
+        "weekend dinner",
+        "anime and daily life",
+        "short walk",
+        "comfortable conversation"
+      ],
+      "pending": [
+        "具体朋友、时间、餐厅、饭后散步为候选；安静但熟人前健谈和动漫兴趣已确认"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-074",
+      "part": 3,
+      "title": "擅长做手工的人",
+      "region": "大陆",
+      "text": "Is it good to have creative people in a team?",
+      "english": "Creative people can suggest approaches that others haven't considered, especially when a team gets stuck. In a technical project, an unusual idea may lead to a better design. However, creativity needs clear discussion and practical testing. The strongest team usually combines people who generate ideas with people who organize, check, and carry them out.",
+      "chinese": "创意人士能提出别人没想到的方法，尤其团队卡住时。在技术项目中，不寻常想法可能带来更好设计。但创意需要清晰讨论和实际测试。最强团队通常把想点子的人，与组织、检查和执行的人结合。",
+      "keywords": [
+        "new approaches",
+        "design",
+        "testing",
+        "team balance"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-075",
+      "part": 3,
+      "title": "擅长做手工的人",
+      "region": "大陆",
+      "text": "What impact can artistic buildings have on society?",
+      "english": "An attractive building can give a place a recognizable identity and encourage people to visit. Public buildings may also make everyday spaces more enjoyable. However, appearance alone isn't enough. A beautiful building that is difficult to use or expensive to maintain can create problems. Good architectural design should combine visual interest with accessibility and a clear practical purpose.",
+      "chinese": "有吸引力的建筑能让地方拥有可辨识的身份、鼓励人来访。公共建筑也让日常空间更愉悦。但外观不够。漂亮却难使用、维护贵的建筑会造成问题。好建筑设计应把视觉趣味、可达性和清晰实际用途结合。",
+      "keywords": [
+        "identity",
+        "visitors",
+        "accessibility",
+        "practical purpose"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-076",
+      "part": 3,
+      "title": "擅长做手工的人",
+      "region": "大陆",
+      "text": "Do children these days still like doing arts and crafts?",
+      "english": "I think many children still enjoy arts and crafts, even with more digital entertainment available. Making a model or painting something gives them a result they can touch and show to others. The challenge is often finding time and materials. When adults provide simple options without demanding perfect results, children may be more willing to try.",
+      "chinese": "我认为许多孩子仍喜欢美术手工，即使数字娱乐更多。做模型或画画能得到摸得着、可向他人展示的成果。难点常在时间和材料。如果成年人提供简单选择、不要求完美结果，孩子可能更愿意尝试。",
+      "keywords": [
+        "hands on",
+        "visible result",
+        "materials",
+        "try"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-077",
+      "part": 3,
+      "title": "擅长做手工的人",
+      "region": "大陆",
+      "text": "Why do some children enjoy making things by hand?",
+      "english": "Making something by hand gives children control over their ideas. They can choose colours, shapes, and details, then see the result of their own effort. It is also different from simply watching a screen. Some enjoy the process, while others feel proud of the finished object. Small successes can encourage them to attempt more difficult projects later.",
+      "chinese": "手工制作让孩子掌控自己的想法，可以选颜色、形状和细节，然后看到努力成果。这也不同于只看屏幕。有些享受过程，另一些为成品自豪。小成功能鼓励日后尝试更难的项目。",
+      "keywords": [
+        "control",
+        "colours",
+        "pride",
+        "small successes"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-078",
+      "part": 3,
+      "title": "擅长做手工的人",
+      "region": "大陆",
+      "text": "Do you think art classes are important for children?",
+      "english": "Yes, art classes give children opportunities to express ideas that may be difficult to explain in words. They can practise observation, imagination, and patience. These abilities are useful beyond art, including in design and problem-solving. The classes should welcome different approaches, though. If every child has to copy the same picture perfectly, much of the creative value is lost.",
+      "chinese": "是的，美术课让孩子有机会表达难以言说的想法，练习观察、想象和耐心。这些能力在艺术以外也有用，包括设计和解题。但课堂应欢迎不同方法。如果每个孩子必须完美复制同一画面，许多创意价值便丢失了。",
+      "keywords": [
+        "expression",
+        "imagination",
+        "patience",
+        "different approaches"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-079",
+      "part": 3,
+      "title": "和朋友度过的愉快夜晚",
+      "region": "大陆",
+      "text": "Why do people need friends?",
+      "english": "Friends provide companionship and a place to talk honestly about everyday problems. They can also introduce us to interests or viewpoints we wouldn't discover alone. A good friendship isn't just about having fun; it includes support and trust. Even fairly independent people may value knowing that someone understands them and will listen when life becomes difficult.",
+      "chinese": "朋友提供陪伴，也让人能坦诚讨论日常问题。他们还介绍独自未必发现的兴趣或观点。好友谊不只是玩乐，也包含支持与信任。即使相当独立的人，也可能重视有人理解自己、在生活困难时愿意倾听。",
+      "keywords": [
+        "companionship",
+        "honesty",
+        "new viewpoints",
+        "trust"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-080",
+      "part": 3,
+      "title": "和朋友度过的愉快夜晚",
+      "region": "大陆",
+      "text": "Do older people prefer spending time with family or with friends?",
+      "english": "Some older people value family time because it gives them closeness and a sense of belonging. Others enjoy friends who share their stage of life and interests. I wouldn't assume one preference applies to everyone. The important thing is having relationships that feel supportive. A healthy social life can include both family members and friends in different ways.",
+      "chinese": "有些老人重视家庭时间，因为带来亲近和归属感。另一些喜欢有相似人生阶段和兴趣的朋友。我不会假定一种偏好适用于所有人。关键是关系让人感到受支持。健康社交生活能以不同方式包含家人与朋友。",
+      "keywords": [
+        "family",
+        "belonging",
+        "shared interests",
+        "support"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-081",
+      "part": 3,
+      "title": "和朋友度过的愉快夜晚",
+      "region": "大陆",
+      "text": "Do young people prefer spending time with family or with friends?",
+      "english": "Young people may spend more leisure time with friends because they share activities and want independence. Friends can also understand pressures related to study or early careers. That doesn't necessarily mean they value family less. Many still turn to family for support. I see it as building a wider social world rather than simply choosing one group over the other.",
+      "chinese": "年轻人可能更常与朋友休闲，因为活动相似、希望独立。朋友也能理解学习或职业初期压力。这不一定代表不重视家人。许多人仍向家庭寻求支持。我认为这是扩大社交世界，而非简单二选一。",
+      "keywords": [
+        "friends",
+        "independence",
+        "shared pressures",
+        "family support"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-082",
+      "part": 3,
+      "title": "和朋友度过的愉快夜晚",
+      "region": "大陆",
+      "text": "What are the differences between young people’s leisure time activities and those of old people?",
+      "english": "Younger people may be more interested in fast-changing entertainment or physically demanding activities. Older people might prefer familiar hobbies or a more relaxed pace. But the overlap is considerable: both can enjoy reading, walking, and travelling. Health, available time, and personal taste often explain the differences better than age alone, so broad categories can be misleading.",
+      "chinese": "年轻人可能更喜欢变化快的娱乐或体力要求高的活动。年长者可能偏熟悉爱好和较慢节奏。但重合很多：双方都能享受阅读、散步、旅行。健康、时间和个人品味常比年龄更能解释差别，所以宽泛分类可能误导。",
+      "keywords": [
+        "pace",
+        "hobbies",
+        "overlap",
+        "personal taste"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-083",
+      "part": 3,
+      "title": "和朋友度过的愉快夜晚",
+      "region": "大陆",
+      "text": "What can we do to bring family members closer together?",
+      "english": "Regular shared time can help, even if it is only a meal or a short conversation. Family members should listen without immediately judging or giving instructions. Doing a small activity together also creates natural opportunities to talk. I think closeness grows through consistent attention and respect, rather than waiting for one expensive holiday to repair every problem.",
+      "chinese": "规律共处时间有帮助，即使只是一顿饭或简短交谈。家人应倾听，不要马上评判或下指令。一起做小活动也创造自然聊天机会。我认为亲近来自持续关注与尊重，而非等一次昂贵假期修复所有问题。",
+      "keywords": [
+        "shared time",
+        "listen",
+        "activities",
+        "consistency"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-084",
+      "part": 3,
+      "title": "和朋友度过的愉快夜晚",
+      "region": "大陆",
+      "text": "How do people get along in a big family?",
+      "english": "A big family needs clear communication and respect for different habits. Sharing chores fairly can prevent one person from feeling responsible for everything. People also need some private space, even when they are close. Disagreements are normal, but discussing the actual problem calmly is better than bringing up every past complaint. Small compromises make everyday life much easier.",
+      "chinese": "大家庭需要清晰沟通、尊重不同习惯。公平分担家务可避免一人感觉承担一切。即使亲近也需要私人空间。分歧正常，但冷静谈实际问题比翻出所有旧抱怨更好。小折中让日常生活容易得多。",
+      "keywords": [
+        "communication",
+        "fair chores",
+        "privacy",
+        "compromise"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-085",
+      "part": 3,
+      "title": "浪费时间的活动",
+      "region": "大陆",
+      "text": "Why do some people refuse to abide by rules?",
+      "english": "Some people think a rule is inconvenient or unlikely to be enforced. Others may not understand its purpose, or believe it is unfair. That doesn't excuse behaviour that harms other people. Clear explanations and consistent enforcement can help. At the same time, authorities should review rules that are confusing or unnecessary, so following them feels reasonable rather than purely restrictive.",
+      "chinese": "有些人觉得规则不方便或不太会执行。另一些不理解目的，或认为不公平。这不能为伤害他人的行为开脱。清楚解释、一致执行有帮助。同时，管理方应审查含糊或无必要的规则，让遵守显得合理，而不只是限制。",
+      "keywords": [
+        "inconvenience",
+        "fairness",
+        "explanation",
+        "enforcement"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

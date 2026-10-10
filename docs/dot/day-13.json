@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 13,
+  "date": "2026-10-21",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-089",
+    "QB-20261008-01-P1-090",
+    "QB-20261008-01-P1-091",
+    "QB-20261008-01-P1-092",
+    "QB-20261008-01-P1-093",
+    "QB-20261008-01-P1-094",
+    "QB-20261008-01-P1-095",
+    "QB-20261008-01-P1-096",
+    "QB-20261008-01-P2-024",
+    "QB-20261008-01-P2-025",
+    "QB-20261008-01-P3-134",
+    "QB-20261008-01-P3-135",
+    "QB-20261008-01-P3-136",
+    "QB-20261008-01-P3-137",
+    "QB-20261008-01-P3-138",
+    "QB-20261008-01-P3-139",
+    "QB-20261008-01-P3-140",
+    "QB-20261008-01-P3-141",
+    "QB-20261008-01-P3-142",
+    "QB-20261008-01-P3-143",
+    "QB-20261008-01-P3-144",
+    "QB-20261008-01-P3-145"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-089",
+      "part": 1,
+      "title": "Public gardens and parks",
+      "region": "大陆",
+      "text": "Did you like going to parks as a child?",
+      "english": "Yes, I liked having space to run around and explore. A trip to the park felt different from staying indoors, even when we only went for a short time.",
+      "chinese": "喜欢，我喜欢有地方跑动、探索。即使只去一小会儿，去公园也与待在室内很不一样。",
+      "keywords": [
+        "run around",
+        "staying indoors"
+      ],
+      "pending": [
+        "候选童年逛公园、跑动探索的经历。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-090",
+      "part": 1,
+      "title": "Public gardens and parks",
+      "region": "大陆",
+      "text": "Do you still like going to parks now?",
+      "english": "Yes, I'd enjoy a quiet walk in a park, especially after spending time at a computer. It would be a simple way to get outside without planning a long trip.",
+      "chinese": "喜欢，尤其在用了一段时间电脑后，我会享受在公园安静散步。这是无需安排长途旅行就能出门的简单方式。",
+      "keywords": [
+        "a quiet walk",
+        "get outside"
+      ],
+      "pending": [
+        "安静性格和电脑爱好真实；逛公园喜好及情境为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-091",
+      "part": 1,
+      "title": "Public gardens and parks",
+      "region": "大陆",
+      "text": "Would you like to see more parks in your city?",
+      "english": "Yes, provided they're well maintained. More green spaces would give people places to relax and walk, but cleanliness and easy access are just as important as the number.",
+      "chinese": "希望，前提是维护良好。更多绿地能让人放松、散步，但清洁和容易到达与数量同样重要。",
+      "keywords": [
+        "green spaces",
+        "well maintained"
+      ],
+      "pending": [
+        "该观点为助手拟稿，请确认是否符合个人立场。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-092",
+      "part": 1,
+      "title": "Public gardens and parks",
+      "region": "大陆",
+      "text": "Are there any parks you want to go to in the future?",
+      "english": "I'd like to visit a park in Vienna if I return there. I spent longer in that city on my European trip, and I'd enjoy exploring it at a slower pace.",
+      "chinese": "如果再去维也纳，我想逛那里的公园。欧洲旅行时我在那座城市待得比较久，也会喜欢慢慢探索它。",
+      "keywords": [
+        "at a slower pace",
+        "return there"
+      ],
+      "pending": [
+        "维也纳停留较久真实；再次前往及公园愿望为候选，未指定园名。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-093",
+      "part": 1,
+      "title": "Public gardens and parks",
+      "region": "大陆",
+      "text": "Would you prefer to play in a personal garden or public garden？",
+      "english": "I'd choose a public garden because it would offer more space without the responsibility of maintaining it. For me, enjoying the place matters more than owning it.",
+      "chinese": "我会选公共花园，因为空间更多，也不需要负责维护。对我来说，享受这个地方比拥有它更重要。",
+      "keywords": [
+        "maintaining it",
+        "owning it"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-094",
+      "part": 1,
+      "title": "Public gardens and parks",
+      "region": "大陆",
+      "text": "How are the parks today different from those you visited as a kid?",
+      "english": "The parks I remember from childhood were quite basic. Many parks now seem to have clearer paths and more varied facilities, although the quality still depends on the location.",
+      "chinese": "我记得小时候的公园设施比较简单。现在很多公园似乎有更清晰的步道和更丰富的设施，不过质量仍取决于地点。",
+      "keywords": [
+        "clearer paths",
+        "varied facilities"
+      ],
+      "pending": [
+        "候选童年公园记忆与今昔设施比较；实际公园未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-095",
+      "part": 1,
+      "title": "Public gardens and parks",
+      "region": "大陆",
+      "text": "What do you like to do when visiting a park？",
+      "english": "I'd mostly walk around and enjoy a break from screens. I wouldn't need an organised activity; a peaceful setting would be enough to make the visit worthwhile.",
+      "chinese": "我主要会散步，让自己暂时离开屏幕。不必安排专门活动；安静的环境就足以让这次游览值得。",
+      "keywords": [
+        "a break from screens",
+        "a peaceful setting"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-096",
+      "part": 1,
+      "title": "Public gardens and parks",
+      "region": "大陆",
+      "text": "Would you like to play in a public garden or park？",
+      "english": "Yes, but I'd prefer walking or sitting quietly to energetic games. A public park would let me enjoy some fresh air while keeping the outing simple.",
+      "chinese": "愿意，但比起激烈游戏，我更喜欢散步或安静坐着。公共公园能让我呼吸些新鲜空气，也让出游保持简单。",
+      "keywords": [
+        "fresh air",
+        "sitting quietly"
+      ],
+      "pending": [
+        "安静性格真实；公园活动偏好为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-024",
+      "part": 2,
+      "title": "印象深刻的聚会",
+      "region": "大陆",
+      "text": "Describe a party for a special event that impressed you a lot\nYou should say:\nWhen and where it was held\nWhat the party was held for\nHow many people attended it\nAnd explain why it impressed you a lot",
+      "english": "A party that impressed me was a small celebration after a group of classmates finished a demanding university project. It took place one evening at a quiet restaurant near campus, and about eight people attended.\n\nThe purpose wasn't to celebrate a competition prize or a major public achievement. We were simply pleased that we had completed the work and could finally relax together. We ordered some food, sat around one table, and talked about the project as well as things unrelated to study.\n\nWhat made the evening memorable was how different everyone seemed outside the working environment. People who had been serious during meetings started telling funny stories. We also thanked one another for small contributions that hadn't received much attention during the busy period.\n\nI'm quiet and rational, but I become more talkative around familiar people. So a small gathering suited me better than a loud event with lots of strangers. I didn't need to compete for a chance to speak, and I could actually hear the conversation. The party impressed me because it turned a shared task into a warmer relationship, without requiring expensive decorations or a complicated programme.",
+      "chinese": "让我印象深刻的一次聚会，是一群同学完成一个有难度的大学项目后举行的小型庆祝。聚会是在某天晚上，地点是校园附近一家安静的餐馆，大约有八个人参加。\n\n我们并不是为了庆祝获得比赛奖项或取得什么重大的公开成就。大家只是很高兴终于完成了工作，可以一起放松一下。我们点了一些食物，围坐在一张桌子旁，既聊了项目，也聊了与学习无关的事情。\n\n那天晚上难忘的地方在于，离开工作环境后，每个人似乎都变得不太一样。平时开会时很严肃的人开始讲有趣的故事。我们也感谢了彼此在忙碌期间做出的那些不太受关注的小贡献。\n\n我比较安静、理性，但在熟人面前会更健谈。因此，相比有很多陌生人的吵闹活动，这样的小聚会更适合我。我不需要争抢发言机会，也能听清大家在说什么。它让我印象深刻，是因为这次聚会让一起完成任务的经历变成了更亲近的关系，而且并不需要昂贵的装饰或复杂的活动安排。",
+      "keywords": [
+        "project finished",
+        "eight classmates",
+        "quiet restaurant",
+        "conversation",
+        "closer relationships"
+      ],
+      "pending": [
+        "项目完成后的聚会、时间地点、约八人、具体互动均为完整授权候选，非已确认经历；性格已确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-025",
+      "part": 2,
+      "title": "有健康习惯和作息的人",
+      "region": "大陆",
+      "text": "Describe a person you know who has healthy habits and a healthy daily routine\nYou should say:\nWho this person is\nHow you got to know each other\nWhat he/she does to keep this lifestyle\nAnd explain how you feel about him/her",
+      "english": "A person I know with healthy habits is a friend from university. We got to know each other through classes and shared study activities, and their routine stood out because it was steady rather than extreme.\n\nThey try to go to bed at a reasonable time and avoid leaving every task until late at night. During the day, they take short breaks from the computer and go for a walk when possible. They also prepare simple meals instead of depending on snacks whenever they are busy.\n\nWhat I find sensible is that they don't treat health as a competition. If a deadline makes one day difficult, they return to their normal habits afterwards rather than give up completely. They plan ahead, but still leave room for meeting friends or enjoying a relaxing evening.\n\nI respect that approach because studying can make it easy to spend a long time sitting and forget basic needs. Their routine shows that looking after yourself doesn't require a complicated system. Small actions repeated over time can be more realistic than a dramatic change that lasts only a few days. I'd like to learn from that consistency.",
+      "chinese": "我认识的一位有健康习惯的人，是大学里的一位朋友。我们通过课程和一起学习认识，对方的作息让我印象深刻，因为这些习惯很稳定，并不是靠极端做法维持的。\n\n这位朋友尽量在合理的时间睡觉，避免把所有任务都拖到深夜。白天会短暂离开电脑休息一下，有机会就出去散步。即使忙碌，也会准备简单的饭菜，而不是总靠零食解决吃饭的问题。\n\n我觉得很合理的一点是，对方不把健康当作一场比赛。如果某天因为赶任务而难以保持作息，之后就恢复平时的习惯，而不是彻底放弃。对方会提前安排事情，但仍然给见朋友或度过一个轻松的晚上留出空间。\n\n我很欣赏这种做法，因为学习时很容易长时间坐着，忘记自己的基本需要。这套作息说明，照顾好自己并不需要复杂的系统。长期坚持的小行动，可能比只持续几天的大幅改变更现实。我想学习的正是这种持续性。",
+      "keywords": [
+        "university friend",
+        "steady routine",
+        "short breaks",
+        "simple meals",
+        "consistency"
+      ],
+      "pending": [
+        "朋友身份关系、认识方式、全部作息和用户评价均为授权候选，需替换或确认；不登记健康习惯真实样本。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-134",
+      "part": 3,
+      "title": "喜欢的公共建筑",
+      "region": "大陆",
+      "text": "Should modern buildings replace traditional buildings?",
+      "english": "Modern buildings should meet current needs, but that doesn't mean traditional buildings should automatically disappear. Important examples can be preserved or adapted for new uses, such as museums or community spaces. Some structures may be unsafe or unsuitable, so careful assessment is necessary. A thoughtful city can provide modern services while keeping the buildings that give it character and historical meaning.",
+      "chinese": "现代建筑应满足当前需求，但传统建筑不应自动消失。重要建筑可保护或改作博物馆、社区空间。有些可能不安全或不适用，所以需谨慎评估。有思考的城市能提供现代服务，同时保留赋予特色与历史意义的建筑。",
+      "keywords": [
+        "preserve",
+        "adapt",
+        "safety",
+        "city character"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-135",
+      "part": 3,
+      "title": "喜欢的公共建筑",
+      "region": "大陆",
+      "text": "Is it better to live in an apartment than in a house?",
+      "english": "An apartment can be convenient in a city because it is often close to transport and services. Shared maintenance may also reduce some responsibilities. A house usually offers more space and privacy, but can require more upkeep. I would judge the choice by location, cost, and daily needs, rather than assume one type of home is always better for everyone.",
+      "chinese": "城市公寓可能方便，因为常近交通服务。共同维护也减少一些责任。独栋房通常空间隐私更多，但维护更多。我会按位置、费用、日常需求判断，而非假定一种住房永远适合所有人。",
+      "keywords": [
+        "location",
+        "services",
+        "privacy",
+        "maintenance"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-136",
+      "part": 3,
+      "title": "喜欢的公共建筑",
+      "region": "大陆",
+      "text": "Is it important to protect historic buildings? Why?",
+      "english": "Yes, historic buildings preserve evidence of a place's development and make its identity visible. Once an important building is destroyed, a photograph can't fully replace it. Protecting it can also support learning and tourism. However, preservation should include proper maintenance and safe access, because simply keeping an old structure without caring for it isn't enough.",
+      "chinese": "是的，历史建筑保存地方发展证据，使身份可见。一旦重要建筑被毁，照片不能完全替代。保护也支持学习和旅游。但保护应包括适当维护与安全访问，因为只保留旧结构而不照料不够。",
+      "keywords": [
+        "evidence",
+        "identity",
+        "irreplaceable",
+        "maintenance"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-137",
+      "part": 3,
+      "title": "喜欢的公共建筑",
+      "region": "大陆",
+      "text": "Why is it hard to protect historic buildings?",
+      "english": "Old materials may need specialized repairs, which can be expensive and slow. Owners also face pressure to use valuable land for new development. A building may need modern safety features without losing its original character. These competing demands make protection difficult. Clear funding, skilled workers, and a realistic plan for how the building will be used can help.",
+      "chinese": "旧材料可能需专业修复，昂贵且缓慢。业主也面对把高价值土地用于新发展的压力。建筑可能需现代安全设施，却要保留原貌。这些竞争需求令保护困难。明确资金、熟练工人、现实用途计划能帮助。",
+      "keywords": [
+        "specialist repair",
+        "cost",
+        "land pressure",
+        "safe use"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-138",
+      "part": 3,
+      "title": "喜欢的公共建筑",
+      "region": "大陆",
+      "text": "Why do some people prefer to live in the countryside?",
+      "english": "The countryside may offer more space, a quieter environment, and easier access to nature. Some people also value familiar community relationships or a slower pace. However, services and job opportunities can be harder to reach. I think the preference is often about the kind of daily life someone wants, provided the practical needs of work, healthcare, and transport can be met.",
+      "chinese": "乡村可能空间更多、环境安静、易接触自然。有些人也重视熟悉社区关系或慢节奏。但服务和就业可能较难获取。我认为偏好常关乎想要何种日常，前提是工作、医疗、交通实际需求能满足。",
+      "keywords": [
+        "space",
+        "quiet",
+        "community",
+        "services"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-139",
+      "part": 3,
+      "title": "印象深刻的聚会",
+      "region": "大陆",
+      "text": "When do people like to hold a party?",
+      "english": "People often hold parties for birthdays, weddings, graduations, or completing an important project. Festivals can also provide a reason to gather. Sometimes there is no major event; friends simply want to spend time together. A party gives people a shared occasion and a break from ordinary routines, though the scale can range from a simple meal to a large celebration.",
+      "chinese": "人们常为生日、婚礼、毕业或完成重要项目办聚会。节日也提供相聚理由。有时无大事，只是朋友想共处。聚会提供共同场合、暂离普通规律，规模从简单一餐到大型庆祝都可以。",
+      "keywords": [
+        "birthdays",
+        "milestones",
+        "friends",
+        "shared occasion"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-140",
+      "part": 3,
+      "title": "印象深刻的聚会",
+      "region": "大陆",
+      "text": "Do you think people nowadays prefer attending big parties or small gatherings with close friends? Why?",
+      "english": "Small gatherings may appeal to people who want relaxed conversation and less preparation. It is easier to hear everyone and spend meaningful time with close friends. Big parties offer a different attraction: excitement, variety, and meeting new people. I suspect many busy people appreciate smaller gatherings, but preferences still vary with the occasion and how much social energy someone has.",
+      "chinese": "小聚会吸引想轻松交谈、少准备的人，更易听到每个人、与好友深度共处。大派对有不同吸引力：刺激、多样、认识新朋友。我猜很多忙碌者重视小聚，但偏好仍随场合与社交精力变化。",
+      "keywords": [
+        "small gathering",
+        "conversation",
+        "new people",
+        "social energy"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-141",
+      "part": 3,
+      "title": "印象深刻的聚会",
+      "region": "大陆",
+      "text": "Are there any differences between how young people and older people celebrate events with parties?",
+      "english": "Younger people may choose more informal activities, music, or online coordination. Older people may prefer a sit-down meal and longer conversations with familiar guests. But family tradition and personal taste can matter more than age. A good celebration usually gives people enough flexibility to enjoy themselves, rather than assuming everyone in one age group wants exactly the same party.",
+      "chinese": "年轻人可能选更随意活动、音乐或线上安排。年长者可能偏坐下来吃饭、与熟客长聊。但家庭传统与个人品味可能比年龄重要。好的庆祝给足灵活性，而非假定同年龄层人人想要完全同样的聚会。",
+      "keywords": [
+        "informal activities",
+        "meal",
+        "tradition",
+        "flexibility"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-142",
+      "part": 3,
+      "title": "印象深刻的聚会",
+      "region": "大陆",
+      "text": "What special events are celebrated in your country?",
+      "english": "In China, national and traditional occasions include National Day, Spring Festival, and the Mid-Autumn Festival. Families also celebrate weddings, birthdays, and important personal achievements. The form varies: some events involve public activities, while others focus on a meal at home. What connects them is a reason to pause ordinary routines and recognize something meaningful with other people.",
+      "chinese": "在中国，全国性和传统场合包括国庆、春节和中秋。家庭也庆祝婚礼、生日、重要个人成就。形式不同：有的含公共活动，有的重在家中一餐。共同点是暂停普通日常、与他人认可有意义的事情。",
+      "keywords": [
+        "National Day",
+        "Spring Festival",
+        "family occasions",
+        "meaning"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-143",
+      "part": 3,
+      "title": "印象深刻的聚会",
+      "region": "大陆",
+      "text": "Do you think it’s a waste of money for governments to celebrate national events?",
+      "english": "Public celebrations can build a sense of connection and help people remember important events. They may also support cultural activities that many residents enjoy. But spending should be reasonable and transparent. An expensive display that neglects basic services is hard to justify. I would support celebrations that are accessible and meaningful, with costs proportionate to their public value.",
+      "chinese": "公共庆祝能建立连接感、帮助记住重要事件，也支持许多居民享受的文化活动。但开支应合理透明。忽略基本服务的昂贵展示难辩护。我会支持可达、有意义、费用与公共价值相称的庆祝。",
+      "keywords": [
+        "connection",
+        "culture",
+        "reasonable spending",
+        "public value"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-144",
+      "part": 3,
+      "title": "印象深刻的聚会",
+      "region": "大陆",
+      "text": "What festivals are the most important for people in your country?",
+      "english": "Spring Festival is especially important because it brings family reunions and marks the start of a new year in the traditional calendar. The Mid-Autumn Festival also emphasizes togetherness, while other festivals carry regional or personal meaning. Not everyone celebrates in the same way. I think the importance comes largely from relationships and shared traditions, rather than the size of the celebration.",
+      "chinese": "春节尤其重要，因为家人团聚、标志传统历法新年。中秋也强调团圆，其他节日有地区或个人意义。不是人人同样庆祝。我觉得重要性主要来自关系与共享传统，而非庆祝规模。",
+      "keywords": [
+        "Spring Festival",
+        "reunion",
+        "tradition",
+        "togetherness"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-145",
+      "part": 3,
+      "title": "有健康习惯和作息的人",
+      "region": "大陆",
+      "text": "Does the government play an important role in promoting healthy lifestyles in a community?",
+      "english": "Yes, governments influence the conditions that make healthy choices possible. Safe parks, walking routes, and reliable public information can help residents become more active. Food safety and accessible services matter too. Education alone is less effective if people have nowhere safe to exercise. Individuals still make choices, but public policy can make those choices easier and more affordable.",
+      "chinese": "是的，政府影响健康选择能否实现的条件。安全公园、步行路线、可靠公共信息帮助居民更活跃。食品安全和可达服务也重要。无安全锻炼场所时，单靠教育效果较低。个人仍做选择，但政策能使选择更容易、可负担。",
+      "keywords": [
+        "parks",
+        "walking routes",
+        "information",
+        "affordability"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "day": 20,
+  "date": "2026-10-28",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-137",
+    "QB-20261008-01-P1-138",
+    "QB-20261008-01-P1-139",
+    "QB-20261008-01-P1-140",
+    "QB-20261008-01-P1-141",
+    "QB-20261008-01-P1-142",
+    "QB-20261008-01-P1-143",
+    "QB-20261008-01-P1-144",
+    "QB-20261008-01-P2-036",
+    "QB-20261008-01-P2-037",
+    "QB-20261008-01-P3-207",
+    "QB-20261008-01-P3-208",
+    "QB-20261008-01-P3-209",
+    "QB-20261008-01-P3-210",
+    "QB-20261008-01-P3-211",
+    "QB-20261008-01-P3-212",
+    "QB-20261008-01-P3-213",
+    "QB-20261008-01-P3-214",
+    "QB-20261008-01-P3-215",
+    "QB-20261008-01-P3-216",
+    "QB-20261008-01-P3-217",
+    "QB-20261008-01-P3-218"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-137",
+      "part": 1,
+      "title": "Morning time",
+      "region": "大陆",
+      "text": "Do you like getting up early in the morning?",
+      "english": "I'd prefer getting up reasonably early, rather than extremely early. A quiet start would suit me, but getting enough sleep matters more than following a particular wake-up time.",
+      "chinese": "我会喜欢适度早起，而不是特别早。安静的开端适合我，但睡够觉比遵循特定起床时间更重要。",
+      "keywords": [
+        "reasonably early",
+        "enough sleep"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-138",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "What subjects are you studying?",
+      "english": "I'm doing a master's in artificial intelligence, particularly robotics. I also enjoy programming, so my academic subject connects with one of the things I like doing in my free time.",
+      "chinese": "我在读人工智能硕士，特别是机器人方向。我也喜欢编程，所以专业与我空闲时喜欢做的一件事有关。",
+      "keywords": [
+        "a master's in",
+        "particularly robotics"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-139",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you like your subject?",
+      "english": "Yes, I'd say it suits me. I enjoy programming, and studying artificial intelligence and robotics gives that interest a clearer direction than simply using a computer for entertainment.",
+      "chinese": "喜欢，我会说它适合我。我喜欢编程，学习人工智能和机器人让这个兴趣比单纯电脑娱乐更有明确方向。",
+      "keywords": [
+        "suits me",
+        "a clearer direction"
+      ],
+      "pending": [
+        "专业喜好待确认；编程爱好真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-140",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Why did you choose to study that subject?",
+      "english": "I liked the idea of using software to solve practical problems. Robotics seemed a good way to connect those things, and I want my research to have real-world value.",
+      "chinese": "我喜欢用软件解决实际问题的想法。机器人似乎能连接这两者，我也希望研究有实际价值。",
+      "keywords": [
+        "practical problems",
+        "real world value"
+      ],
+      "pending": [
+        "选择专业原因为候选；实际应用目标真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-141",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you think that your subject is popular in your country?",
+      "english": "Yes, AI receives a lot of attention in China because it has applications in many industries. Still, popularity alone wouldn't be a good reason to choose a subject.",
+      "chinese": "是的，AI在中国很受关注，因为它能应用于很多行业。不过，单凭热门并不是选专业的好理由。",
+      "keywords": [
+        "applications",
+        "popularity alone"
+      ],
+      "pending": [
+        "个人立场待确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-142",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you have any plans for your studies in the next five years?",
+      "english": "I plan to pursue a PhD abroad. I've been planning this for about a year, and I want to deepen my research in embodied AI and intelligent robots.",
+      "chinese": "我计划海外读博。已经规划这件事大约一年，想深入具身智能和智能机器人研究。",
+      "keywords": [
+        "pursue a PhD",
+        "about a year"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-143",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "What are the benefits of being your age?",
+      "english": "At this stage, being a student gives me time to explore ideas and prepare for my next step. My overseas PhD plan makes that flexibility particularly useful.",
+      "chinese": "现阶段，学生身份让我有时间探索想法、准备下一步。海外博士计划让这种灵活性尤其有用。",
+      "keywords": [
+        "at this stage",
+        "flexibility"
+      ],
+      "pending": [
+        "年龄未知，不填数值；学生阶段优势观点为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-144",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you want to change your major?",
+      "english": "No, I'd prefer to build on my current field. My future research plans involve embodied AI, so moving to an unrelated subject wouldn't fit that direction very well.",
+      "chinese": "不想，我更愿意在当前领域继续发展。未来研究计划涉及具身智能，所以换到无关学科不符合这个方向。",
+      "keywords": [
+        "build on",
+        "an unrelated subject"
+      ],
+      "pending": [
+        "不转专业意向为候选；研究目标真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-036",
+      "part": 2,
+      "title": "拥有成功商业的人",
+      "region": "大陆",
+      "text": "Describe a person you know who has a successful business\nYou should say:\nWho this person is\nHow you got to know him/her\nWhy and how he/she started the business\nWhat business he/she does\nAnd explain why you think the business is successful",
+      "english": "Someone I know with a successful business is a family acquaintance who runs a small computer repair and support shop. I got to know them when they helped someone in my family with a device problem.\n\nThey started the business because they had technical experience and noticed that local customers needed help they could understand. Instead of focusing only on selling new equipment, the shop deals with repairs, setup problems, and basic advice about using computers safely.\n\nAt the beginning, they kept the service range fairly small and relied on careful work and recommendations. What stands out is their way of explaining a problem. They tell customers what is necessary, what can wait, and whether repairing a device is actually worthwhile. That makes people feel less worried about being charged for something they don't need.\n\nI think the business is successful because customers return and recommend it to others. Success here isn't about becoming a huge company immediately. It is about earning a stable reputation and solving everyday problems reliably. As someone interested in computing, I appreciate the combination of technical knowledge and communication. A repair is more useful when the customer also understands how to avoid the same issue again.",
+      "chinese": "我认识的一位生意做得很成功的人，是家里的一位熟人，对方经营一家小型电脑维修与技术支持店。当时家人遇到了设备问题，得到了对方的帮助，我也因此认识了这位店主。\n\n对方开店，是因为有技术经验，也注意到本地顾客需要能够听懂的帮助。店里并不只专注于卖新设备，也会处理维修、设置问题，并提供安全使用电脑的基础建议。\n\n刚开始时，对方把服务范围控制得比较小，主要依靠认真做事和他人推荐。最突出的地方，是解释问题的方式。对方会告诉顾客哪些处理是必要的、哪些可以等等，以及这台设备到底值不值得修。这让顾客不必那么担心被收取不必要的费用。\n\n我认为这门生意成功，是因为顾客会回来，也会推荐给别人。这里的成功并不是马上变成一家大公司，而是建立稳定的口碑，可靠地解决日常问题。我对计算机感兴趣，因此很欣赏技术知识与沟通能力的结合。如果顾客也能理解怎样避免同样的问题再次发生，那么这次维修就更有价值。",
+      "keywords": [
+        "repair shop",
+        "technical experience",
+        "clear explanations",
+        "trust",
+        "returning customers"
+      ],
+      "pending": [
+        "经营者及认识方式、开店经过、服务做法、回头客和成功评价均为完整候选；不写真实收入或已核验商业成果。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-037",
+      "part": 2,
+      "title": "近期改变的计划",
+      "region": "大陆",
+      "text": "Describe a plan that you had to change recently\nYou should say:\nWhen this happened\nWhat made you change the plan\nWhat the new plan was\nAnd how you felt about the change",
+      "english": "A plan I had to change was a weekend visit to a park with a friend. We had arranged it a few weeks ago because we both wanted a break from studying and thought a long walk would be relaxing.\n\nOn the morning of the visit, the weather became very rainy. We could have continued, but walking around outside no longer seemed enjoyable or convenient. We talked briefly and decided to choose an indoor activity instead of cancel everything.\n\nThe new plan was to meet at a library and then have something to eat nearby. We each looked for a book and spent some quiet time reading before talking over a meal. It was a different kind of break, but still gave us time away from our normal tasks.\n\nAt first, I was disappointed because I had been looking forward to fresh air. Once we changed the plan, I felt better. I like reading, and I'm more talkative with familiar people, so the alternative suited me quite well. The experience reminded me that the purpose of a plan can matter more than its exact details. We wanted to relax together, and that was still possible.",
+      "chinese": "我曾经改过一个计划：周末和朋友去公园。几周前，我们约好了这次出行，因为都想从学习中暂时放松一下，觉得走一段长路会很舒服。\n\n出行当天早上下起了大雨。我们本来可以照常出发，但在户外散步已经不太愉快，也不方便。简单商量之后，我们决定改成室内活动，而不是取消整个计划。\n\n新的安排是在图书馆见面，然后去附近吃点东西。我们各自找了一本书，安静地读了一会儿，再边吃饭边聊天。虽然休息的方式变了，我们仍然得以暂时放下平时的任务。\n\n起初我有些失望，因为一直期待出去呼吸新鲜空气。调整安排后，我的心情好了些。我喜欢阅读，而且在熟悉的人面前比较健谈，所以这个替代方案也很适合我。这次经历让我意识到，计划的目的有时比具体细节更重要。我们想一起放松一下，而这个目的仍然实现了。",
+      "keywords": [
+        "weekend park",
+        "rain",
+        "library",
+        "reading",
+        "same purpose"
+      ],
+      "pending": [
+        "周末朋友计划、几周前、雨天、图书馆与用餐经过及感受为授权候选；不声称真实天气或行程。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-207",
+      "part": 3,
+      "title": "想从事医疗行业的人",
+      "region": "大陆",
+      "text": "Do you think governments should put a large amount of money into medical research?",
+      "english": "Yes, medical research deserves substantial support because it can improve prevention, diagnosis and treatment. Some useful projects take years and may not attract immediate private investment. However, funding should be reviewed carefully and shared with essential health services. Research has the greatest value when its results are reliable and can eventually help patients in practice.",
+      "chinese": "应该支持，因为医学研究能改善预防、诊断和治疗。有些有用项目需要多年，未必能立即吸引私人投资。不过，资金分配应谨慎评估，也要兼顾基本医疗服务。当成果可靠，并最终能实际帮助患者时，研究的价值最大。",
+      "keywords": [
+        "prevention and treatment",
+        "private investment",
+        "reliable results"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-208",
+      "part": 3,
+      "title": "想从事医疗行业的人",
+      "region": "大陆",
+      "text": "Why is some doctors’ pay high and others’ low?",
+      "english": "Pay can differ because doctors have different experience, qualifications and responsibilities. A specialist may spend many years developing a particular skill, while working conditions also vary between hospitals and regions. Demand can influence income too. However, a lower salary does not mean a doctor contributes less, so pay should also consider workload and public need.",
+      "chinese": "医生的经验、资质和责任不同，收入就可能不同。专科医生可能多年培养某项技能，医院和地区间的工作条件也不一样，需求也会影响收入。不过，收入低不意味着贡献小，薪酬也应考虑工作量和公共需要。",
+      "keywords": [
+        "qualifications",
+        "working conditions",
+        "public need"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-209",
+      "part": 3,
+      "title": "想从事医疗行业的人",
+      "region": "大陆",
+      "text": "Do you think doctors should be paid more?",
+      "english": "Doctors should receive fair pay that reflects their training, workload and responsibility. Where conditions are difficult or staffing is inadequate, better pay may help retain skilled people. But money alone will not solve every problem. Reasonable working hours, professional support and safe conditions are also necessary if we want doctors to provide consistently good care.",
+      "chinese": "医生应获得与培训、工作量和责任相匹配的公平薪酬。条件困难或人员不足时，提高收入可能帮助留住人才，但钱无法解决所有问题。合理工时、专业支持和安全条件也不可缺少，才能让医生持续提供良好照护。",
+      "keywords": [
+        "fair pay",
+        "retain skilled people",
+        "working hours"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-210",
+      "part": 3,
+      "title": "拥有成功商业的人",
+      "region": "大陆",
+      "text": "Why do some people start their own business?",
+      "english": "Some people want independence and the chance to put their own ideas into practice. Others see an unmet need and believe they can offer a better product or service. Owning a business can also bring financial rewards, but the risks are real. It usually requires handling uncertainty, expenses and responsibilities that an employee may not face.",
+      "chinese": "有人想独立，并把自己的想法付诸实践，也有人发现未被满足的需求，相信能提供更好的产品或服务。创业还可能带来财务回报，但风险真实存在，通常要处理员工未必面对的不确定性、费用和责任。",
+      "keywords": [
+        "independence",
+        "an unmet need",
+        "financial rewards"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-211",
+      "part": 3,
+      "title": "拥有成功商业的人",
+      "region": "大陆",
+      "text": "Should governments provide financial support to start-ups?",
+      "english": "Governments can support promising start-ups, especially when a useful project struggles to attract funding. However, support should have clear conditions and checks, rather than reward every new company automatically. Training, advice and access to shared facilities may sometimes help more than cash. The aim should be creating lasting value, not keeping weak businesses alive indefinitely.",
+      "chinese": "政府可以支持有潜力的初创企业，尤其是有用项目难以融资时。但支持需要明确条件和监督，而不是自动奖励所有新公司。培训、建议和共享设施，有时比现金更有效。目标应是创造长期价值，而非无限维持弱势企业。",
+      "keywords": [
+        "clear conditions",
+        "shared facilities",
+        "lasting value"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-212",
+      "part": 3,
+      "title": "拥有成功商业的人",
+      "region": "大陆",
+      "text": "Do most people prefer shopping at big stores or small stores?",
+      "english": "I think the preference depends on what people need. Large stores can offer a wider selection and convenient comparison, while small shops may provide more personal service or specialised products. Price, distance and trust also matter. Someone might buy everyday supplies from a supermarket but choose a small local shop for a particular repair or unusual item.",
+      "chinese": "我认为偏好取决于需求。大店选择更多、方便比较，小店则可能提供更贴心的服务或专门产品。价格、距离和信任也重要。有人会在超市买日用品，却到本地小店维修，或购买特别的物品。",
+      "keywords": [
+        "a wider selection",
+        "personal service",
+        "price and trust"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-213",
+      "part": 3,
+      "title": "拥有成功商业的人",
+      "region": "大陆",
+      "text": "What makes a business successful?",
+      "english": "A successful business needs to understand a real customer need and deliver something consistently useful. Good financial management matters because even a popular product can fail if costs are uncontrolled. Staff and reliable service are important too. I think lasting success comes from earning trust and adapting sensibly, rather than chasing every new trend without a clear purpose.",
+      "chinese": "成功企业需要了解真实需求，并持续提供有用的东西。财务管理也重要，因为成本失控时，再受欢迎的产品也可能失败。员工和可靠服务同样关键。我认为长期成功来自赢得信任和合理适应，而非没有方向地追逐每个潮流。",
+      "keywords": [
+        "customer needs",
+        "financial management",
+        "earn trust"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-214",
+      "part": 3,
+      "title": "拥有成功商业的人",
+      "region": "大陆",
+      "text": "What makes a business fail?",
+      "english": "A business may fail when it offers something customers do not really need or cannot afford. Poor cash management and expanding too quickly can create problems as well. Competition and unexpected changes also matter. Failure is not always caused by laziness; sometimes the original idea needs testing earlier so the owner can change direction before losing too much.",
+      "chinese": "企业可能因为提供顾客不需要、或买不起的东西而失败。现金管理不当、扩张过快也会出问题，竞争和意外变化也有影响。失败不一定源于懒惰，有时应更早测试想法，让经营者在损失过大之前调整方向。",
+      "keywords": [
+        "cash management",
+        "expand too quickly",
+        "test the idea"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-215",
+      "part": 3,
+      "title": "拥有成功商业的人",
+      "region": "大陆",
+      "text": "Is it easy to set up a new business in your country?",
+      "english": "It depends on the kind of business. A small service business may need less initial money than a factory or a heavily regulated activity. In China, finding customers and managing competition can still be challenging even when the basic setup is manageable. I would distinguish opening a business from making it sustainable; the second task is usually harder.",
+      "chinese": "取决于业务类型。小型服务业的启动资金可能低于工厂或监管严格的行业。在中国，即使基本设立过程可以处理，寻找顾客和应对竞争仍可能很难。我会区分开业和持续经营，后者通常更困难。",
+      "keywords": [
+        "initial money",
+        "competition",
+        "making it sustainable"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-216",
+      "part": 3,
+      "title": "近期改变的计划",
+      "region": "大陆",
+      "text": "Do people often change their plans?",
+      "english": "Yes, plans often change because people receive new information or circumstances turn out differently from expected. An appointment may move, a deadline may change, or a better option may appear. Adjusting a plan is not necessarily a sign of poor organisation. The important thing is to know which goals should stay fixed and which details can remain flexible.",
+      "chinese": "会。人们获得新信息，或情况与预期不同时，计划常会改变。预约可能调整、截止时间可能变化，也可能出现更好的选项。调整计划不一定意味着组织不善，关键是知道哪些目标应保持，哪些细节可以灵活改变。",
+      "keywords": [
+        "new information",
+        "adjust a plan",
+        "remain flexible"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-217",
+      "part": 3,
+      "title": "近期改变的计划",
+      "region": "大陆",
+      "text": "Would you tell others if you change your plan?",
+      "english": "Yes, if the change affects someone else, I would let them know as soon as possible. That gives them time to adjust their own arrangements and avoids unnecessary waiting. I would also explain the new plan clearly. For something entirely private, an announcement is not needed, but commitments involving other people should be handled with consideration.",
+      "chinese": "如果变化影响他人，我会尽快告知，让他们有时间调整自己的安排，也避免无谓等待。我还会清楚说明新计划。完全私人的事情无需宣布，但涉及他人的承诺应体贴地处理。",
+      "keywords": [
+        "as soon as possible",
+        "adjust arrangements",
+        "commitments"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-218",
+      "part": 3,
+      "title": "近期改变的计划",
+      "region": "大陆",
+      "text": "Why do you think parents still make plans for their children nowadays?",
+      "english": "Parents often want to protect their children from mistakes and help them prepare for the future. They may also feel that their own experience gives them a useful perspective. However, planning everything can prevent children from becoming independent. I think parents should discuss options and explain risks, while gradually allowing children to make age-appropriate choices themselves.",
+      "chinese": "家长常想保护孩子免于犯错，并帮助准备未来，也可能觉得自身经验能提供有用视角。但包办所有计划会妨碍孩子独立。我认为家长应讨论选项、解释风险，同时逐步让孩子自主作出符合年龄的选择。",
+      "keywords": [
+        "protect children",
+        "discuss options",
+        "age-appropriate choices"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

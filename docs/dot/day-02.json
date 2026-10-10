@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "day": 2,
+  "date": "2026-10-10",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-009",
+    "QB-20261008-01-P1-010",
+    "QB-20261008-01-P1-011",
+    "QB-20261008-01-P1-012",
+    "QB-20261008-01-P1-013",
+    "QB-20261008-01-P1-014",
+    "QB-20261008-01-P1-015",
+    "QB-20261008-01-P1-016",
+    "QB-20261008-01-P2-003",
+    "QB-20261008-01-P2-004",
+    "QB-20261008-01-P3-013",
+    "QB-20261008-01-P3-014",
+    "QB-20261008-01-P3-015",
+    "QB-20261008-01-P3-016",
+    "QB-20261008-01-P3-017",
+    "QB-20261008-01-P3-018",
+    "QB-20261008-01-P3-019",
+    "QB-20261008-01-P3-020",
+    "QB-20261008-01-P3-021",
+    "QB-20261008-01-P3-022",
+    "QB-20261008-01-P3-023",
+    "QB-20261008-01-P3-024"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 2,
+    "p3": 12
+  },
+  "minutes": 37.8,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-009",
+      "part": 1,
+      "title": "Tiredness",
+      "region": "大陆",
+      "text": "What do you do when you feel tired?",
+      "english": "I'd take a short break from my computer and read something light or watch an episode of anime. Changing activities helps me feel less mentally exhausted.",
+      "chinese": "我会暂时离开电脑休息一下，读点轻松的内容，或者看一集动漫。换一种活动能让我感觉不那么疲惫。",
+      "keywords": [
+        "a short break",
+        "mentally exhausted"
+      ],
+      "pending": [
+        "爱好已确认；疲劳时采用这些活动及其效果为候选。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-010",
+      "part": 1,
+      "title": "Tiredness",
+      "region": "大陆",
+      "text": "When would you feel tired?",
+      "english": "I'd probably feel tired after concentrating on programming for a long time. Even if I'm enjoying it, solving the same problem for hours can be mentally demanding.",
+      "chinese": "长时间专注编程后，我可能会感到疲惫。即使我喜欢编程，花几个小时解决同一个问题也很费脑力。",
+      "keywords": [
+        "concentrate on",
+        "mentally demanding"
+      ],
+      "pending": [
+        "长时间编程、疲劳触发情境为候选，未确认实际频率。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-011",
+      "part": 1,
+      "title": "Tiredness",
+      "region": "大陆",
+      "text": "Do you often feel tired?",
+      "english": "Sometimes, especially when my studies are demanding, but I wouldn't say I'm tired all the time. I'd try to take breaks before my concentration drops too much.",
+      "chinese": "有时会，尤其是在学习任务较重时，但我不会说自己一直很累。我会尽量在注意力明显下降前休息一下。",
+      "keywords": [
+        "all the time",
+        "concentration drops"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-012",
+      "part": 1,
+      "title": "Tiredness",
+      "region": "大陆",
+      "text": "When you feel tired, do you still go out with your friends?",
+      "english": "It depends on how tired I am. If I'm just mentally tired, a short conversation could help, but if I need sleep, I'd rather stay home and rest.",
+      "chinese": "这取决于我有多累。如果只是脑力疲劳，简短聊天可能有帮助；但如果我需要睡觉，我会更愿意留在家里休息。",
+      "keywords": [
+        "it depends on",
+        "stay home"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-013",
+      "part": 1,
+      "title": "Shoes",
+      "region": "大陆",
+      "text": "Which do you prefer, fashionable shoes or comfortable shoes?",
+      "english": "I'd choose comfortable shoes. I like a simple style, but comfort matters more, especially when I'm walking around a city or spending a whole day away from home.",
+      "chinese": "我会选舒适的鞋。我喜欢简单的款式，但舒适更重要，尤其是在城里步行或整天在外面的时候。",
+      "keywords": [
+        "comfortable shoes",
+        "a simple style"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-014",
+      "part": 1,
+      "title": "Shoes",
+      "region": "大陆",
+      "text": "How much money do you usually spend on shoes?",
+      "english": "Around three to five hundred yuan would be a reasonable budget for me. I'd rather buy a comfortable pair that lasts than pay extra just for a famous brand.",
+      "chinese": "对我来说，三百到五百元左右会是合理的预算。我宁愿买一双舒适耐穿的鞋，也不愿只为知名品牌多花钱。",
+      "keywords": [
+        "a reasonable budget",
+        "pay extra"
+      ],
+      "pending": [
+        "300–500元仅为预算候选；消费金额和品牌态度未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-015",
+      "part": 1,
+      "title": "Shoes",
+      "region": "大陆",
+      "text": "Have you ever bought shoes online?",
+      "english": "Yes, I once ordered a pair online after checking the size guide and reviews. They fitted reasonably well, but I still think trying shoes on is safer.",
+      "chinese": "买过，我曾查看尺码指南和评价后，在网上订过一双鞋。它们还算合脚，但我仍觉得试穿更稳妥。",
+      "keywords": [
+        "a size guide",
+        "try shoes on"
+      ],
+      "pending": [
+        "假设网购鞋、查评价且合脚的经历，未确认。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-016",
+      "part": 1,
+      "title": "Shoes",
+      "region": "大陆",
+      "text": "Do you like buying shoes? How often?",
+      "english": "Not particularly. I'd buy shoes when my old pair wears out rather than as a hobby. Comfort and usefulness would matter more to me than following the latest fashion.",
+      "chinese": "不算特别喜欢。我会在旧鞋穿坏时买新鞋，而不是把买鞋当爱好。比起追赶最新潮流，我更在意舒适和实用。",
+      "keywords": [
+        "wears out",
+        "following fashion"
+      ],
+      "pending": [
+        "该题中的个人偏好或习惯为候选，请确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-003",
+      "part": 2,
+      "title": "快乐人士",
+      "region": "大陆",
+      "text": "Describe a happy person you know\nYou should say:\nWho this person is\nWhat he/she is like\nHow he/she shows happiness\nAnd explain why you think he/she is a happy person",
+      "english": "A happy person I'd like to describe is my mother. We live together in an apartment in Guangdong, so she is someone I know well. She is warm and able to enjoy small things in daily life.\n\nFor example, she becomes cheerful when we have a relaxed meal or talk about something interesting. She doesn't need a big celebration to show that she's enjoying herself. She smiles, makes little comments and keeps the conversation going.\n\nWhat I find appealing is that her happiness feels fairly steady. It doesn't mean she never has worries. Instead, she tends to look for something manageable to do, rather than staying upset about everything at once.\n\nI'm usually quiet and quite rational, but I can be talkative with people I'm close to. That makes our conversations a useful way for me to relax. I think she's a happy person because she notices everyday pleasures and makes people around her feel at ease. It's a kind of happiness that's simple and easy to share.",
+      "chinese": "我想描述的一位快乐的人是我的母亲。我们一起住在广东的一套公寓里，因此她是我很熟悉的人。她待人温暖，也能从日常小事中获得快乐。\n\n例如，我们轻松吃顿饭或聊到有趣的事时，她会变得很开心。她不需要盛大的庆祝来表现自己享受生活。她会微笑，发表几句自己的看法，让聊天自然地继续下去。\n\n我很欣赏的一点是，她的快乐比较稳定。这不意味着她从不担忧。她会寻找自己能处理的事情，而不是一下子对所有事情都感到烦恼。\n\n我平常安静、比较理性，但在亲近的人面前会比较健谈。因此，我们的交谈是我放松的一种方式。我认为她是快乐的人，因为她会注意日常的小乐趣，也让周围的人感到自在。这种快乐简单，也容易分享。",
+      "keywords": [
+        "mother",
+        "small pleasures",
+        "relaxed conversations",
+        "steady happiness",
+        "feel at ease"
+      ],
+      "pending": [
+        "母亲的性格、表现快乐的具体方式和日常交谈场景待确认；同住事实已确认"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-004",
+      "part": 2,
+      "title": "看过的名人采访",
+      "region": "大陆",
+      "text": "Describe a time you watched a famous person being interviewed\nYou should say:\nWho the famous person was\nWhat the interview was about\nWhen and where you watched the interview\nAnd explain how you felt about the interview",
+      "english": "I'd like to describe an online interview with Fei-Fei Li, who is well known for her work in artificial intelligence. I watched it on my computer at home a few months ago, while looking for something related to my studies.\n\nThe interview was about AI, its possibilities and the importance of thinking about people when developing technology. I was interested because my master's research is related to robotics, and I want to continue studying embodied AI in the future.\n\nWhat appealed to me was the connection between technical work and real-world needs. It's easy to become focused on whether a system achieves a good result in a test. But we also need to consider whether it is useful, reliable and suitable for the people who will use it.\n\nI found the interview encouraging because it gave me a broader way to think about my subject. It also reminded me that a researcher needs to explain ideas clearly, not just understand the technical details. I'd like to watch more conversations like this because they make academic work feel connected to wider issues.",
+      "chinese": "我想描述一段与李飞飞有关的网络采访，她因人工智能领域的工作而知名。几个月前，我在家里的电脑上观看了采访，当时是在找与专业相关的内容。\n\n采访讨论人工智能、它的可能性，以及开发技术时考虑人的重要性。我感兴趣，是因为我的硕士研究与机器人相关，也希望未来继续研究具身智能。\n\n吸引我的是技术工作与现实需求之间的联系。我们很容易只关注系统在测试中是否取得好结果，但也需要考虑它是否有用、可靠，是否适合未来使用它的人。\n\n这段采访让我受到鼓励，因为它让我以更广的视角思考专业。它也提醒我，研究者不仅要理解技术细节，还要清楚解释想法。我想多看这样的对谈，因为它们能让学术工作与更广泛的问题产生联系。",
+      "keywords": [
+        "Fei-Fei Li",
+        "online interview",
+        "AI and people",
+        "real-world needs",
+        "clear explanations"
+      ],
+      "pending": [
+        "观看约几个月前为候选时间；是否看过此类真实采访及实际视频内容待确认，未核对某一采访链接，未编造直接引语"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-013",
+      "part": 3,
+      "title": "快乐人士",
+      "region": "大陆",
+      "text": "When do you think people are happiest?",
+      "english": "People are often happiest when they feel connected to others or see progress in something they care about. Finishing a difficult task can bring satisfaction, while a relaxed meal with family can create a different kind of happiness. It doesn't always require a major achievement. Feeling safe and having time to enjoy ordinary life can matter just as much.",
+      "chinese": "人们与他人建立联系，或在重视的事情上看到进展时，往往最开心。完成困难任务能带来满足，而与家人轻松吃饭能产生另一种幸福。幸福不一定需要重大成就。感到安全、有时间享受普通生活，同样可能重要。",
+      "keywords": [
+        "connection",
+        "progress",
+        "family",
+        "ordinary life"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-014",
+      "part": 3,
+      "title": "快乐人士",
+      "region": "大陆",
+      "text": "How can the arts spread positive emotions in society?",
+      "english": "Music and theatre can help people share feelings even when their backgrounds are different. A cheerful performance may lift people's mood, while a moving story can make them more understanding. Public concerts and exhibitions also give communities something to enjoy together. Of course, the effect depends on the work and the audience, rather than art automatically making everyone happy.",
+      "chinese": "音乐和戏剧能够帮助不同背景的人分享感受。欢快的表演可能改善情绪，感人的故事能让人更善解人意。公共音乐会和展览也给社区共同欣赏的内容。当然，效果取决于作品和观众，并不是艺术自动让所有人快乐。",
+      "keywords": [
+        "shared feelings",
+        "performance",
+        "empathy",
+        "community"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-015",
+      "part": 3,
+      "title": "快乐人士",
+      "region": "大陆",
+      "text": "Do you think teachers are able to spot the unhappy children?",
+      "english": "Teachers may notice changes such as a child becoming quiet, avoiding classmates, or losing interest in lessons. However, those signs don't always explain what is wrong. A teacher should talk gently with the child and, when appropriate, involve the parents. Observation can be helpful, but it shouldn't turn into assuming that every quiet student is unhappy.",
+      "chinese": "老师可能注意到孩子变沉默、避开同学或对课堂失去兴趣等变化。但这些表现不一定说明出了什么问题。老师应温和地与孩子交谈，适当时联系家长。观察有帮助，但不应据此认定所有安静的学生都不开心。",
+      "keywords": [
+        "changes",
+        "quiet",
+        "gentle conversation",
+        "avoid assumptions"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-016",
+      "part": 3,
+      "title": "快乐人士",
+      "region": "大陆",
+      "text": "Should teachers know what children are doing all the time?",
+      "english": "Teachers need to know enough to keep children safe, especially during lessons and school activities. But watching them constantly would be unrealistic and could limit their independence. Older children also need some privacy. Clear rules, regular communication, and a way to ask for help seem more useful than trying to know every detail of a child's day.",
+      "chinese": "老师需要掌握足够信息来保障孩子安全，尤其是课堂和学校活动期间。但持续监视不现实，也可能限制独立性。大一些的孩子也需要隐私。明确规则、定期沟通和求助渠道，比试图知道孩子一天中的每个细节更有用。",
+      "keywords": [
+        "safety",
+        "independence",
+        "privacy",
+        "communication"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-017",
+      "part": 3,
+      "title": "快乐人士",
+      "region": "大陆",
+      "text": "What would make a student happy at school?",
+      "english": "A student is more likely to feel happy when they have friends, feel accepted, and understand what they are learning. Supportive teachers can make mistakes feel less frightening. Activities outside lessons also help, because children can discover interests and strengths. Good marks may bring happiness, but a school shouldn't make students feel that marks are their only value.",
+      "chinese": "有朋友、被接纳、理解所学内容时，学生更容易快乐。支持学生的老师能让犯错不那么可怕。课外活动也有帮助，因为孩子能发现兴趣和优势。好成绩可能带来快乐，但学校不应让学生觉得成绩是唯一价值。",
+      "keywords": [
+        "friends",
+        "acceptance",
+        "support",
+        "interests"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-018",
+      "part": 3,
+      "title": "快乐人士",
+      "region": "大陆",
+      "text": "Do you think doing a job that you like is more important than other things?",
+      "english": "Enjoying a job is important because people spend a large part of their lives working. It can also make them more willing to improve. However, salary, stability, and working conditions matter too. A fascinating job with constant exhaustion may not be a good choice. I'd look for a reasonable balance between interest and a sustainable way of living.",
+      "chinese": "喜欢工作很重要，因为工作占人生很大一部分，也能让人更愿意进步。但薪资、稳定性和工作条件同样重要。令人着迷却使人持续疲惫的工作，未必是好选择。我会寻找兴趣和可持续生活方式之间的合理平衡。",
+      "keywords": [
+        "interest",
+        "salary",
+        "conditions",
+        "balance"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-019",
+      "part": 3,
+      "title": "看过的名人采访",
+      "region": "大陆",
+      "text": "What should people wear to a job interview?",
+      "english": "People should wear clean, neat clothes that suit the company and the role. A formal office may expect a suit, while a technical workplace may accept something simpler. The main point is to look prepared and respectful. Clothes shouldn't distract the interviewer, but candidates also need to feel comfortable enough to focus on the conversation.",
+      "chinese": "人们应穿干净整洁、符合公司和岗位的衣服。正式办公室可能要求西装，技术工作场所可能接受简单些的穿着。关键是显得准备充分、尊重对方。衣服不应分散面试官注意力，候选人也要足够舒适，以专注交谈。",
+      "keywords": [
+        "neat",
+        "role",
+        "respect",
+        "comfort"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-020",
+      "part": 3,
+      "title": "看过的名人采访",
+      "region": "大陆",
+      "text": "Why do we need to attend interviews when applying for jobs?",
+      "english": "An application shows someone's qualifications, but an interview reveals how they explain ideas and respond to questions. Employers can learn whether the person understands the job and can work with others. Candidates also get a chance to ask about the workplace. So a good interview helps both sides decide whether the match is suitable.",
+      "chinese": "申请材料展示资历，面试则能体现一个人如何解释想法、回应问题。雇主可以了解对方是否理解工作、能否与人合作。候选人也有机会询问工作环境。因此，好的面试帮助双方判断彼此是否合适。",
+      "keywords": [
+        "qualifications",
+        "communication",
+        "teamwork",
+        "mutual fit"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-021",
+      "part": 3,
+      "title": "看过的名人采访",
+      "region": "大陆",
+      "text": "What should people do to prepare for a job interview?",
+      "english": "They should understand the role and learn the basic facts about the company. It also helps to prepare a few clear examples of their skills, such as solving a problem or working in a team. Practising aloud can make answers more natural. Finally, checking the location or online meeting link prevents avoidable stress on the day.",
+      "chinese": "应了解岗位，并掌握公司的基本情况。准备几个清晰的技能例子也有帮助，比如解决问题或团队合作。出声练习能使回答更自然。最后，提前检查地点或线上会议链接，可以避免当天不必要的紧张。",
+      "keywords": [
+        "research",
+        "examples",
+        "practise aloud",
+        "check details"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-022",
+      "part": 3,
+      "title": "看过的名人采访",
+      "region": "大陆",
+      "text": "Why do some people think interviews are a waste of time?",
+      "english": "Some people feel interviews reward confidence more than actual ability. A nervous but capable candidate may perform badly, while someone with rehearsed answers may look impressive. Interviews can also take a lot of time. I can understand that criticism, though practical tasks and clear assessment criteria can make an interview more useful and fair.",
+      "chinese": "有些人认为面试更奖励自信，而非实际能力。紧张但有能力的候选人可能发挥不好，背好回答的人却显得出色。面试也可能耗费很多时间。我理解这些批评，不过实践任务和明确评估标准能让面试更有用、更公平。",
+      "keywords": [
+        "confidence",
+        "ability",
+        "nerves",
+        "practical tasks"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-023",
+      "part": 3,
+      "title": "看过的名人采访",
+      "region": "大陆",
+      "text": "Why do some people dislike being interviewed?",
+      "english": "Being interviewed can feel uncomfortable because people know they are being judged. They may worry about making mistakes or answering unexpected questions. Some also dislike talking about themselves in front of strangers. A friendly interviewer and clear questions can reduce that pressure. Familiarity helps too, because the process usually feels less frightening after some practice.",
+      "chinese": "接受面试可能让人不舒服，因为他们知道自己正被评判。他们可能担心犯错或回答意外问题，有些人也不喜欢在陌生人面前谈自己。友好的面试官和清晰的问题能减轻压力。熟悉流程也有帮助，练习后通常不那么可怕。",
+      "keywords": [
+        "judgment",
+        "unexpected questions",
+        "strangers",
+        "practice"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-024",
+      "part": 3,
+      "title": "看过的名人采访",
+      "region": "大陆",
+      "text": "What kinds of people are usually interviewed?",
+      "english": "Job applicants are probably the most obvious group, but interviews happen in many other settings. Journalists interview public figures and people involved in important events. Researchers interview participants to understand their experiences. University applicants may also face interviews. In each case, the interviewer wants information that is harder to get from a form or written document alone.",
+      "chinese": "求职者可能是最明显的一类，但很多其他场景也有访谈。记者采访公众人物和重要事件相关者。研究者访谈参与者以理解经历。大学申请者也可能参加面试。每种情况下，采访者都想获得仅凭表格或书面文件难以取得的信息。",
+      "keywords": [
+        "applicants",
+        "journalists",
+        "research",
+        "information"
+      ],
+      "pending": [
+        "观点是否符合用户看法待确认；尚未作答或录音验证"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

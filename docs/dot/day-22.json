@@ -1,0 +1,451 @@
+{
+  "schemaVersion": 1,
+  "day": 22,
+  "date": "2026-10-30",
+  "kind": "new",
+  "questionIds": [
+    "QB-20261008-01-P1-145",
+    "QB-20261008-01-P1-146",
+    "QB-20261008-01-P1-147",
+    "QB-20261008-01-P1-148",
+    "QB-20261008-01-P1-149",
+    "QB-20261008-01-P1-150",
+    "QB-20261008-01-P1-151",
+    "QB-20261008-01-P1-152",
+    "QB-20261008-01-P2-038",
+    "QB-20261008-01-P2-039",
+    "QB-20261008-01-P2-040",
+    "QB-20261008-01-P3-219",
+    "QB-20261008-01-P3-220",
+    "QB-20261008-01-P3-221",
+    "QB-20261008-01-P3-222",
+    "QB-20261008-01-P3-223",
+    "QB-20261008-01-P3-224",
+    "QB-20261008-01-P3-225",
+    "QB-20261008-01-P3-226",
+    "QB-20261008-01-P3-227",
+    "QB-20261008-01-P3-228",
+    "QB-20261008-01-P3-229",
+    "QB-20261008-01-P3-230"
+  ],
+  "counts": {
+    "p1": 8,
+    "p2": 3,
+    "p3": 12
+  },
+  "minutes": 39.3,
+  "notes": "先尝试出声，再按需查看中英答案；每题单独记状态。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Fixed mainland first-pass questions.",
+  "questions": [
+    {
+      "id": "QB-20261008-01-P1-145",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you prefer to study in the mornings or in the afternoons?",
+      "english": "I'd prefer mornings for tasks that require careful thought. Finishing one demanding task early would be satisfying, and I could leave simpler jobs for later in the day.",
+      "chinese": "我更喜欢上午做需要认真思考的任务。早点完成一项费脑力的事会有成就感，简单工作可以留到当天晚些时候。",
+      "keywords": [
+        "careful thought",
+        "a demanding task"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-146",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "How much time do you spend on your studies each week?",
+      "english": "Around thirty to forty hours would be a reasonable estimate for a busy week. I'd count focused study and programming, rather than all the time spent sitting at my desk.",
+      "chinese": "忙的一周，三十到四十小时会是合理估计。我会计算专注学习和编程时间，而不是全部坐在桌前的时间。",
+      "keywords": [
+        "a reasonable estimate",
+        "focused study"
+      ],
+      "pending": [
+        "30–40小时仅为候选用时，非实际统计，不登记成学习时长。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-147",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Are you looking forward to working?",
+      "english": "Eventually, yes, but my immediate plan is a PhD abroad. I want to develop my research on embodied AI before deciding exactly what professional role would suit me.",
+      "chinese": "长远来说期待，但眼下计划是海外博士。我想先发展具身智能研究，再决定什么职业角色适合自己。",
+      "keywords": [
+        "my immediate plan",
+        "professional role"
+      ],
+      "pending": [
+        "对工作的期待和职业决策方式为候选；博士目标真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-148",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "What technology do you use when you study?",
+      "english": "A computer would be my main tool, especially for programming. For AI-related study, I'd also value software that helps organise information and explore ideas more efficiently.",
+      "chinese": "电脑会是我的主要工具，尤其是编程时。AI学习中，我也会看重能更高效整理信息、探索想法的软件。",
+      "keywords": [
+        "my main tool",
+        "organise information"
+      ],
+      "pending": [
+        "实际学习工具未确认；专业、编程爱好真实。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-149",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "What changes would you like to see in your school?",
+      "english": "I'd like more quiet places where students can concentrate without interruptions. Reliable internet and comfortable desks would help too, especially when a task takes more than a short session.",
+      "chinese": "我希望有更多学生能不受打扰地专注的安静地方。可靠网络和舒适桌椅也有用，尤其是任务不能短时间完成时。",
+      "keywords": [
+        "quiet places",
+        "without interruptions"
+      ],
+      "pending": [
+        "该偏好或习惯为完整候选，待确认是否符合本人。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-150",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "What work do you do?",
+      "english": "My main role at the moment is as a master's student. I study artificial intelligence, especially robotics, and I plan to continue towards a PhD abroad.",
+      "chinese": "我目前主要是硕士生。我学习人工智能，尤其机器人，计划下一步海外读博。",
+      "keywords": [
+        "my main role",
+        "a master's student"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-151",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Why did you choose to do that type of work (or that job)?",
+      "english": "I'm still studying, so I'd describe my subject rather than a current job. I was drawn to AI because it connects programming with problems that can have practical applications.",
+      "chinese": "我还在读书，所以会介绍专业而不是当前工作。我被AI吸引，是因为它把编程和有实际应用潜力的问题连接起来。",
+      "keywords": [
+        "drawn to",
+        "practical applications"
+      ],
+      "pending": [
+        "选专业动机为候选；按学生身份适配工作题。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P1-152",
+      "part": 1,
+      "title": "Work or studies",
+      "region": "大陆",
+      "text": "Do you like your job?",
+      "english": "I'm a master's student, so my studies are the better topic here. I enjoy programming and want to develop further research in embodied AI through an overseas PhD.",
+      "chinese": "我是硕士生，所以这里更适合谈学习。我喜欢编程，想通过海外博士继续开展具身智能研究。",
+      "keywords": [
+        "the better topic",
+        "embodied AI"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-038",
+      "part": 2,
+      "title": "在团队中工作",
+      "region": "大陆",
+      "text": "Describe a time when you worked in a group\nYou should say:\nWhat you did\nWho you worked with\nWhat problems you faced\nAnd explain why you worked in the group",
+      "english": "A time I worked in a group was during a university project related to robotics. I worked with three other students, and our aim was to create a small demonstration in which a robot responded to information from a computer program.\n\nWe divided the work according to our strengths. Some people focused on the robot's movement, while others dealt with the program and testing. I helped with the coding and tried to make the information passed between the different parts clear.\n\nThe main difficulty was that each part could work separately but still fail when we combined them. We had also made different assumptions about the format of the data. To deal with that, we agreed on a simple shared example and tested one connection at a time. Regular short discussions helped us notice problems before they became larger.\n\nWe worked as a group because the task required more than one type of knowledge, and sharing the work made it manageable. I found the process useful because I had to explain my thinking instead of only solve problems privately. I'm fairly quiet, but a clear task gives me something concrete to contribute. The experience showed me that cooperation includes careful listening as well as technical ability.",
+      "chinese": "我参加团队工作的一次经历，是大学里的一个机器人项目。我与另外三名学生合作，目标是做一个小型演示，让机器人能够根据电脑程序传来的信息作出反应。\n\n我们按照各自的优势分工。有些人负责机器人的运动，另一些人负责程序和测试。我帮忙写代码，并努力让不同部分之间的信息传递更清楚。\n\n主要困难是，每个部分单独都能工作，但组合起来仍然可能出问题。我们对数据格式也作出了不同的假设。为了解决这个问题，我们确定了一个简单的共同示例，每次只测试一个连接。定期进行简短讨论，也帮助我们在问题变大之前就发现它们。\n\n我们之所以组队，是因为任务需要不止一种知识，而分担工作能让任务更容易处理。我觉得这个过程很有用，因为我必须解释自己的思路，而不只是独自解决问题。我比较安静，但明确的任务让我有具体的事情可以贡献。这次经历让我看到，合作不仅需要技术能力，也需要认真倾听。",
+      "keywords": [
+        "robotics project",
+        "four students",
+        "coding",
+        "data format",
+        "shared testing"
+      ],
+      "pending": [
+        "机器人团队项目、四人、分工、接口问题和解决经过全部为授权候选；不宣称真实项目、已完成机器人演示或掌握技能。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-039",
+      "part": 2,
+      "title": "重要决定",
+      "region": "大陆",
+      "text": "Describe an important decision that you made\nYou should say:\nWhat the decision was\nHow you made your decision\nWhat the results of the decision were\nAnd explain why it was important",
+      "english": "An important decision I made was to plan for a PhD abroad. I started thinking seriously about that goal about a year ago, and it has become a direction for what I want to do after my master's degree.\n\nMy current subject is artificial intelligence, especially robotics. When considering the next step, I thought about both the research I wanted to pursue and the kind of education I hoped to experience. Studying abroad appealed to me because I wanted to broaden my perspective and learn in a more varied environment.\n\nI made the decision by comparing it with the option of ending my formal studies after the master's. I considered the time and effort involved, rather than only the attractive parts. The result so far is a clearer goal and a reason to take my English preparation seriously.\n\nThe decision matters because I want to deepen my research in embodied AI and help bring general-purpose intelligent robots into real-world use. That is a long-term aim, and I know it will involve difficult work. Having a direction doesn't remove that uncertainty, but it helps me choose what to focus on. For me, the importance lies in connecting further education with a purpose I genuinely care about.",
+      "chinese": "我作出的一个重要决定，是计划去海外读博士。大约一年前，我开始认真考虑这个目标，而它已经成为我硕士毕业后的一个发展方向。\n\n我现在的专业是人工智能，尤其关注机器人。考虑下一步时，我既思考了想继续开展什么研究，也思考了希望接受怎样的教育。海外学习吸引我，是因为我希望拓宽视野，在更加多元的环境中学习。\n\n作决定时，我把这条路与硕士毕业后不再继续正规学业的选择作了比较。我考虑了需要投入的时间和精力，而不只是它有吸引力的一面。目前的结果是，目标更加清晰，也让我有理由认真对待英语备考。\n\n这个决定很重要，因为我希望深化具身智能研究，帮助通用智能机器人走向实际应用。这是一个长期目标，我知道其中会有艰难的工作。有了方向并不能消除不确定性，但能帮助我决定把注意力放在哪里。对我来说，它的重要性在于把继续深造与一个我真正关心的目标联系起来。",
+      "keywords": [
+        "PhD abroad",
+        "about a year",
+        "broader perspective",
+        "English preparation",
+        "embodied AI"
+      ],
+      "pending": [
+        "海外博士意向、约一年规划、动机及具身智能研究方向已确认；具体比较决策过程和主观结果是候选。当前结果只写目标与准备，不写录取、申请已提交或已完成博士成果。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P2-040",
+      "part": 2,
+      "title": "喜欢的现场体育赛事",
+      "region": "大陆",
+      "text": "Describe a live sports event you watched and liked\nYou should say:\nWhat it was\nWhen and where you watched it\nWho you watched it with\nAnd explain why you liked it",
+      "english": "A live sports event I enjoyed was a basketball match between two student teams at university. I watched it last semester on a campus court with two classmates.\n\nIt wasn't a professional competition with famous athletes, but there was a lively atmosphere. Supporters stood near the court, and it was easy to see the players communicating and reacting to what happened. Because we were there in person, the changes in pace felt more immediate than they would on a screen.\n\nThe match stayed fairly close, so neither side could relax. One team played more carefully near the end, passed the ball patiently, and created a good chance instead of rushing. I liked watching how the players adjusted their decisions under pressure.\n\nI enjoyed the event because it combined a clear shared goal with teamwork. I didn't need to be an expert to appreciate a well-timed pass or someone helping a teammate recover from a mistake. Going with familiar classmates also made the experience comfortable. We could talk about the game afterwards without turning it into a loud social occasion. For me, it was an enjoyable break from studying and a practical example of cooperation happening in real time.",
+      "chinese": "我喜欢的一次现场体育赛事，是大学里两支学生队伍之间的篮球比赛。上学期，我和两位同学在校园球场观看了这场比赛。\n\n它并不是有著名运动员参加的职业比赛，但现场气氛很活跃。支持者站在场边，我们可以很清楚地看到球员怎样交流、怎样对场上的情况作出反应。因为是在现场，比赛节奏的变化比隔着屏幕观看更直接。\n\n双方的比分一直很接近，所以谁都不能放松。有一支队伍在接近结束时打得更加谨慎，耐心传球，创造出一个好机会，而不是急着出手。我喜欢观察球员怎样在压力下调整自己的决策。\n\n我喜欢这场比赛，是因为它把明确的共同目标与团队合作结合起来。即使不是专家，我也能欣赏一次时机恰好的传球，或者队友怎样帮助失误的球员重新调整。和熟悉的同学一起去，也让我感到自在。赛后我们可以聊聊比赛，而不必把它变成一场吵闹的社交活动。对我来说，这既是学习之余一次愉快的休息，也是在现场看到团队合作展开的具体例子。",
+      "keywords": [
+        "live basketball",
+        "campus court",
+        "two classmates",
+        "close match",
+        "teamwork"
+      ],
+      "pending": [
+        "校园现场篮球观看、上学期、两同学、赛况与喜欢原因全为授权候选。明确live现场而非电视或网络直播；不虚构用户看过正式大赛。"
+      ],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-219",
+      "part": 3,
+      "title": "近期改变的计划",
+      "region": "大陆",
+      "text": "How does technology help people make plans?",
+      "english": "Digital calendars can help people see deadlines and avoid conflicting appointments. Maps and booking platforms make travel plans easier, while shared documents help a group coordinate tasks. Still, technology cannot decide priorities for us. It is useful when the plan is clear, but adding too many reminders or complicated tools can make a simple task harder.",
+      "chinese": "电子日历帮助查看截止时间，避免预约冲突。地图和预订平台让旅行计划更容易，共享文档帮助团队协调任务。不过，技术不能替我们决定优先级。计划清晰时工具有用，但过多提醒或复杂工具反而让简单任务更难。",
+      "keywords": [
+        "digital calendars",
+        "coordinate tasks",
+        "decide priorities"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-220",
+      "part": 3,
+      "title": "近期改变的计划",
+      "region": "大陆",
+      "text": "What kind of plans do people often make?",
+      "english": "People make short-term plans for daily tasks, meetings and shopping, as well as longer plans for education, careers or major purchases. The level of detail should match the situation. A simple list may be enough for a weekend, while studying abroad requires several stages. Plans are most useful when they connect a clear goal with realistic next steps.",
+      "chinese": "人们为日常任务、会面和购物做短期计划，也为教育、职业或大额购买做长期计划。详细程度应适合具体情况：周末可能只需简单清单，留学则需多个阶段。当计划把明确目标与现实的下一步连接起来时，最有用。",
+      "keywords": [
+        "short-term plans",
+        "several stages",
+        "realistic next steps"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-221",
+      "part": 3,
+      "title": "近期改变的计划",
+      "region": "大陆",
+      "text": "Do you think people like the process of making plans more, or the moment of carrying them out?",
+      "english": "Different people enjoy different parts. Planning can be exciting because it allows them to imagine possibilities without facing difficulties yet. Carrying out the plan may be more satisfying because it produces a real result. Personally, I would value both, but I think a plan only proves useful when someone actually takes the steps needed to make it happen.",
+      "chinese": "不同的人喜欢不同环节。规划让人想象各种可能，还不用面对困难，因此可能很令人兴奋。执行产生实际结果，可能更有满足感。我会重视两者，但只有真正采取必要步骤，计划才能证明自己的价值。",
+      "keywords": [
+        "imagine possibilities",
+        "a real result",
+        "take the steps"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-222",
+      "part": 3,
+      "title": "在团队中工作",
+      "region": "大陆",
+      "text": "Why do some people prefer to work by themselves?",
+      "english": "Working alone gives people more control over their time and methods. It can also make concentration easier when a task requires detailed thinking. Some people find group discussions slow or stressful. However, independent work has limits: without feedback, mistakes may go unnoticed. I think the best choice depends on whether the task needs individual focus or several different skills.",
+      "chinese": "独立工作让人更能控制时间和方法，也有助于在需要细致思考时集中注意力。有些人觉得小组讨论缓慢或有压力。不过，缺少反馈时，错误可能被忽视。我认为应看任务更需要个人专注，还是多种不同技能。",
+      "keywords": [
+        "control over time",
+        "individual focus",
+        "without feedback"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-223",
+      "part": 3,
+      "title": "在团队中工作",
+      "region": "大陆",
+      "text": "What should a leader do to make team members want to follow him or her?",
+      "english": "A leader should make the purpose clear, listen to the team and treat people fairly. Members are more willing to cooperate when their work feels useful and their concerns are taken seriously. The leader also needs to keep promises and accept responsibility. Giving orders may produce short-term compliance, but trust is what encourages people to contribute willingly.",
+      "chinese": "领导应明确目标、倾听团队、公平待人。当工作有意义、顾虑被认真对待时，成员更愿意合作。领导也应守信、承担责任。命令可能带来短期服从，但信任才让人自愿贡献。",
+      "keywords": [
+        "a clear purpose",
+        "keep promises",
+        "trust"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-224",
+      "part": 3,
+      "title": "在团队中工作",
+      "region": "大陆",
+      "text": "Should students learn to do group work?",
+      "english": "Yes, because many real tasks require people with different skills to cooperate. Group work can teach students to explain ideas, share responsibilities and handle disagreement. However, it should be organised carefully so one person does not do everything. Teachers need to assess individual contributions as well as the final result, otherwise the lesson may simply become unfair.",
+      "chinese": "应该，因为许多实际任务需要不同技能的人合作。小组活动可以教学生表达想法、分担责任、处理分歧，但应合理组织，避免一个人包办。老师既要评价个人贡献，也要看最终成果，否则学习活动可能变得不公平。",
+      "keywords": [
+        "share responsibilities",
+        "handle disagreement",
+        "individual contributions"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-225",
+      "part": 3,
+      "title": "在团队中工作",
+      "region": "大陆",
+      "text": "What group tasks are there in schools?",
+      "english": "Schools can organise science projects, presentations, sports activities or discussions in small groups. Each task gives students a slightly different way to cooperate. For example, a presentation involves researching, organising information and speaking clearly. The task should have a shared goal and identifiable roles, so students practise teamwork rather than simply sit together while working separately.",
+      "chinese": "学校可以组织小组科学项目、展示、体育活动或讨论，每种任务训练的合作方式略有不同。例如，展示涉及查资料、整理信息和清楚表达。任务应有共同目标和明确角色，让学生真正练合作，而不是坐在一起各做各的。",
+      "keywords": [
+        "a shared goal",
+        "identifiable roles",
+        "science projects"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-226",
+      "part": 3,
+      "title": "在团队中工作",
+      "region": "大陆",
+      "text": "What advantages are there for students experiencing teamwork at school?",
+      "english": "Teamwork gives students practice in explaining ideas and listening to views they may not share. They can learn to divide a large task and combine different strengths. It also reveals how important reliability is when others depend on them. These lessons can be useful later at university or work, provided the group experience is fairly organised.",
+      "chinese": "团队合作让学生练习表达，也学习倾听自己未必认同的看法。他们能学会拆分大任务、结合不同优势，也会发现他人依赖自己时，可靠性有多重要。只要小组安排公平，这些经验对未来大学或工作都有用。",
+      "keywords": [
+        "different strengths",
+        "reliability",
+        "fairly organised"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-227",
+      "part": 3,
+      "title": "在团队中工作",
+      "region": "大陆",
+      "text": "How can you tell if a person is a good leader?",
+      "english": "I would look at how the person behaves when something goes wrong. A good leader listens, identifies the problem and helps the team move forward instead of blaming everyone. They also give credit fairly and make decisions transparently. Confidence is useful, but it is not enough; the team's trust and the quality of cooperation are better indicators.",
+      "chinese": "我会看出问题时这个人如何应对。好领导会倾听、识别问题，帮助团队前进，而不是责怪所有人。他们也会公平认可贡献、透明决策。自信有用，但不够；团队的信任和合作质量是更好的判断标准。",
+      "keywords": [
+        "when things go wrong",
+        "give credit fairly",
+        "team trust"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-228",
+      "part": 3,
+      "title": "重要决定",
+      "region": "大陆",
+      "text": "Do you think children sometimes have to make important decisions?",
+      "english": "Yes, children sometimes make choices that matter to them, such as choosing friends, joining an activity or deciding how to respond to bullying. Adults should not dismiss these decisions as trivial. Children need guidance that matches their age, but also opportunities to think for themselves. A small decision can have a significant effect on their confidence or wellbeing.",
+      "chinese": "会，比如选择朋友、参加活动，或决定如何应对欺凌，这些选择对孩子很重要。成人不应把它们当作小事。孩子需要符合年龄的指导，也需要独立思考机会。看似小的决定可能显著影响信心或身心状态。",
+      "keywords": [
+        "choices that matter",
+        "age-appropriate guidance",
+        "confidence"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-229",
+      "part": 3,
+      "title": "重要决定",
+      "region": "大陆",
+      "text": "What important decisions do teenagers need to make after graduation?",
+      "english": "They may need to decide whether to continue studying, enter training or look for work. If they continue their education, choosing a subject and a place to study can be important. These choices affect money, time and future opportunities. I think teenagers should compare realistic options and seek advice, while remembering that a first choice is not always permanent.",
+      "chinese": "他们可能需要决定继续学习、接受职业培训，还是找工作。如果继续读书，专业和学习地点也很重要。这些选择影响金钱、时间和未来机会。我认为应比较现实选项、寻求建议，同时记得首次选择并不总是永久的。",
+      "keywords": [
+        "realistic options",
+        "future opportunities",
+        "not always permanent"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    },
+    {
+      "id": "QB-20261008-01-P3-230",
+      "part": 3,
+      "title": "重要决定",
+      "region": "大陆",
+      "text": "Who can children turn to for help when making a decision?",
+      "english": "Children can ask parents, teachers or another trusted adult who understands the situation. Friends can provide emotional support, but may not have enough experience for every decision. The adult should explain options rather than immediately choose for the child. That way, the child receives help while still developing the confidence and skills needed to make decisions independently.",
+      "chinese": "孩子可以问父母、老师，或了解情况的可信成年人。朋友能提供情感支持，但未必对所有决定都有足够经验。成年人应解释选项，而不是立即代选。这样孩子既获得帮助，也培养独立决策所需的信心和技能。",
+      "keywords": [
+        "a trusted adult",
+        "explain options",
+        "decide independently"
+      ],
+      "pending": [],
+      "sourceIssue": "",
+      "version": "v01-full"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "day": 21,
+  "date": "2026-10-29",
+  "kind": "review",
+  "questionIds": [],
+  "counts": {
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  "minutes": 35,
+  "notes": "先补最早欠课，再抽旧题脱稿复练；不叠加一整天新题。",
+  "timezone": "Asia/Shanghai",
+  "recordsUrl": "../data/records.json",
+  "profileUrl": "../data/profile.json",
+  "selection": "Select from actual published records and user-confirmed unpublished work; no preassigned new questions.",
+  "questions": []
+}
